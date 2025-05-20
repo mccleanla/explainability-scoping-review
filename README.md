@@ -1,6 +1,5 @@
 # How “Operational Explainability” is conceptualised, designed & evaluated
 
-Repository
 This repository contains a CSV with the papers used for a scoping review of literature that will be reviewed to answer the following initial research question:
 
 _**In what ways are explanations conceptualised, designed, and evaluated to support users in operational human-ai systems across domains?**_
