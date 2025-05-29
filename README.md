@@ -17,7 +17,7 @@ Extracted results as extracted directly from the academic search engines (Scopus
 
 Explanations have become an important research topic in AI research. 
 
-Human–ai interactions in a safety-critical high stakes environment collaborating to achieve an outcome form a complex sociotechnical situation. Explanations systems containing "imperfect" AI components are necesssary for effective collaboration between humans and AI systems, and in particular to ensure timely updates and effective handover when humans need to swiftly adapt in a high-stakes situation to ensure safe outcomes.
+Human–ai interactions in a safety-critical high stakes environment collaborating to achieve an outcome form a complex sociotechnical situation. 
 
 Operational explainability (OpXAI), distinct from technical explainability (XAI), is an emergent requirement for Human-AI Teams where humans collaborate with intelligent systems, and has been recently defined by EASA as “the need for end users to receive clear, relevant, and reliable information on how an system reaches its conclusions.” EASA indicates an important evaluation characteristic is “time required to obtain an explanation”, emphasising the delivery of information at the right level of detail and timing, ensuring that explanations are clear, actionable, and tailored to real-world operational needs. 
 
