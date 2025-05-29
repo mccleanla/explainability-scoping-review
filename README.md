@@ -6,10 +6,11 @@ _**In what ways are explanations conceptualised, designed, and evaluated to supp
 
 PRISMA requires detailed reporting of the search for each source, including dates searched and any limits used. 
 
-Search Strategy is here: [1. Search Strategy](<1. Search Strategy>)
-Search Strings and per-database count post keyword piloting are here: [0. Search Results](<0. Search Results>)
+Search Strategy is here:  [1. Search Strategy](explainability-scoping-review/2a.%20Search%20Query%20Development/1.%20Search%20Strategy.md)
 
-Extracted results as extracted directly from the academic search engines (Scopus, Web of Science, IEEE, ACM, Medline, Proquest ) are in the folder  [https://github.com/mccleanla/explainability-scoping-review/tree/main/3.%20Extracted%20Papers](https://github.com/mccleanla/explainability-scoping-review/tree/main/3.%20Extracted%20Papers)..  
+Search Strings and per-database count post keyword piloting are here: [0. Search Results](explainability-scoping-review/2b.%20Database%20Search%20Strings/0.%20Search%20Results.md)
+
+Extracted results as extracted directly from the academic search engines (Scopus, Web of Science, IEEE, ACM, Medline, Proquest ) are in the folder  ["3. Extracted Papers"](https://github.com/mccleanla/explainability-scoping-review/tree/main/3.%20Extracted%20Papers)..  
 
 
 **Context**
