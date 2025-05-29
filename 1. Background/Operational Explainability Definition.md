@@ -59,3 +59,41 @@ They are both focused on ==closing the gap between what is being explained to us
 	- In other words, ==minimizing miscommunication and misinterpretation.
 
 
+---
+**Kirwan, B. (2025) ‘Human Factors requirements for human-AI Teaming in aviation’,** _Preprints_. Available at: https://doi.org/10.20944/preprints202501.0974.v1.
+
+Shift in degree of autonomy affects the relationship between the human and the AI-based automation in two ways. 
+- First, the information or advice, or even executive action, can be based on calculations that are opaque to the end users (e.g. pilots), because the level of complexity and transparency of how AIs derive their answers mean that ==no amount of theoretical training for pilots will enable them to follow the AI’s ‘reasoning’, unless an additional layer of such ‘explainability’ is afforded to the pilot by the AI-based automation==. The pilot must therefore come to trust the IA, or its advice will be rejected. 
+- Second, the role of the pilot is affected, because currently the pilot is always in command and ready (i.e. trained) to take over in case the automation (e.g. automatic landing) fails. The fundamental notion of collaboration suggests an inter-dependence, that such control becomes to a greater or lesser degree shared between human and AI.
+
+new issues such as operational explainability of AI systems may require completely new approaches  or design requirements.
+
+There will need to be operational explainability ( OpXAI), so that the human crews  can determine (i.e. make sense of) why a course of action has been recommended (or taken) by the  AI. Such explainability needs to be in an operational context in language that crews can follow (as  opposed to data analytic explainability, which refers more to how to trace an AI’s outputs to its  internal architecture, data sources and algorithmic processes).
+
+Observability  refers  to  the  transparency  of  the  progress  of  the  AI  agent  when  resolving  a  problem, and can be linked to explainability, though in practice the AI’s workings might be routinely  monitored  via  some  kind  of  dashboard  or  other  visualisation  rather  than  a  stream  of  textual  explanations, albeit with the user able to pose questions as needed.
+
+![[haiku.png]]
+
+**Sense-Making**  –  this  is  where  shared  situation  awareness,  operational  explainability,  and  human-AI interaction sit, and as such has the largest number of requirements. 
+- Arguably this  area could be entitled (shared) situation awareness, but **sense-making includes not only what is  happening  and  going  to  happen,  but  why  it  is  happening,  and  why  the  AI  makes  certain  assessments and predictions.**
+
+HF requirements:
+- Is all the required information presented to the user in an uncluttered way? 
+- Is the interaction medium appropriate for the task, e.g. keyboard, touchscreen, voice, and even gesture recognition?
+- Do visual/oral/auditory displays and controls follow Human Factors guidance (e.g. colour coding, luminance, auditory  range etc.)? 
+- Does the location of a new AI interface with the operational workplace support rather than hinder critical operations? 
+- Does the AI-human interface reinforce the end-user’s situation awareness.   
+- in cases of moderate (or higher) uncertainty, are alternative suggestions/explanations offered? 
+- Can the human query the information/decision via an explainability function? 
+- Can the AI provide alternatives, along with likelihood estimates? 
+- Is the end-user aware of the key parameters the AI is optimising? Can the end-user alter them? 
+- Can the human view both data that were used and data that were ignored by the AI, e.g. anomalies or outliers?
+
+ERROR & FAILURE MANAGEMENT 
+- Is the human trained on AI error modes and how to verify AI results?   
+- Are users trained to recognise and take corrective action on strange or erroneous AI outputs? 
+- Has the human seen examples of AI incorrect information / advice in simulation training? 
+- Does the AI inform the end-user of a detected / predicted shift from normal to emergency or degraded mode?   
+- Are  there  sufficient  independent  (non-AI)  displays  of  critical  functions  to  allow  the  human  to  verify  that  context  is  changing?   
+- Are end users trained to recognise unsafe AI operating conditions and to take corrective action? 
+- Is it clear that the AI won’t interfere with existing alerts and warning systems?

@@ -4,7 +4,13 @@ This repository contains a CSV with the papers used for a scoping review of lite
 
 _**In what ways are explanations conceptualised, designed, and evaluated to support users in operational human-ai systems across domains?**_
 
-PRISMA requires detailed reporting of the search for each source, including dates searched and any limits used. The unlabeled papers, as extracted directly from the academic search engines (Scopus, IEEE, ACM, PsycInfo, Medline), can be found in the subfolder "**Unlabeled Papers (all)**" with the date of the search recorded.
+PRISMA requires detailed reporting of the search for each source, including dates searched and any limits used. 
+
+Search Strategy is here: [[1. Search Strategy]]
+Search Strings and per-database count post keyword piloting are here: [[0. Search Results]]
+
+Extracted results as extracted directly from the academic search engines (Scopus, Web of Science, IEEE, ACM, Medline, Proquest ) are in the folder "3. Extracted Papers".  
+
 
 **Context**
 
@@ -19,9 +25,17 @@ To determine the operational explainability of a system requires asking question
 - How should they be communicated? When?
 - How are overarching decision-making processes in an operational context considered, where they involve multiple stakeholders and roles?
 
+Some background quotes from literature sources here: [[Operational Explainability Definition]]
+
+---
+## Rationale for this work
+
+Whilst much is written about XAI and HCXAI, it is not clear how operational explainability is treated in the AI lifecycle from conceptualisation to design to evaluation.
+
 No scoping review covers this topic explicitly, for example there is much less focus on temporal factors related to operational decision making environments and the multiple stakeholders involved in real world contexts of decision making beyond a single human-ai interaction. 
 
 In this paper, I will map out how operational explainability is conceptualised, designed and evaluated, surveying the field via a scoping review. 
 
 In addition to the typical introspective explanation tackled by explainability researchers, I will look at assistive explanations, aiming to support the user with their task. I will survey what causes the need for an explanation in the first place. 
+
 
