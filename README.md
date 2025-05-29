@@ -9,7 +9,7 @@ PRISMA requires detailed reporting of the search for each source, including date
 Search Strategy is here: [[1. Search Strategy]]
 Search Strings and per-database count post keyword piloting are here: [[0. Search Results]]
 
-Extracted results as extracted directly from the academic search engines (Scopus, Web of Science, IEEE, ACM, Medline, Proquest ) are in the folder "3. Extracted Papers".  
+Extracted results as extracted directly from the academic search engines (Scopus, Web of Science, IEEE, ACM, Medline, Proquest ) are in the folder https://github.com/mccleanla/explainability-scoping-review/tree/main/3.%20Extracted%20Papers.  
 
 
 **Context**
