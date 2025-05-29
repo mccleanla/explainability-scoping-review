@@ -1,0 +1,951 @@
+﻿TY  - JOUR
+AU  - Bienefeld, N
+AU  - Keller, E
+AU  - Grote, G
+TI  - Human-AI Teaming in Critical Care: A Comparative Analysis of Data Scientists' and Clinicians' Perspectives on AI Augmentation and Automation
+T2  - JOURNAL OF MEDICAL INTERNET RESEARCH
+AB  - Background: Artificial intelligence (AI) holds immense potential for enhancing clinical and administrative health care tasks. However, slow adoption and implementation challenges highlight the need to consider how humans can effectively collaborate with AI within broader socio-technical systems in health care. Objective: In the example of intensive care units (ICUs), we compare data scientists' and clinicians' assessments of the optimal utilization of human and AI capabilities by determining suitable levels of human-AI teaming for safely and meaningfully augmenting or automating 6 core tasks. The goal is to provide actionable recommendations for policy makers and health care practitioners regarding AI design and implementation. Methods: In this multimethod study, we combine a systematic task analysis across 6 ICUs with an international Delphi survey involving 19 health data scientists from the industry and academia and 61 ICU clinicians (25 physicians and 36 nurses) to define and assess optimal levels of human-AI teaming (level 1=no performance benefits; level 2=AI augments human performance; level 3=humans augment AI performance; level 4=AI performs without human input). Stakeholder groups also considered ethical and social implications. Results: Both stakeholder groups chose level 2 and 3 human-AI teaming for 4 out of 6 core tasks in the ICU. For one task (monitoring), level 4 was the preferred design choice. For the task of patient interactions, both data scientists and clinicians agreed that AI should not be used regardless of technological feasibility due to the importance of the physician-patient and nurse-patient relationship and ethical concerns. Human-AI design choices rely on interpretability, predictability, and control over AI systems. If these conditions are not met and AI performs below human-level reliability, a reduction to level 1 or shifting accountability away from human end users is advised. If AI performs at or beyond human-level reliability and these conditions are not met, shifting to level 4 automation should be considered to ensure safe and efficient human-AI teaming. Conclusions: By considering the sociotechnical system and determining appropriate levels of human-AI teaming, our study showcases the potential for improving the safety and effectiveness of AI usage in ICUs and broader health care settings. Regulatory measures should prioritize interpretability, predictability, and control if clinicians hold full accountability. Ethical and social implications must be carefully evaluated to ensure effective collaboration between humans and AI, particularly considering the most recent advancements in generative AI.
+AD  - Swiss Fed Inst Technol, Dept Management Technol & Econ, Zurich, SwitzerlandAD  - Univ Hosp, Inst Intens Care Med, Dept Neurosurg, Zurich, SwitzerlandAD  - Univ Zurich, Zurich, SwitzerlandDA  - JUL 24
+PY  - 2024
+VL  - 26
+C7  - e50130
+DO  - 10.2196/50130
+AN  - WOS:001297028800001
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+ER  -
+
+TY  - JOUR
+AU  - Lindgren, H
+TI  - Emerging Roles and Relationships Among Humans and Interactive AI Systems
+T2  - INTERNATIONAL JOURNAL OF HUMAN-COMPUTER INTERACTION
+AB  - Metaphors have for long time been used for describing and explaining the roles of technology in human activity. Such descriptions are embedding an increasing level of ambience, where technology is expected to sense, interpret, and adapt to an individual's needs and wishes, while at the same time, the demands for transparency and accountability is making way for new regulations and guidelines for systems based on artificial intelligence (AI). The purpose of this research is to explore social roles of humans and AI systems, and to identify open research questions and challenges when designing for transparency and sense of control. A socio-technical relationship framework was developed for assessing the social roles of AI systems, and for designing for change in roles and relationships. The framework was developed based on activity theory, metaphors for human-technology interaction, and emergent research on human-AI collaboration. By focusing on meaningful shared activity, the situations when technology is socially and personally relevant can be distinguished from the situations where technology is functionally relevant. The identified roles are partly overlapping and fluent depending on the situation, which increases the need for transparency and accountability, and consequently, AI techniques that allows explainability, negotiation and adaptation of the enacted roles. The framework is exemplified in two case studies to elicit role transformations in a work and a home environment respectively, where an individual's changing need for supporting development of capabilities and autonomy through AI-based technology are addressed. We identify a number of open research questions and propose to apply the framework to capture and design for developing capability in humans and AI systems, collaborative capabilities in human-AI teaming, and for eliciting the ethical and moral consequences of AI systems operating within a person's zone of development.
+AD  - Umea Univ, Dept Comp Sci, Umea, SwedenDA  - 2024 DEC 13
+PY  - 2024
+DO  - 10.1080/10447318.2024.2435693
+C6  - DEC 2024
+AN  - WOS:001378463100001
+N1  - Times Cited in Web of Science Core Collection:  3
+Total Times Cited:  3
+ER  -
+
+TY  - JOUR
+AU  - Jiang, HR
+AU  - Shi, SH
+AU  - Zhang, SH
+AU  - Zheng, J
+AU  - Li, Q
+TI  - SLInterpreter: An Exploratory and Iterative Human-AI Collaborative System for GNN-based Synthetic Lethal Prediction
+T2  - IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS
+AB  - Synthetic Lethal (SL) relationships, though rare among the vast array of gene combinations, hold substantial promise for targeted cancer therapy. Despite advancements in AI model accuracy, there is still a significant need among domain experts for interpretive paths and mechanism explorations that align better with domain-specific knowledge, particularly due to the high costs of experimentation. To address this gap, we propose an iterative Human-AI collaborative framework with two key components: 1) Human-Engaged Knowledge Graph Refinement based on Metapath Strategies, which leverages insights from interpretive paths and domain expertise to refine the knowledge graph through metapath strategies with appropriate granularity. 2) Cross-Granularity SL Interpretation Enhancement and Mechanism Analysis, which aids experts in organizing and comparing predictions and interpretive paths across different granularities, uncovering new SL relationships, enhancing result interpretation, and elucidating potential mechanisms inferred by Graph Neural Network (GNN) models. These components cyclically optimize model predictions and mechanism explorations, enhancing expert involvement and intervention to build trust. Facilitated by SLInterpreter, this framework ensures that newly generated interpretive paths increasingly align with domain knowledge and adhere more closely to real-world biological principles through iterative Human-AI collaboration. We evaluate the framework's efficacy through a case study and expert interviews.
+AD  - ShanghaiTech Univ, Sch Informat Sci & Technol, Shanghai, Peoples R ChinaAD  - Shanghai Engn Res Ctr Intelligent Vis & Imaging, Shanghai, Peoples R ChinaDA  - JAN
+PY  - 2025
+VL  - 31
+IS  - 1
+SP  - 919
+EP  - 929
+DO  - 10.1109/TVCG.2024.3456325
+AN  - WOS:001449829900075
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+ER  -
+
+TY  - JOUR
+AU  - Zhang, R
+AU  - Flathmann, C
+AU  - Musick, G
+AU  - Schelble, B
+AU  - McNeese, NJ
+AU  - Knijnenburg, B
+AU  - Duan, W
+TI  - I Know This Looks Bad, But I Can Explain: Understanding When AI Should Explain Actions In Human-AI Teams
+T2  - ACM TRANSACTIONS ON INTERACTIVE INTELLIGENT SYSTEMS
+AB  - Explanation of artificial intelligence (AI) decision-making has become an important research area in humancomputer interaction (HCI) and computer-supported teamwork research. While plenty of research has investigated AI explanations with an intent to improve AI transparency and human trust in AI, how AI explanations function in teaming environments remains unclear. Given that a major benefit of AI giving explanations is to increase human trust understanding howAI explanations impact human trust is crucial to effective human-AI teamwork. An online experiment was conducted with 156 participants to explore this question by examining how a teammate's explanations impact the perceived trust of the teammate and the effectiveness of the team and how these impacts vary based on whether the teammate is a human or an AI. This study shows that explanations facilitate trust in AI teammates when explaining why AI disobeyed humans' orders but hindered trust when explaining why an AI lied to humans. In addition, participants' personal characteristics (e.g., their gender and the individual's ethical framework) impacted their perceptions of AI teammates both directly and indirectly in different scenarios. Our study contributes to interactive intelligent systems and HCI by shedding light on how an AI teammate's actions and corresponding explanations are perceived by humans while identifying factors that impact trust and perceived effectiveness. This work provides an initial understanding of AI explanations in human-AI teams, which can be used for future research to build upon in exploring AI explanation implementation in collaborative environments.
+AD  - Clemson Univ, Clemson, SC 29634 USADA  - JAN
+PY  - 2024
+VL  - 14
+IS  - 1
+C7  - 6
+DO  - 10.1145/3635474
+AN  - WOS:001193993900006
+N1  - Times Cited in Web of Science Core Collection:  5
+Total Times Cited:  5
+ER  -
+
+TY  - JOUR
+AU  - Herrera, F
+TI  - Reflections and attentiveness on eXplainable Artificial Intelligence (XAI). The journey ahead from criticisms to human-AI collaboration
+T2  - INFORMATION FUSION
+AB  - The emergence of deep learning over the past decade has driven the development of increasingly complex AI models, amplifying the need for Explainable Artificial Intelligence (XAI). As AI systems grow in size and complexity, ensuring interpretability and transparency becomes essential, especially in high-stakes applications. With the rapid expansion of XAI research, addressing emerging debates and criticisms requires a comprehensive examination. This paper explores the complexities of XAI from multiple perspectives, proposing six key axes that shed light on its role in human-AI interaction and collaboration. First, it examines the imperative of XAI under the dominance of black-box AI models. Given the lack of definitional cohesion, the paper argues that XAI must be framed through the lens of audience and understanding, highlighting its different uses in AI-human interaction. The recent BLUE vs. RED XAI distinction is analyzed through this perspective. The study then addresses the criticisms of XAI, evaluating its maturity, current trajectory, and limitations in handling complex problems. The discussion then shifts to explanations as a bridge between AI models and human understanding, emphasizing the importance of usability of explanations in human-AI decision making. Key aspects such as AI reliance, human intuition, and emerging collaboration theories - including the human-algorithm centaur and co-intelligence paradigms - are explored in connection with XAI. The medical field is considered as a case study, given its extensive research on collaboration between doctors and AI through explainability. The paper proposes a framework to evaluate the maturity of XAI using three dimensions: practicality, auditability, and AI governance. Provide the final lessons learned focused on trends and questions to tackle in the near future. This is an in-depth exploration of the impact and urgency of XAI in the era of pervasive expansion of AI. Three Key reflections from this study include: (a) XAI must enhance cognitive engagement with explanations, (b) it must evolve to fully address why, what, and for what purpose explanations are needed, and (c) it plays a crucial role in building societal trust in AI. By advancing XAI in these directions, we can ensure that AI remains transparent, auditable, and accountable, and aligned with human needs.
+AD  - Univ Granada, Andalusian Inst Data Sci & Computat Intelligence D, Dept Comp Sci & Artificial Intelligence, Granada, SpainAD  - ADIA Lab, Abu Dhabi, U Arab EmiratesDA  - SEP
+PY  - 2025
+VL  - 121
+C7  - 103133
+DO  - 10.1016/j.inffus.2025.103133
+C6  - MAR 2025
+AN  - WOS:001460341800001
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+ER  -
+
+TY  - JOUR
+AU  - Wang, ZH
+AU  - Wang, JC
+AU  - Tian, CY
+AU  - Ali, A
+AU  - Yin, XC
+TI  - Adopting AI teammates in knowledge-intensive crowdsourcing contests: the roles of transparency and explainability
+T2  - KYBERNETES
+AB  - PurposeAs the role of AI on human teams shifts from a tool to a teammate, the implementation of AI teammates into knowledge-intensive crowdsourcing (KI-C) contest teams represents a forward-thinking and feasible solution to improve team performance. Since contest teams are characterized by virtuality, temporality, competitiveness, and skill diversity, the human-AI interaction mechanism underlying conventional teams is no longer applicable. This study empirically analyzes the effects of AI teammate attributes on human team members' willingness to adopt AI in crowdsourcing contests.Design/methodology/approachA questionnaire-based online experiment was designed to perform behavioral data collection. We obtained 206 valid anonymized samples from 28 provinces in China. The Ordinary Least Squares (OLS) model was used to test the proposed hypotheses.FindingsWe find that the transparency and explainability of AI teammates have mediating effects on human team members' willingness to adopt AI through trust. Due to the different tendencies exhibited by members with regard to three types of cognitive load, nonlinear U-shaped relationships are observed among explainability, cognitive load, and willingness to adopt AI.Originality/valueWe provide design ideas for human-AI team mechanisms in KI-C scenarios, and rationally explain how the U-shaped relationship between AI explainability and cognitive load emerges.
+AD  - Nanjing Univ Sci & Technol, Sch Cyber Sci & Engn, Wuxi, Peoples R ChinaAD  - Zhejiang Sci Tech Univ, Sch Econ & Management, Hangzhou, Peoples R ChinaDA  - 2024 JUN 3
+PY  - 2024
+DO  - 10.1108/K-02-2024-0478
+C6  - JUN 2024
+AN  - WOS:001234502900001
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+ER  -
+
+TY  - JOUR
+AU  - Tsiakas, K
+AU  - Murray-Rust, D
+TI  - Unpacking Human-AI interactions: From Interaction Primitives to a Design Space
+T2  - ACM TRANSACTIONS ON INTERACTIVE INTELLIGENT SYSTEMS
+AB  - This article aims to develop a semi-formal representation for Human-AI (HAI) interactions, by building a set of interaction primitives which can specify the information exchanges between users and AI systems during their interaction. We show how these primitives can be combined into a set of interaction patterns which can capture common interactions between humans and AI/ML models. The motivation behind this is twofold: firstly, to provide a compact generalization of existing practices for the design and implementation of HAI interactions; and secondly, to support the creation of new interactions by extending the design space of HAI interactions. Taking into consideration frameworks, guidelines, and taxonomies related to human-centered design and implementation of AI systems, we define a vocabulary for describing information exchanges based on the model's characteristics and interactional capabilities. Based on this vocabulary, a message passing model for interactions between humans and models is presented, which we demonstrate can account for existing HAI interaction systems and approaches. Finally, we build this into design patterns which can describe common interactions between users and models, and we discuss how this approach can be used toward a design space for HAI interactions that creates new possibilities for designs as well as keeping track of implementation issues and concerns.
+AD  - Delft Univ Technol, Delft, NetherlandsDA  - SEP
+PY  - 2024
+VL  - 14
+IS  - 3
+C7  - 3664522
+DO  - 10.1145/3664522
+AN  - WOS:001325864200003
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+ER  -
+
+TY  - JOUR
+AU  - Prasad, KDV
+AU  - Singh, S
+AU  - Hiran, D
+AU  - Agarwal, P
+AU  - Kothari, H
+TI  - Analyzing Factors Influencing Technology Adoption in Healthcare: A Structural Equation Modeling Perspective
+T2  - PACIFIC BUSINESS REVIEW INTERNATIONAL
+AB  - Trust is a cornerstone of effective human-AI collaboration, particularly in an era of rapid digitalization where AI systems are increasingly integrated into decision-making processes across various sectors. This study investigates the critical factors influencing trust namely Transparency, Interpretability, and Satisfaction, and their sector-specific dynamics in healthcare, finance, and customer service. Utilizing a crosssectional survey of 500 participants and stratified sampling, the research highlights pivotal role of transparency and interpretability in fostering trust, particularly in high-stakes sectors such as healthcare and finance. Transparency (fl = 0.512, p < 0.001) and interpretability ((3 = 0.602, p < 0.001) significantly enhance trust, with stronger effects observed in healthcare ( El 2 = 0.494) and finance (02 = 0.511) compared to customer service ( E 2= 0.374). Satisfaction had been emerged as a crucial mediating variable that amplifies the relationship between transparency and trust. The indirect effect of transparency on trust through satisfaction ((3 = 0.223, p < 0.001) underscores the importance of user-centric design in building trust. Furthermore, satisfaction demonstrates a stronger influence on trust in customer service ( E =0.653), emphasizing its importance in customer-facing applications. This study provides theoretical contributions by extending trust frameworks to sector- specific contexts and offers actionable insights for AI system developers and policymakers. The findings advocate for tailored trust-building strategies, prioritizing transparency and interpretability in healthcare and finance, while emphasizing user satisfaction in customer service. The research will advances the understanding of trust dynamics in human-AI collaboration, addressing the ethical, operational, and design challenges ofAl systems in a digitalized world.
+AD  - Symbiosis Inst Business Management, Hyderabad, IndiaAD  - Symbiosis Int Univ, Pune, IndiaAD  - Govt Meera Girls Coll, Udaipur, IndiaAD  - Pacific Acad Higher Educ & Res Univ, Udaipur, IndiaDA  - JAN
+PY  - 2025
+VL  - 17
+IS  - 7
+SP  - 83
+EP  - 98
+AN  - WOS:001439248200008
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+ER  -
+
+TY  - JOUR
+AU  - Pagliari, M
+AU  - Chambon, V
+AU  - Berberian, B
+TI  - What is new with Artificial Intelligence? Human-agent interactions through the lens of social agency
+T2  - FRONTIERS IN PSYCHOLOGY
+AB  - In this article, we suggest that the study of social interactions and the development of a "sense of agency" in joint action can help determine the content of relevant explanations to be implemented in artificial systems to make them "explainable." The introduction of automated systems, and more broadly of Artificial Intelligence (AI), into many domains has profoundly changed the nature of human activity, as well as the subjective experience that agents have of their own actions and their consequences - an experience that is commonly referred to as sense of agency. We propose to examine the empirical evidence supporting this impact of automation on individuals' sense of agency, and hence on measures as diverse as operator performance, system explicability and acceptability. Because of some of its key characteristics, AI occupies a special status in the artificial systems landscape. We suggest that this status prompts us to reconsider human-AI interactions in the light of human-human relations. We approach the study of joint actions in human social interactions to deduce what key features are necessary for the development of a reliable sense of agency in a social context and suggest that such framework can help define what constitutes a good explanation. Finally, we propose possible directions to improve human-AI interactions and, in particular, to restore the sense of agency of human operators, improve their confidence in the decisions made by artificial agents, and increase the acceptability of such agents.
+AD  - Paris Sci & Lettres Univ, Ecole Normale Super, CNRS, Inst Jean Nicod,Dept Etud Cognit, Paris, FranceAD  - Off Natl Etud & Rech Aerosp, Informat Proc & Syst, Salon De Provence, FranceDA  - SEP 29
+PY  - 2022
+VL  - 13
+C7  - 954444
+DO  - 10.3389/fpsyg.2022.954444
+AN  - WOS:000868508100001
+N1  - Times Cited in Web of Science Core Collection:  12
+Total Times Cited:  12
+ER  -
+
+TY  - JOUR
+AU  - Senoner, J
+AU  - Schallmoser, S
+AU  - Kratzwald, B
+AU  - Feuerriegel, S
+AU  - Netland, T
+TI  - Explainable AI improves task performance in human-AI collaboration
+T2  - SCIENTIFIC REPORTS
+AB  - Artificial intelligence (AI) provides considerable opportunities to assist human work. However, one crucial challenge of human-AI collaboration is that many AI algorithms operate in a black-box manner where the way how the AI makes predictions remains opaque. This makes it difficult for humans to validate a prediction made by AI against their own domain knowledge. For this reason, we hypothesize that augmenting humans with explainable AI improves task performance in human-AI collaboration. To test this hypothesis, we implement explainable AI in the form of visual heatmaps in inspection tasks conducted by domain experts. Visual heatmaps have the advantage that they are easy to understand and help to localize relevant parts of an image. We then compare participants that were either supported by (a) black-box AI or (b) explainable AI, where the latter supports them to follow AI predictions when the AI is accurate or overrule the AI when the AI predictions are wrong. We conducted two preregistered experiments with representative, real-world visual inspection tasks from manufacturing and medicine. The first experiment was conducted with factory workers from an electronics factory, who performed \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$N=9,600$$\end{document} assessments of whether electronic products have defects. The second experiment was conducted with radiologists, who performed \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$N=5,650$$\end{document} assessments of chest X-ray images to identify lung lesions. The results of our experiments with domain experts performing real-world tasks show that task performance improves when participants are supported by explainable AI with heatmaps instead of black-box AI. We find that explainable AI as a decision aid improved the task performance by 7.7 percentage points (95% confidence interval [CI]: 3.3% to 12.0%, \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$P=0.001$$\end{document}) in the manufacturing experiment and by 4.7 percentage points (95% CI: 1.1% to 8.3%, \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$P=0.010$$\end{document}) in the medical experiment compared to black-box AI. These gains represent a significant improvement in task performance.
+AD  - Swiss Fed Inst Technol, Zurich, SwitzerlandAD  - Ludwig Maximilians Univ Munchen, Munich, GermanyAD  - Munich Ctr Machine Learning MCML, Munich, GermanyAD  - EthonAI, Zurich, SwitzerlandDA  - DEC 28
+PY  - 2024
+VL  - 14
+IS  - 1
+C7  - 31150
+DO  - 10.1038/s41598-024-82501-9
+AN  - WOS:001386530100002
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+ER  -
+
+TY  - JOUR
+AU  - Mortenson, T
+AU  - Kovesdi, C
+AU  - Mohon, J
+TI  - Human Factors Considerations in Artificial Intelligence Applications for Nuclear Power Plants
+T2  - NUCLEAR TECHNOLOGY
+AB  - In recent years, there has been a wave of artificial intelligence (AI) technologies that offer to solve problems from shopping habits to mortgage approvals to critical systems operations. The rapidity of the development of these systems has led to both excitement and apprehension about the roles these systems should play in our modern societies. This paper focuses on the critical infrastructure industry, in general, and nuclear power generation, in particular, and seeks to scrutinize how we can leverage these novel technologies in human-centered ways to maintain or enhance the established high levels of reliability and resilience in these industries. First, we discuss the broader aspects of cognitive systems and activities that are critical to understanding the human-AI space. Then we explore different approaches to explainability in AI and the notions of trust. We then move on to discuss several human factors concepts and methods and how they can support the design of human-AI teams. We then explore recent research related to nuclear power that has been undertaken and evaluate the current industry and regulatory landscapes. Finally, we discuss identified research gaps and recommendations for solving these for the critical infrastructure space.
+AD  - Idaho Natl Lab, Human Factors & Reliabil, Idaho Falls, ID 83415 USADA  - 2024 OCT 25
+PY  - 2024
+DO  - 10.1080/00295450.2024.2411153
+C6  - OCT 2024
+AN  - WOS:001339583200001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+ER  -
+
+TY  - JOUR
+AU  - Berretta, S
+AU  - Tausch, A
+AU  - Ontrup, G
+AU  - Gilles, B
+AU  - Peifer, C
+AU  - Kluge, A
+TI  - Defining human-AI teaming the human-centered way: a scoping review and network analysis
+T2  - FRONTIERS IN ARTIFICIAL INTELLIGENCE
+AB  - Introduction: With the advancement of technology and the increasing utilization of AI, the nature of human work is evolving, requiring individuals to collaborate not only with other humans but also with AI technologies to accomplish complex goals. This requires a shift in perspective from technology-driven questions to a human-centered research and design agenda putting people and evolving teams in the center of attention. A socio-technical approach is needed to view AI as more than just a technological tool, but as a team member, leading to the emergence of human-AI teaming (HAIT). In this new form of work, humans and AI synergistically combine their respective capabilities to accomplish shared goals.Methods: The aim of our work is to uncover current research streams on HAIT and derive a unified understanding of the construct through a bibliometric network analysis, a scoping review and synthetization of a definition from a socio-technical point of view. In addition, antecedents and outcomes examined in the literature are extracted to guide future research in this field.Results: Through network analysis, five clusters with different research focuses on HAIT were identified. These clusters revolve around (1) human and (2) task-dependent variables, (3) AI explainability, (4) AI-driven robotic systems, and (5) the effects of AI performance on human perception. Despite these diverse research focuses, the current body of literature is predominantly driven by a technology-centric and engineering perspective, with no consistent definition or terminology of HAIT emerging to date.Discussion: We propose a unifying definition combining a human-centered and team-oriented perspective as well as summarize what is still needed in future research regarding HAIT. Thus, this work contributes to support the idea of the Frontiers Research Topic of a theoretical and conceptual basis for human work with AI systems.
+AD  - Ruhr Univ Bochum, Dept Psychol Org & Business Psychol, Bochum, GermanyAD  - Univ Lubeck, Dept Psychol 1, Lubeck, GermanyDA  - SEP 29
+PY  - 2023
+VL  - 6
+C7  - 1250725
+DO  - 10.3389/frai.2023.1250725
+AN  - WOS:001094695600001
+N1  - Times Cited in Web of Science Core Collection:  17
+Total Times Cited:  17
+ER  -
+
+TY  - JOUR
+AU  - Kirkby, A
+AU  - Baumgarth, C
+AU  - Henseler, J
+TI  - Welcome, new brand colleague! A conceptual framework for efficient and effective human-AI co-creation for creative brand voice
+T2  - JOURNAL OF BRAND MANAGEMENT
+AB  - The rapid advancement of artificial intelligence (AI) capabilities has extended into creative realms, presenting opportunities for creative collaboration between human brand professionals and AI in support of brand voice efforts. However, there remains little clarity regarding the implementation of this creative interaction. With a conceptual approach, the current research proposes a three-level framework of human-AI co-creation for creative brand voice that highlights key factors that can facilitate brand efficiency and effectiveness at the individual (AI task roles, co-creation teaming, knowledge and skills), organisational (infrastructure and brand voice database, socialisation), and societal (responsibility and accountability, AI transparency, brand voice copyright) levels. Each level presents different challenges and insights. At the individual level, it is critical to consider operational processes; at the organisational level, managing the interactions is key; and at the societal level, external influences must be accounted for, to manage the brand. This research contribution in turn offers theoretical guidance, aligned with a high-level brand management perspective, on how to pursue efficiency and effectiveness at three defined levels, as well as relevant avenues for further research.
+AD  - Univ Twente, Dept Design Prod & Management, Enschede, NetherlandsAD  - Hsch Wirtschaft & Recht Berlin, FB Wirtschaftswissensch 1, Berlin, GermanyAD  - Univ Nova Lisboa, Lisbon, PortugalDA  - 2025 MAY 14
+PY  - 2025
+DO  - 10.1057/s41262-025-00387-y
+C6  - MAY 2025
+AN  - WOS:001488406400001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+ER  -
+
+TY  - JOUR
+AU  - Lee, C
+AU  - Cha, K
+TI  - FAT-CAT-Explainability and augmentation for an AI system: A case study on AI recruitment-system adoption
+T2  - INTERNATIONAL JOURNAL OF HUMAN-COMPUTER STUDIES
+AB  - Because artificial intelligence (AI) recruitment systems exhibited discriminatory decisions in recent applications, the adoption of such systems in industry has raised doubts. As equity has been emphasized in AI decision-making frameworks, the non-explainability issue regarding the high performance of AI methods has become prominent. Therefore, scholars have focused on human-AI augmentation in which humans consider equity and AI supports the consideration. As a result, explainability is highlighted as a new capability of AI methods for an ideal decision. In this regard, this study proposes the so-called fairness, accountability, and transparency (FAT)-complexity, anxiety, and trust (CAT) model that describes the path from explainability to AI system adoption considering augmentation, assuming that the capability of the AI decision maker to explain the basis of its decision and interact with the human decision maker is crucial for AI recruitment system adoption. We found that explainability and augmentation are two key factors in AI recruitment system adoption and assessed that their importance will gradually increase as recruiters will be asked to use such AI systems more commonly. Moreover, this study conceptualized the role of an augmented relationship between humans and AI in decision-making, in which they complement each other's limitations.
+AD  - Hanyang Univ, 222, Wangsimni ro, Seoul, South KoreaDA  - MAR
+PY  - 2023
+VL  - 171
+C7  - 102976
+DO  - 10.1016/j.ijhcs.2022.102976
+C6  - DEC 2022
+AN  - WOS:000993060700001
+N1  - Times Cited in Web of Science Core Collection:  14
+Total Times Cited:  14
+ER  -
+
+TY  - JOUR
+AU  - Tutul, AA
+AU  - Nirjhar, EH
+AU  - Chaspari, T
+TI  - Investigating Trust in Human-AI Collaboration for a Speech-Based Data Analytics Task
+T2  - INTERNATIONAL JOURNAL OF HUMAN-COMPUTER INTERACTION
+AB  - Complex real-world problems can benefit from the collaboration between humans and artificial intelligence (AI) to achieve reliable decision-making. We investigate trust in a human-in-the-loop decision-making task, in which participants with background on psychological sciences collaborate with an explainable AI system for estimating one's anxiety level from speech. The AI system relies on the explainable boosting machine (EBM) model which takes prosodic features as the input and estimates the anxiety level. Trust in AI is quantified via self-reported (i.e., administered via a questionnaire) and behavioral (i.e., computed as user-AI agreement) measures, which are positively correlated with each other. Results indicate that humans and AI depict differences in performance depending on the characteristics of the specific case under review. Overall, human annotators' trust in the AI increases over time, with momentary decreases after the AI partner makes an error. Annotators further differ in terms of appropriate trust calibration in the AI system, with some annotators over-trusting and some under-trusting the system. Personality characteristics (i.e., agreeableness, conscientiousness) and overall propensity to trust machines further affect the level of trust in the AI system, with these findings approaching statistical significance. Results from this work will lead to a better understanding of human-AI collaboration and will guide the design of AI algorithms toward supporting better calibration of user trust.
+AD  - Texas A&M Univ, College Stn, TX 77843 USAAD  - Univ Colorado Boulder, Boulder, CO USADA  - MAR 4
+PY  - 2025
+VL  - 41
+IS  - 5
+SP  - 2936
+EP  - 2954
+DO  - 10.1080/10447318.2024.2328910
+C6  - MAR 2024
+AN  - WOS:001189455600001
+N1  - Times Cited in Web of Science Core Collection:  3
+Total Times Cited:  3
+ER  -
+
+TY  - JOUR
+AU  - Jia, SC
+AU  - Li, ZY
+AU  - Chen, N
+AU  - Zhang, JW
+TI  - Towards Visual Explainable Active Learning for Zero-Shot Classification
+T2  - IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS
+AB  - Zero-shot classification is a promising paradigm to solve an applicable problem when the training classes and test classes are disjoint. Achieving this usually needs experts to externalize their domain knowledge by manually specifying a class-attribute matrix to define which classes have which attributes. Designing a suitable class-attribute matrix is the key to the subsequent procedure, but this design process is tedious and trial-and-error with no guidance. This paper proposes a visual explainable active learning approach with its design and implementation called semantic navigator to solve the above problems. This approach promotes human-AI teaming with four actions (ask, explain, recommend, respond) in each interaction loop. The machine asks contrastive questions to guide humans in the thinking process of attributes. A novel visualization called semantic map explains the current status of the machine. Therefore analysts can better understand why the machine misclassifies objects. Moreover, the machine recommends the labels of classes for each attribute to ease the labeling burden. Finally, humans can steer the model by modifying the labels interactively, and the machine adjusts its recommendations. The visual explainable active learning approach improves humans' efficiency of building zero-shot classification models interactively, compared with the method without guidance. We justify our results with user studies using the standard benchmarks for zero-shot classification.
+AD  - Tianjin Univ, Coll Intelligence & Comp, Tianjin, Peoples R ChinaAD  - State Adm Cultural Heritage, Tianjin Cultural Heritage Conservat & Inheritance, Tianjin, Peoples R ChinaAD  - State Adm Cultural Heritage, Key Res Ctr Surface Monitoring & Anal Rel, Tianjin, Peoples R ChinaDA  - JAN
+PY  - 2022
+VL  - 28
+IS  - 1
+SP  - 791
+EP  - 801
+DO  - 10.1109/TVCG.2021.3114793
+AN  - WOS:000733959000082
+N1  - Times Cited in Web of Science Core Collection:  21
+Total Times Cited:  23
+ER  -
+
+TY  - JOUR
+AU  - Knop, M
+AU  - Weber, S
+AU  - Mueller, M
+AU  - Niehaves, B
+TI  - Human Factors and Technological Characteristics Influencing the Interaction of Medical Professionals With Artificial Intelligence-Enabled Clinical Decision Support Systems: Literature Review
+T2  - JMIR HUMAN FACTORS
+AB  - Background: The digitization and automation of diagnostics and treatments promise to alter the quality of health care and improve patient outcomes, whereas the undersupply of medical personnel, high workload on medical professionals, and medical case complexity increase. Clinical decision support systems (CDSSs) have been proven to help medical professionals in their everyday work through their ability to process vast amounts of patient information. However, comprehensive adoption is partially disrupted by specific technological and personal characteristics. With the rise of artificial intelligence (AI), CDSSs have become an adaptive technology with human-like capabilities and are able to learn and change their characteristics over time. However, research has not reflected on the characteristics and factors essential for effective collaboration between human actors and AI-enabled CDSSs.
+   Objective: Our study aims to summarize the factors influencing effective collaboration between medical professionals and AI-enabled CDSSs. These factors are essential for medical professionals, management, and technology designers to reflect on the adoption, implementation, and development of an AI-enabled CDSS.
+   Methods: We conducted a literature review including 3 different meta-databases, screening over 1000 articles and including 101 articles for full-text assessment. Of the 101 articles, 7 (6.9%) met our inclusion criteria and were analyzed for our synthesis.
+   Results: We identified the technological characteristics and human factors that appear to have an essential effect on the collaboration of medical professionals and AI-enabled CDSSs in accordance with our research objective, namely, training data quality, performance, explainability, adaptability, medical expertise, technological expertise, personality, cognitive biases, and trust. Comparing our results with those from research on non-AI CDSSs, some characteristics and factors retain their importance, whereas others gain or lose relevance owing to the uniqueness of human-AI interactions. However, only a few (1/7, 14%) studies have mentioned the theoretical foundations and patient outcomes related to AI-enabled CDSSs.
+   Conclusions: Our study provides a comprehensive overview of the relevant characteristics and factors that influence the interaction and collaboration between medical professionals and AI-enabled CDSSs. Rather limited theoretical foundations currently hinder the possibility of creating adequate concepts and models to explain and predict the interrelations between these characteristics and factors. For an appropriate evaluation of the human-AI collaboration, patient outcomes and the role of patients in the decision-making process should be considered.
+AD  - Univ Siegen, Dept Informat Syst, Kohlbettstr 15, D-57072 Siegen, GermanyDA  - JAN-MAR
+PY  - 2022
+VL  - 9
+IS  - 1
+C7  - e28639
+DO  - 10.2196/28639
+AN  - WOS:000787631400047
+N1  - Times Cited in Web of Science Core Collection:  37
+Total Times Cited:  38
+ER  -
+
+TY  - JOUR
+AU  - Binbeshr, F
+AU  - Imam, M
+AU  - Ghaleb, M
+AU  - Hamdan, M
+AU  - Rahim, MA
+AU  - Hammoudeh, M
+TI  - The Rise of Cognitive SOCs: A Systematic Literature Review on AI Approaches
+T2  - IEEE OPEN JOURNAL OF THE COMPUTER SOCIETY
+AB  - The increasing sophistication of cyber threats has led to the evolution of Security Operations Centers (SOCs) towards more intelligent and adaptive systems. This review explores the integration of Artificial Intelligence (AI) in SOCs, focusing on their current state, challenges, opportunities, and advantages over traditional methods. We address three key questions: (1) What are the current AI approaches in SOCs? (2) What challenges and opportunities exist with these approaches? (3) What benefits do AI models offer in SOC environments compared to traditional methods? We analyzed 38 studies using a structured methodology involving database searches, quality checks, and data extraction. Our findings show that Machine Learning (ML) techniques dominate SOC research, with a trend towards multi-approach AI methods. We classified these into ML, Natural Language Processing, multi-approach, and others, forming a detailed taxonomy of AI applications in SOCs. Challenges include data quality, model interpretability, legacy system integration, and the need for constant adaptation. Opportunities involve task automation, enhanced threat detection, real-time analysis, and adaptive learning. AI-driven SOCs show better accuracy, reduced false positives, greater scalability, and predictive capabilities than traditional approaches. This review defines Cognitive SOCs, emphasizing their ability to mimic human-like processes. We offer practical insights for SOC designers and managers on implementing AI to improve security operations. Finally, we suggest future research directions in explainable AI, human-AI collaboration, and privacy-preserving AI for SOCs.
+AD  - King Fahd Univ Petr & Minerals, Interdisciplinary Res Ctr Intelligent Secure Syst, Dhahran 31261, Saudi ArabiaAD  - King Fahd Univ Petr & Minerals, Dept Comp Engn, Dhahran 31261, Saudi ArabiaAD  - King Fahd Univ Petr & Minerals, Dept Informat & Comp Sci, Dhahran 31261, Saudi ArabiaAD  - Natl Coll Ireland, Sch Comp, Dublin D02 VY45, IrelandPY  - 2025
+VL  - 6
+SP  - 360
+EP  - 379
+DO  - 10.1109/OJCS.2025.3536800
+AN  - WOS:001432841300004
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+ER  -
+
+TY  - JOUR
+AU  - Bach, TA
+AU  - Kristiansen, JK
+AU  - Babic, A
+AU  - Jacovi, A
+TI  - Unpacking Human-AI Interaction in Safety-Critical Industries: A Systematic Literature Review
+T2  - IEEE ACCESS
+AB  - Ensuring quality human-AI interaction (HAII) in safety-critical industries is essential. Failure to do so can lead to catastrophic and deadly consequences. Despite this urgency, existing research on HAII is limited, fragmented, and inconsistent. We present here a survey of that literature and recommendations for research best practices that should improve the field. We divided our investigation into the following areas: 1) terms used to describe HAII, 2) primary roles of AI-enabled systems, 3) factors that influence HAII, and 4) how HAII is measured. Additionally, we described the capabilities and maturity of the AI-enabled systems used in safety-critical industries discussed in these articles. We found that no single term is used across the literature to describe HAII and some terms have multiple meanings. According to our literature, seven factors influence HAII: user characteristics (e.g., user personality), user perceptions and attitudes (e.g., user biases), user expectations and experience (e.g., mismatched user expectations and experience), AI interface and features (e.g., interactive design), AI output (e.g., perceived accuracy), explainability and interpretability (e.g., level of detail, user understanding), and usage of AI (e.g., heterogeneity of environments). HAII is most measured with user-related subjective metrics (e.g., user perceptions, trust, and attitudes), and AI-assisted decision-making is the most common primary role of AI-enabled systems. Based on this review, we conclude that there are substantial research gaps in HAII. Researchers and developers need to codify HAII terminology, involve users throughout the AI lifecycle (especially during development), and tailor HAII in safety-critical industries to the users and environments.
+AD  - DNV, Grp Res & Dev, N-1322 Hovik, NorwayAD  - Bar Ilan Univ, Dept Comp Sci, IL-5290002 Ramat Gan, IsraelPY  - 2024
+VL  - 12
+SP  - 106385
+EP  - 106414
+DO  - 10.1109/ACCESS.2024.3437190
+AN  - WOS:001288439400001
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  2
+ER  -
+
+TY  - JOUR
+AU  - Finzel, B
+TI  - Toward trustworthy AI with integrative explainable AI frameworks
+T2  - IT-INFORMATION TECHNOLOGY
+AB  - As artificial intelligence (AI) increasingly permeates high-stakes domains such as healthcare, transportation, and law enforcement, ensuring its trustworthiness has become a critical challenge. This article proposes an integrative Explainable AI (XAI) framework to address the challenges of interpretability, explainability, interactivity, and robustness. By combining XAI methods, incorporating human-AI interaction and using suitable evaluation techniques, the implementation of this framework serves as a holistic XAI approach. The article discusses the framework's contribution to trustworthy AI and gives an outlook on open challenges related to interdisciplinary collaboration, AI generalization and AI evaluation.
+AD  - Univ Bamberg, Cognit Syst, Bamberg, GermanyDA  - 2025 MAY 1
+PY  - 2025
+DO  - 10.1515/itit-2025-0007
+C6  - MAY 2025
+AN  - WOS:001478924200001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+ER  -
+
+TY  - JOUR
+AU  - Korteling, JE
+AU  - Van de Boer-Visschedijk, GC
+AU  - Blankendaal, RAM
+AU  - Boonekamp, RC
+AU  - Eikelboom, AR
+TI  - Human- versus Artificial Intelligence
+T2  - FRONTIERS IN ARTIFICIAL INTELLIGENCE
+AB  - AI is one of the most debated subjects of today and there seems little common understanding concerning the differences and similarities of human intelligence and artificial intelligence. Discussions on many relevant topics, such as trustworthiness, explainability, and ethics are characterized by implicit anthropocentric and anthropomorphistic conceptions and, for instance, the pursuit of human-like intelligence as the golden standard for Artificial Intelligence. In order to provide more agreement and to substantiate possible future research objectives, this paper presents three notions on the similarities and differences between human- and artificial intelligence: 1) the fundamental constraints of human (and artificial) intelligence, 2) human intelligence as one of many possible forms of general intelligence, and 3) the high potential impact of multiple (integrated) forms of narrow-hybrid AI applications. For the time being, AI systems will have fundamentally different cognitive qualities and abilities than biological systems. For this reason, a most prominent issue is how we can use (and "collaborate" with) these systems as effectively as possible? For what tasks and under what conditions, decisions are safe to leave to AI and when is human judgment required? How can we capitalize on the specific strengths of human- and artificial intelligence? How to deploy AI systems effectively to complement and compensate for the inherent constraints of human cognition (and vice versa)? Should we pursue the development of AI "partners" with human (-level) intelligence or should we focus more at supplementing human limitations? In order to answer these questions, humans working with AI systems in the workplace or in policy making have to develop an adequate mental model of the underlying `psychological' mechanisms of AI. So, in order to obtain well-functioning human-AI systems, Intelligence Awareness in humans should be addressed more vigorously. For this purpose a first framework for educational content is proposed.
+AD  - TNO Human Factors, Soesterberg, NetherlandsPY  - 2021
+VL  - 4
+C7  - 622364
+DO  - 10.3389/frai.2021.622364
+AN  - WOS:000751704800034
+N1  - Times Cited in Web of Science Core Collection:  181
+Total Times Cited:  191
+ER  -
+
+TY  - JOUR
+AU  - Tinguely, PN
+AU  - Lee, J
+AU  - He, VF
+TI  - Designing human resource management systems in the age of AI
+T2  - JOURNAL OF ORGANIZATION DESIGN
+AB  - The increasing adoption of artificial intelligence (AI) is reshaping the practices of human resource management (HRM). We propose a typology of HR-AI collaboration systems across the dimensions of task characteristics (routine vs. non-routine; low vs. high cognitive complexity) and social acceptability of such systems among organizational members. We discuss how organizations should design HR-AI collaboration systems in light of issues of AI explainability, high stakes contexts, and threat to employees' professional identities. We point out important design considerations that may affect employees' perceptions of organizational fairness and emphasize HR professionals' role in the design process. We conclude by discussing how our Point of View article contributes to literatures on organization design and human-AI collaboration and suggesting potential avenues for future research.
+AD  - Swiss Fed Inst Technol, Dept Management Technol & Econ, Weinbergstr 56-58, CH-8092 Zurich, SwitzerlandAD  - Univ Michigan Dearborn, Dept Management Studies, 107 Fairlane Ctr South, Dearborn, MI 48126 USAAD  - Univ St Gallen, Sch Management, Dufourstr 40A,3-237, CH-9000 St Gallen, SwitzerlandDA  - DEC
+PY  - 2023
+VL  - 12
+IS  - 4
+SP  - 263
+EP  - 269
+DO  - 10.1007/s41469-023-00153-x
+C6  - SEP 2023
+AN  - WOS:001072271600001
+N1  - Times Cited in Web of Science Core Collection:  4
+Total Times Cited:  4
+ER  -
+
+TY  - JOUR
+AU  - Chen, CD
+AU  - Zheng, YC
+TI  - When consumers need more interpretability of artificial intelligence (AI) recommendations? The effect of decision-making domains
+T2  - BEHAVIOUR & INFORMATION TECHNOLOGY
+AB  - Due to the "black-box' nature of artificial intelligence (AI) recommendations, interpretability is critical to the consumer experience of human-AI interaction. Unfortunately, improving the interpretability of AI recommendations is technically challenging and costly. Therefore, there is an urgent need for the industry to identify when the interpretability of AI recommendations is more likely to be needed. This study defines the construct of Need for Interpretability (NFI) of AI recommendations and empirically tests consumers' need for interpretability of AI recommendations in different decision-making domains. Across two experimental studies, we demonstrate that consumers do indeed have a need for interpretability toward AI recommendations, and that the need for interpretability is higher in utilitarian domains than in hedonic domains. This study would help companies to identify the varying need for interpretability of AI recommendations in different application scenarios.
+AD  - Chongqing Normal Univ, Sch Econ & Management, Chongqing, Peoples R ChinaAD  - Shanghai Univ Finance & Econ, Coll Business, Shanghai, Peoples R ChinaAD  - Shanghai Univ Finance & Econ, Coll Business, 777 Guoding Rd, Shanghai 200433, Peoples R ChinaDA  - OCT 25
+PY  - 2024
+VL  - 43
+IS  - 14
+SP  - 3481
+EP  - 3489
+DO  - 10.1080/0144929X.2023.2279658
+C6  - NOV 2023
+AN  - WOS:001097751800001
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+ER  -
+
+TY  - JOUR
+AU  - Zhou, LN
+AU  - Rudin, C
+AU  - Gombolay, M
+AU  - Spohrer, J
+AU  - Zhou, M
+AU  - Paul, S
+TI  - From Artificial Intelligence (AI) to Intelligence Augmentation (IA): Design Principles, Potential Risks, and Emerging Issues
+T2  - AIS TRANSACTIONS ON HUMAN-COMPUTER INTERACTION
+AB  - We typically think of artificial intelligence (AI) as focusing on empowering machines with human capabilities so that they can function on their own, but, in truth, much of AI focuses on intelligence augmentation (IA), which is to augment human capabilities. We propose a framework for designing intelligent augmentation (IA) systems and it addresses six central questions about IA: why, what, who/whom, how, when, and where. To address the how aspect, we introduce four guiding principles: simplification, interpretability, human-centeredness, and ethics. The what aspect includes an IA architecture that goes beyond the direct interactions between humans and machines by introducing their indirect relationships through data and domain. The architecture also points to the directions for operationalizing the IA design simplification principle. We further identify some potential risks and emerging issues in IA design and development to suggest new questions for future IA research and to foster its positive impact on humanity.
+AD  - Univ North Carolina Charlotte, Dept Business Informat Syst & Operat Management, Charlotte, NC 28223 USAAD  - Duke Univ, Dept Comp Sci, Durham, NC USAAD  - Duke Univ, Dept Elect & Cmp Engn, Durham, NC USAAD  - Georgia Inst Technol, Interact Comp, Atlanta, GA USAAD  - Int Soc Serv Innovat Profess, San Jose, CA USAAD  - Juji, San Jose, CA USAAD  - Northern Kentucky Univ, Sch Comp & Analyt, Highland Hts, KY USAPY  - 2023
+VL  - 15
+IS  - 1
+DO  - 10.17705/1thci.00185
+AN  - WOS:001466875800005
+N1  - Times Cited in Web of Science Core Collection:  6
+Total Times Cited:  6
+ER  -
+
+TY  - JOUR
+AU  - Sharma, AK
+AU  - Sharma, R
+TI  - Navigating the Ethical Landscape: Implementing Machine Learning in Smart Healthcare Informatics
+T2  - INDIAN JOURNAL OF COMMUNITY HEALTH
+AB  - The integration of Machine Learning (ML) into healthcare informatics holds immense promise, revolutionizing patient care and treatment strategies. However, as this technology advances, it brings forth ethical challenges crucial for careful navigation. ML offers unprecedented abilities to analyze vast healthcare data, leading to personalized medicine and improved outcomes. Yet, ethical concerns emerge, notably in privacy protection, algorithm bias, transparency, informed consent, and data quality. Transparency, explainability, and patient autonomy in decision-making processes are crucial to foster trust and accountability. Striking a balance between innovation and compliance, ensuring data quality, and promoting human-AI collaboration are essential. Addressing these challenges demands adherence to ethical frameworks, continuous monitoring, multidisciplinary governance, education, and regulatory compliance. To fully harness ML's potential in healthcare while upholding ethical standards, collaboration among stakeholders is imperative, ensuring patient welfare remains central amid technological advancements. Ethical considerations must be embedded at every stage of ML implementation to maintain an ethical, equitable, and patient-centered healthcare system.
+AD  - Lovely Profess Univ, Mittal Sch Business, Jalandhar Delhi GT Rd, Phagwara 144411, Punjab, IndiaDA  - JAN-MAR
+PY  - 2024
+VL  - 36
+IS  - 1
+SP  - 149
+EP  - 152
+DO  - 10.47203/IJCH.2024.v36i01.024
+AN  - WOS:001198390300006
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+ER  -
+
+TY  - JOUR
+AU  - Buschmeyer, K
+AU  - Zenner, J
+AU  - Hatfield, S
+TI  - Effectiveness of AI-based decision support systems in work environment: a systematic literature review
+T2  - INTERNATIONAL JOURNAL OF HUMAN FACTORS AND ERGONOMICS
+AB  - Artificial intelligence (AI) is being increasingly used in high-stakes working areas to augment experts in challenging decision-making situations. The AI support is intended to reduce the cognitive load on experts, which should ideally be reflected both in a greater sense of well-being when working on demanding tasks and in joint performance exceeding that of both the humans and AI alone. However, the extent and conditions of achievement (such as the AI accuracy and explainability) of these intended effects have not been systematically investigated. Therefore, we identified and reviewed 44 articles published since 2018 that have investigated the effects of AI-based decision support systems on experts in controlled experimental settings. The results suggest that, for optimal human-AI performance, which surpasses the performance of either alone, both must operate at similar and high levels. However, the effect on the psychological load remains unclear owing to limited research.
+AD  - Augsburg Tech Univ Appl Sci, Fac Business, D-86163 Augsburg, GermanyAD  - Augsburg Tech Univ Appl Sci, Fac Liberal Arts & Sci, D-86163 Augsburg, GermanyPY  - 2024
+VL  - 11
+IS  - 5
+DO  - 10.1504/IJHFE.2024.142761
+AN  - WOS:001360997400001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+ER  -
+
+TY  - JOUR
+AU  - Malandri, L
+AU  - Mercorio, F
+AU  - Mezzanzanica, M
+AU  - Nobani, N
+TI  - ConvXAI: a System for Multimodal Interaction with Any Black-box Explainer
+T2  - COGNITIVE COMPUTATION
+AB  - Several studies have addressed the importance of context and users' knowledge and experience in quantifying the usability and effectiveness of the explanations generated by explainable artificial intelligence (XAI) systems. However, to the best of our knowledge, no component-agnostic system that accounts for this need has yet been built. This paper describes an approach called ConvXAI, which can create a dialogical multimodal interface for any black-box explainer by considering the knowledge and experience of the user. First, we formally extend the state-of-the-art conversational explanation framework by introducing clarification dialogue as an additional dialogue type. We then implement our approach as an off-the-shelf Python tool. To evaluate our framework, we performed a user study including 45 participants divided into three groups based on their level of technology use and job function. Experimental results show that (i) different groups perceive explanations differently; (ii) all groups prefer textual explanations over graphical ones; and (iii) ConvXAI provides clarifications that enhance the usefulness of the original explanations.
+AD  - Univ Milano Bicocca, Dept Stat & Quantitat Methods, Milan, ItalyAD  - Univ Milano Bicocca, Crisp Res Ctr, Milan, ItalyAD  - Univ Milano Bicocca, Dept Informat Syst & Commun, Milan, ItalyAD  - Digital Attitude Srl, Milan, ItalyDA  - MAR
+PY  - 2023
+VL  - 15
+IS  - 2
+SP  - 613
+EP  - 644
+DO  - 10.1007/s12559-022-10067-7
+C6  - NOV 2022
+AN  - WOS:000879689200001
+N1  - Times Cited in Web of Science Core Collection:  12
+Total Times Cited:  12
+ER  -
+
+TY  - JOUR
+AU  - Xu, K
+AU  - Shi, JY
+TI  - Visioning a two-level human-machine communication framework: initiating conversations between explainable AI and communication
+T2  - COMMUNICATION THEORY
+AB  - Amid mounting interest in artificial intelligence (AI) technology, communication scholars have sought to understand humans' perceptions of and attitudes toward AI's predictions, recommendations, and decisions. Meanwhile, scholars in the nascent but growing field of explainable AI (XAI) have aimed to clarify AI's operational mechanisms and make them interpretable, visible, and transparent. In this conceptual article, we suggest that a conversation between human-machine communication (HMC) and XAI is advantageous and necessary. Following the introduction of these two areas, we demonstrate how research on XAI can inform the HMC scholarship regarding the human-in-the-loop approach and the message production explainability. Next, we expound upon how communication scholars' focuses on message sources, receivers, features, and effects can reciprocally benefit XAI research. At its core, this article proposes a two-level HMC framework and posits that bridging the two fields can guide future AI research and development.
+AD  - Univ Florida, Coll Journalism & Commun, Gainesville, FL USAAD  - Hong Kong Baptist Univ, Dept Interact Media, Hong Kong, Peoples R ChinaDA  - JUL 30
+PY  - 2024
+VL  - 34
+IS  - 4
+SP  - 216
+EP  - 229
+DO  - 10.1093/ct/qtae016
+C6  - JUL 2024
+AN  - WOS:001279763800001
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  2
+ER  -
+
+TY  - JOUR
+AU  - Gajcin, J
+AU  - Dusparic, I
+TI  - Redefining Counterfactual Explanations for Reinforcement Learning: Overview, Challenges and Opportunities
+T2  - ACM COMPUTING SURVEYS
+AB  - While AI algorithms have shown remarkable success in various fields, their lack of transparency hinders their application to real-life tasks. Although explanations targeted at non-experts are necessary for user trust and human-AI collaboration, the majority of explanation methods for AI are focused on developers and expert users. Counterfactual explanations are local explanations that offer users advice on what can be changed in the input for the output of the black-box model to change. Counterfactuals are user-friendly and provide actionable advice for achieving the desired output from the AI system. While extensively researched in supervised learning, there are few methods applying them to reinforcement learning (RL). In this work, we explore the reasons for the underrepresentation of a powerful explanation method in RL. We start by reviewing the current work in counterfactual explanations in supervised learning. Additionally, we explore the differences between counterfactual explanations in supervised learning and RL and identify the main challenges that prevent the adoption of methods from supervised in reinforcement learning. Finally, we redefine counterfactuals for RL and propose research directions for implementing counterfactuals in RL.
+AD  - Trinity Coll Dublin, Coll Green, Dublin D02PN40, IrelandDA  - SEP
+PY  - 2024
+VL  - 56
+IS  - 9
+C7  - 219
+DO  - 10.1145/3648472
+AN  - WOS:001230135700004
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  2
+ER  -
+
+TY  - JOUR
+AU  - Lee, BCG
+AU  - Downey, D
+AU  - Lo, K
+AU  - Weld, DS
+TI  - LIMEADE: From AI Explanations to Advice Taking
+T2  - ACM TRANSACTIONS ON INTERACTIVE INTELLIGENT SYSTEMS
+AB  - Research in human-centered AI has shown the benefits of systems that can explain their predictions. Methods that allow AI to take advice from humans in response to explanations are similarly useful. While both capabilities are well developed for transparent learning models (e.g., linear models and GA2Ms) and recent techniques (e.g., LIME and SHAP) can generate explanations for opaque models, little attention has been given to advice methods for opaque models. This article introduces LIMEADE, the first general framework that translates both positive and negative advice (expressed using high-level vocabulary such as that employed by post hoc explanations) into an update to an arbitrary, underlying opaque model. We demonstrate the generality of our approach with case studies on 70 real-world models across two broad domains: image classification and text recommendation. We show that our method improves accuracy compared to a rigorous baseline on the image classification domains. For the text modality, we apply our framework to a neural recommender system for scientific papers on a public website; our user study shows that our framework leads to significantly higher perceived user control, trust, and satisfaction.
+AD  - Univ Washington, Paul G Allen Sch Comp Sci & Engn, Box 352355, Seattle, WA 98195 USAAD  - Allen Inst Artificial Intelligence, 2157 N Northlake Way 110, Seattle, WA 98103 USADA  - DEC
+PY  - 2023
+VL  - 13
+IS  - 4
+C7  - 24
+DO  - 10.1145/3589345
+AN  - WOS:001153515100005
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  3
+ER  -
+
+TY  - JOUR
+AU  - Truss, M
+AU  - Schmitt, M
+TI  - Human-Centered AI Product Prototyping with No-Code AutoML: Conceptual Framework, Potentials and Limitations
+T2  - INTERNATIONAL JOURNAL OF HUMAN-COMPUTER INTERACTION
+AB  - This paper addresses AI product prototyping, focusing on the challenges posed by the probabilistic nature of AI behavior and the limited accessibility of prototyping tools to AI non-experts. A design science research (DSR) approach is presented, which culminates in a conceptual framework for structuring the AI prototyping process with no-code AutoML technologies for textual and tabular ML use cases. Through a comprehensive literature review, key challenges were identified, and no-code AutoML was positioned as a solution. The framework describes the incorporation of non-expert input and evaluation during prototyping, leveraging the potential of no-code AutoML to enhance accessibility and interpretability. A hybrid approach combining naturalistic (case study) and artificial evaluation methods (criteria-based analysis) validated the utility of our approach, highlighting its efficacy in supporting AI non-experts and streamlining decision-making and its limitations. The implications for academia and industry focus on the strategic integration of no-code AutoML to enhance AI product development processes, mitigate risks, and foster innovation.
+AD  - Adobe, Munich, GermanyAD  - Siemens, Munich, GermanyDA  - 2024 NOV 26
+PY  - 2024
+DO  - 10.1080/10447318.2024.2425454
+C6  - NOV 2024
+AN  - WOS:001364550900001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+ER  -
+
+TY  - JOUR
+AU  - Rieger, T
+AU  - Schindler, H
+AU  - Onnasch, L
+AU  - Roesler, E
+TI  - Explaining AI weaknesses improves human-AI performance in a dynamic control task
+T2  - INTERNATIONAL JOURNAL OF HUMAN-COMPUTER STUDIES
+AB  - AI-based decision support is increasingly implemented to support operators in dynamic control tasks. While these systems continuously improve, to truly achieve human-system synergy, one must also study humans' system understanding and behavior. Accordingly, we investigated the impact of explainability instructions regarding a specific system weakness on performance and trust in two experiments (with higher task demands in Experiment 2). Participants performed a dynamic control task with support from either an explainable AI (XAI, information on a system weakness), a non-explainable AI (nonXAI, no information on system weakness), or without support (manual, only in Experiment 2). Results show that participants with XAI support outperformed those in the nonXAI group, particularly in situations where the AI actually erred. Notably, informing users of system weaknesses did not affect trust once they had interacted with the system. In addition, Experiment 2 showed the general benefit of decision support over working manually under higher task demands. These findings suggest that AI support can enhance performance in complex tasks and that providing information on potential system weaknesses aids in managing system errors and resource allocation without compromising trust.
+AD  - Tech Univ Berlin, Dept Psychol & Ergon, Berlin, GermanyAD  - George Mason Univ, Dept Psychol, Fairfax, VA USADA  - MAY
+PY  - 2025
+VL  - 199
+C7  - 103505
+DO  - 10.1016/j.ijhcs.2025.103505
+C6  - APR 2025
+AN  - WOS:001461821700001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+ER  -
+
+TY  - JOUR
+AU  - Schraagen, JM
+TI  - Responsible use of AI in military systems: prospects and challenges
+T2  - ERGONOMICS
+AB  - Artificial Intelligence (AI) holds great potential for the military domain but is also seen as prone to data bias and lacking transparency and explainability. In order to advance the trustworthiness of AI-enabled systems, a dynamic approach to the development, deployment and use of AI systems is required. This approach, when incorporating ethical principles such as lawfulness, traceability, reliability and bias mitigation, is called 'Responsible AI'. This article describes the challenges of using AI responsibly in the military domain from a human factors and ergonomics perspective. Many of the ironies of automation originally described by Bainbridge still apply in the field of AI, but there are also some unique challenges and requirements that need to be considered, such as a larger emphasis on ethical risk analyses and validation and verification up-front, as well as moral situation awareness during deployment and use of AI in military systems.
+   'Responsible AI' is a relatively novel transdisciplinary field incorporating ethical principles in the development and use of AI in military systems. I describe the prospects and challenges with Responsible AI from a human factors and ergonomics perspective. There is in particular a need for new methods for testing and evaluation, validation and verification, explainability and transparency of AI, as well as for new ways of Human-AI Teaming.
+AD  - TNO Locatie Soesterberg, Human Machine Teaming, Soesterberg, NetherlandsDA  - NOV 2
+PY  - 2023
+VL  - 66
+IS  - 11
+SP  - 1719
+EP  - 1729
+DO  - 10.1080/00140139.2023.2278394
+C6  - NOV 2023
+AN  - WOS:001096703600001
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  2
+ER  -
+
+TY  - JOUR
+AU  - Holzinger, A
+AU  - Zatloukal, K
+AU  - Müller, H
+TI  - Is human oversight to AI systems still possible?
+T2  - NEW BIOTECHNOLOGY
+AB  - The rapid proliferation of artificial intelligence (AI) systems across diverse domains raises critical questions about the feasibility of meaningful human oversight, particularly in high-stakes domains such as new biotechnology. As AI systems grow increasingly complex, opaque, and autonomous, ensuring responsible use becomes a formidable challenge. During our editorial work for the special issue "Artificial Intelligence for Life Sciences", we placed increasing emphasis on the topic of "human oversight". Consequently, in this editorial we briefly discuss the evolving role of human oversight in AI governance, focusing on the practical, technical, and ethical dimensions of maintaining control. It examines how the complexity of contemporary AI architectures, such as large-scale neural networks and generative AI applications, undermine human understanding and decision-making capabilities. Furthermore, it evaluates emerging approaches-such as explainable AI (XAI), human-in-the-loop systems, and regulatory frameworks-that aim to enable oversight while acknowledging their limitations. Through a comprehensive analysis, the picture emerged while complete oversight may no longer be viable in certain contexts, strategic interventions leveraging human-AI collaboration and trustworthy AI design principles can preserve accountability and safety. The discussion highlights the urgent need for interdisciplinary efforts to rethink oversight mechanisms in an era where AI may outpace human comprehension.
+AD  - Univ Nat Resources & Life Sci Vienna, Inst Forest Engn, Dept Ecosyst Management Climate & Biodivers, Human Ctr AI Lab, Vienna, AustriaAD  - Med Univ Graz, Diagnost & Res Inst Pathol, Informat Sci & Machine Learning Grp, Graz, AustriaDA  - MAR 25
+PY  - 2025
+VL  - 85
+SP  - 59
+EP  - 62
+DO  - 10.1016/j.nbt.2024.12.003
+C6  - DEC 2024
+AN  - WOS:001391606400001
+N1  - Times Cited in Web of Science Core Collection:  8
+Total Times Cited:  8
+ER  -
+
+TY  - JOUR
+AU  - Zhang, ZT
+AU  - Argin, SK
+AU  - Bilen, MB
+AU  - Urgun, D
+AU  - Deniz, SM
+AU  - Liu, YT
+AU  - Hassib, M
+TI  - Measuring the effect of mental workload and explanations on appropriate AI reliance using EEG
+T2  - BEHAVIOUR & INFORMATION TECHNOLOGY
+AB  - AI is anticipated to improve human decision-making across various domains, often in high-stakes, difficult tasks. However, human reliance on AI recommendations is often inappropriate. A common approach to address this is to provide explanations about the AI output to decision makers, but results have been mixed so far. It often remains unclear when people can rely appropriately on AI and when explanations can help. In this work, we conducted a lab experiment (N = 34) to investigate how the appropriateness of human reliance on (explainable) AI depends on the mental workload induced by different decision difficulties. Instead of self-assessments, we used EEG (Emotiv Epoc Flex head cap, 32 wet electrodes) to more directly measure participants' mental workload. We found that the difficulty of a decision, indicated by the induced mental workload, strongly influences participants' ability to rely appropriately on AI, as assessed through relative self-reliance, relative AI reliance, and decision accuracy with and without AI. While reliance was appropriate for low mental workload decisions, participants were prone to overreliance in high mental workload decisions. Explanations had no significant effect in either case. Our results imply that alternatives to the common 'recommend-and-explain' approach should be explored to assist human decision-making in challenging tasks.
+AD  - Fortiss GmbH, Res Inst Free State Bavaria, Munich, GermanyAD  - Ludwig Maximilians Univ Munchen, Munich, GermanyAD  - Sci & Technol Res Council Turkey TUBITAK, Informat & Informat Secur Res Ctr BILGEM, Gebze, TurkiyeAD  - Karabuk Univ, Karabuk, TurkiyeAD  - Bogazici Univ, Istanbul, TurkiyeDA  - 2024 NOV 23
+PY  - 2024
+DO  - 10.1080/0144929X.2024.2431055
+C6  - NOV 2024
+AN  - WOS:001364729200001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+ER  -
+
+TY  - JOUR
+AU  - Neves, I
+AU  - Folgado, D
+AU  - Santos, S
+AU  - Barandas, M
+AU  - Campagner, A
+AU  - Ronzio, L
+AU  - Cabitza, F
+AU  - Gamboa, H
+TI  - Interpretable heartbeat classification using local model-agnostic explanations on ECGs
+T2  - COMPUTERS IN BIOLOGY AND MEDICINE
+AB  - Treatment and prevention of cardiovascular diseases often rely on Electrocardiogram (ECG) interpretation. Dependent on the physician's variability, ECG interpretation is subjective and prone to errors. Machine learning models are often developed and used to support doctors; however, their lack of interpretability stands as one of the main drawbacks of their widespread operation. This paper focuses on an Explainable Artificial Intelligence (XAI) solution to make heartbeat classification more explainable using several state-of-the-art model-agnostic methods. We introduce a high-level conceptual framework for explainable time series and propose an original method that adds temporal dependency between time samples using the time series' derivative. The results were validated in the MIT-BIH arrhythmia dataset: we performed a performance's analysis to evaluate whether the explanations fit the model's behaviour; and employed the 1-D Jaccard's index to compare the subsequences extracted from an interpretable model and the XAI methods used. Our results show that the use of the raw signal and its derivative includes temporal dependency between samples to promote classification explanation. A small but informative user study concludes this study to evaluate the potential of the visual explanations produced by our original method for being adopted in real-world clinical settings, either as diagnostic aids or training resource.
+AD  - Associacao Fraunhofer Portugal Res, Rua Alfredo Allen 455-461, P-4200135 Porto, PortugalAD  - Univ Nova Lisboa, Lab Instrumentacao Engn Biomed & Fis Radiacao LIB, Dept Fis, Fac Ciencias & Tecnol,FCT, P-2829516 Caparica, PortugalAD  - Univ Milano Bicocca, Dipartimento Informat Sistemist & Comunicaz, Viale Sarca 336, I-20126 Milan, ItalyDA  - JUN
+PY  - 2021
+VL  - 133
+C7  - 104393
+DO  - 10.1016/j.compbiomed.2021.104393
+C6  - APR 2021
+AN  - WOS:000663491300007
+N1  - Times Cited in Web of Science Core Collection:  51
+Total Times Cited:  54
+ER  -
+
+TY  - JOUR
+AU  - Malandri, L
+AU  - Mercorio, F
+AU  - Mezzanzanica, M
+AU  - Nobani, N
+AU  - Seveso, A
+TI  - ContrXT: Generating contrastive explanations from any text classifier
+T2  - INFORMATION FUSION
+AB  - The need for explanations of ML systems is growing as new models outperform their predecessors while becoming more complex and less comprehensible for their end-users. Though several XAI methods have been proposed in recent years, not enough attention was paid to explaining how models change their behaviour in contrast with previous ones (e.g., due to retraining). In such cases, an XAI system should explain why the model changes its predictions concerning past outcomes. Capturing and understanding such differences is crucial, as the need for trust is key in any application to support human-AI decision-making processes.
+   This is the idea of ContrXT, a novel approach that (i) traces the decision criteria of a black box text classifier by encoding the changes in the decision logic through Binary Decision Diagrams. Then (ii) it provides global, model-agnostic, Time-Contrastive (T-contrast) explanations in natural language, estimating why - and to what extent - the model has modified its behaviour over time. We implemented and evaluated ContrXT over several supervised ML models trained on a benchmark dataset and a real-life application, showing it is effective in catching majorly changed classes and in explaining their variation through a user study.
+   The approach has been implemented, and it is available to the community both as a python package and through REST API, providing contrastive explanations as a service.
+AD  - Univ Milano Bicocca, Dept Stat & Quantitat Methods, Milan, ItalyAD  - Univ Milano Bicocca, Dept Informat Syst & Commun, Milan, ItalyAD  - Univ Milano Bicocca, CRISP Res Ctr, Milan, ItalyDA  - MAY
+PY  - 2022
+VL  - 81
+SP  - 103
+EP  - 115
+DO  - 10.1016/j.inffus.2021.11.016
+C6  - DEC 2021
+AN  - WOS:000735294100007
+N1  - Times Cited in Web of Science Core Collection:  13
+Total Times Cited:  13
+ER  -
+
+TY  - JOUR
+AU  - Le Guillou, M
+AU  - Prevot, L
+AU  - Berberian, B
+TI  - Bringing Together Ergonomic Concepts and Cognitive Mechanisms for Human-AI Agents Cooperation
+T2  - INTERNATIONAL JOURNAL OF HUMAN-COMPUTER INTERACTION
+AB  - The deployment of artificial intelligence from experimental settings to concrete applications implies to consider the social aspects of the environment and consequently to conceive the interaction between humans and computers endowed with the aim of being partners in action. This article proposes a review of the research initiatives regarding human-artificial agents interaction, including eXplainable Artificial Intelligence (XAI) and HRI/HCI. We argue that even if vocabulary and approaches are different, the concepts converge on the necessity for the artificial agents to provide an accurate mental model of their behavior to the humans they are interacting with. This has different implications depending on whether we consider a tool/user interaction or a cooperation interaction-which is far less documented despite being at the heart of the future concepts of autonomous vehicles. From this observation, the article uses the cognitive science corpus on joint-action to raise finer cognitive mechanisms proved to be essential for human joint-action which could be considered as cognitive requirements for future artificial agents, including shared task representation and mentalization. Finally, interactions content hypotheses are arisen to satisfy the identified mechanisms, including the ability for the artificial agent to elicit its intentions and to trigger mentalization toward them from the human cooperators.
+AD  - Off Natl Etud & Rech Aerosp, French Aerosp Lab, Informat Proc & Syst Dept, Salon De Provence, FranceAD  - Aix Marseille Univ, CNRS, Lab Parole Language, Aix En Provence, FranceDA  - MAY 28
+PY  - 2023
+VL  - 39
+IS  - 9
+SP  - 1827
+EP  - 1840
+DO  - 10.1080/10447318.2022.2129741
+C6  - OCT 2022
+AN  - WOS:000866327600001
+N1  - Times Cited in Web of Science Core Collection:  8
+Total Times Cited:  8
+ER  -
+
+TY  - JOUR
+AU  - Ayorinde, JOO
+AU  - Citterio, F
+AU  - Landrò, M
+AU  - Peruzzo, E
+AU  - Islam, T
+AU  - Tilley, S
+AU  - Taylor, G
+AU  - Bardsley, V
+AU  - Liò, P
+AU  - Samoshkin, A
+AU  - Pettigrew, GJ
+TI  - Artificial Intelligence You Can Trust: What Matters Beyond Performance When Applying Artificial Intelligence to Renal Histopathology?
+T2  - JOURNAL OF THE AMERICAN SOCIETY OF NEPHROLOGY
+AB  - Although still in its infancy, artificial intelligence (AI) analysis of kidney biopsy images is anticipated to become an integral aspect of renal histopathology. As these systems are developed, the focus will understandably be on developing ever more accurate models, but successful translation to the clinic will also depend upon other characteristics of the system.In the extreme, deployment of highly performant but ?black box? AI is fraught with risk, and high-profile errors could damage future trust in the technology. Furthermore, a major factor determining whether new systems are adopted in clinical settings is whether they are ?trusted? by clinicians. Key to unlocking trust will be designing platforms optimized for intuitive human-AI interactions and ensuring that, where judgment is required to resolve ambiguous areas of assessment, the workings of the AI image classifier are understandable to the human observer. Therefore, determining the optimal design for AI systems depends on factors beyond performance, with considerations of goals, interpretability, and safety constraining many design and engineering choices.In this article, we explore challenges that arise in the application of AI to renal histopathology, and consider areas where choices around model architecture, training strategy, and workflow design may be influenced by factors beyond the final performance metrics of the system.
+AD  - Univ Cambridge, Addenbrookes Hosp, Dept Surg, Cambridge, EnglandAD  - SAS Inst Inc, Cary, NC USAAD  - Addenbrookes Hosp, Dept Histopathol, Cambridge, EnglandAD  - Univ Cambridge, Dept Comp Sci & Technol, Cambridge, EnglandAD  - Univ Cambridge, Sch Clin Med, Off Translat Res, Cambridge, EnglandDA  - DEC
+PY  - 2022
+VL  - 33
+IS  - 12
+SP  - 2133
+EP  - 2140
+DO  - 10.1681/ASN.2022010069
+AN  - WOS:000905310400004
+N1  - Times Cited in Web of Science Core Collection:  6
+Total Times Cited:  6
+ER  -
+
+TY  - JOUR
+AU  - Chevalier, O
+AU  - Dubey, G
+AU  - Benkabbou, A
+AU  - Majbar, MA
+AU  - Souadka, A
+TI  - Comprehensive overview of artificial intelligence in surgery: a systematic review and perspectives
+T2  - PFLUGERS ARCHIV-EUROPEAN JOURNAL OF PHYSIOLOGY
+AB  - The rapid integration of artificial intelligence (AI) into surgical practice necessitates a comprehensive evaluation of its applications, challenges, and physiological impact. This systematic review synthesizes current AI applications in surgery, with a particular focus on machine learning (ML) and its role in optimizing preoperative planning, intraoperative decision-making, and postoperative patient management. Using PRISMA guidelines and PICO criteria, we analyzed key studies addressing AI's contributions to surgical precision, outcome prediction, and real-time physiological monitoring. While AI has demonstrated significant promise-from enhancing diagnostics to improving intraoperative safety-many surgeons remain skeptical due to concerns over algorithmic unpredictability, surgeon autonomy, and ethical transparency. This review explores AI's physiological integration into surgery, discussing its role in real-time hemodynamic assessments, AI-guided tissue characterization, and intraoperative physiological modeling. Ethical concerns, including algorithmic opacity and liability in high-stakes scenarios, are critically examined alongside AI's potential to augment surgical expertise. We conclude that longitudinal validation, improved AI explainability, and adaptive regulatory frameworks are essential to ensure safe, effective, and ethically sound integration of AI into surgical decision-making. Future research should focus on bridging AI-driven analytics with real-time physiological feedback to refine precision surgery and patient safety strategies.
+AD  - Univ Paris 1 Pantheon Sorbonne, Inst Mines Telecom Business Sch, Paris, FranceAD  - Mohammed V Univ, Natl Inst Oncol, Surg Oncol Dept, Rabat, MoroccoDA  - APR
+PY  - 2025
+VL  - 477
+IS  - 4
+SP  - 617
+EP  - 626
+DO  - 10.1007/s00424-025-03076-6
+C6  - MAR 2025
+AN  - WOS:001444637900001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+ER  -
+
+TY  - JOUR
+AU  - Cabour, G
+AU  - Morales-Forero, A
+AU  - Ledoux, É
+AU  - Bassetto, S
+TI  - An explanation space to align user studies with the technical development of Explainable AI
+T2  - AI & SOCIETY
+AB  - Providing meaningful and actionable explanations for end-users is a situated problem requiring the intersection of multiple disciplines to address social, operational, and technical challenges. However, the explainable artificial intelligence community has not commonly adopted or created tangible design tools that allow interdisciplinary work to develop reliable AI-powered solutions. This paper proposes a formative architecture that defines the explanation space from a user-inspired perspective. The architecture comprises five intertwined components to outline explanation requirements for a task: (1) the end-users' mental models, (2) the end-users' cognitive process, (3) the user interface, (4) the Human-Explainer Agent, and (5) the agent process. We first define each component of the architecture. Then, we present the Abstracted Explanation Space, a modeling tool that aggregates the architecture's components to support designers in systematically aligning explanations with end-users' work practices, needs, and goals. It guides the specifications of what needs to be explained (content: end-users' mental model), why this explanation is necessary (context: end-users' cognitive process), to delimit how to explain it (format: Human-Explainer Agent and user interface), and when the explanations should be given. We then exemplify the tool's use in an ongoing case study in the aircraft maintenance domain. Finally, we discuss possible contributions of the tool, known limitations or areas for improvement, and future work to be done.
+AD  - Polytech Montreal, Montreal, PQ, CanadaAD  - Univ Quebec Montreal, Montreal, PQ, CanadaDA  - APR
+PY  - 2023
+VL  - 38
+IS  - 2
+SP  - 869
+EP  - 887
+DO  - 10.1007/s00146-022-01536-6
+C6  - JUL 2022
+AN  - WOS:000830258500001
+N1  - Times Cited in Web of Science Core Collection:  6
+Total Times Cited:  6
+ER  -
+
+TY  - JOUR
+AU  - Naiseh, M
+AU  - Al-Thani, D
+AU  - Jiang, N
+AU  - Ali, R
+TI  - How the different explanation classes impact trust calibration: The case of clinical decision support systems
+T2  - INTERNATIONAL JOURNAL OF HUMAN-COMPUTER STUDIES
+AB  - Machine learning has made rapid advances in safety-critical applications, such as traffic control, finance, and healthcare. With the criticality of decisions they support and the potential consequences of following their recommendations, it also became critical to provide users with explanations to interpret machine learning models in general, and black-box models in particular. However, despite the agreement on explainability as a necessity, there is little evidence on how recent advances in eXplainable Artificial Intelligence literature (XAI) can be applied in collaborative decision-making tasks, i.e., human decision-maker and an AI system working together, to contribute to the process of trust calibration effectively. This research conducts an empirical study to evaluate four XAI classes for their impact on trust calibration. We take clinical decision support systems as a case study and adopt a within-subject design followed by semi-structured interviews. We gave participants clinical scenarios and XAI interfaces as a basis for decision-making and rating tasks. Our study involved 41 medical practitioners who use clinical decision support systems frequently. We found that users perceive the contribution of explanations to trust calibration differently according to the XAI class and to whether XAI interface design fits their job constraints and scope. We revealed additional requirements on how explanations shall be instantiated and designed to help a better trust calibration. Finally, we build on our findings and present guidelines for designing XAI interfaces.
+AD  - Univ Southampton, Fac Elect & Comp Sci, Southampton SO17 1BJ, Hants, EnglandAD  - Bournemouth Univ, Fac Sci & Technol, Poole BH12 5BB, Dorset, EnglandAD  - Hamad Bin Khalifa Univ, Coll Sci & Engn, Doha, QatarDA  - JAN
+PY  - 2023
+VL  - 169
+C7  - 102941
+DO  - 10.1016/j.ijhcs.2022.102941
+C6  - OCT 2022
+AN  - WOS:000875633200002
+N1  - Times Cited in Web of Science Core Collection:  45
+Total Times Cited:  46
+ER  -
+
+TY  - JOUR
+AU  - Veitch, E
+AU  - Alsos, OA
+TI  - Human-Centered Explainable Artificial Intelligence for Marine Autonomous Surface Vehicles
+T2  - JOURNAL OF MARINE SCIENCE AND ENGINEERING
+AB  - Explainable Artificial Intelligence (XAI) for Autonomous Surface Vehicles (ASVs) addresses developers' needs for model interpretation, understandability, and trust. As ASVs approach wide-scale deployment, these needs are expanded to include end user interactions in real-world contexts. Despite recent successes of technology-centered XAI for enhancing the explainability of AI techniques to expert users, these approaches do not necessarily carry over to non-expert end users. Passengers, other vessels, and remote operators will have XAI needs distinct from those of expert users targeted in a traditional technology-centered approach. We formulate a concept called 'human-centered XAI' to address emerging end user interaction needs for ASVs. To structure the concept, we adopt a model-based reasoning method for concept formation consisting of three processes: analogy, visualization, and mental simulation, drawing from examples of recent ASV research at the Norwegian University of Science and Technology (NTNU). The examples show how current research activities point to novel ways of addressing XAI needs for distinct end user interactions and underpin the human-centered XAI approach. Findings show how representations of (1) usability, (2) trust, and (3) safety make up the main processes in human-centered XAI. The contribution is the formation of human-centered XAI to help advance the research community's efforts to expand the agenda of interpretability, understandability, and trust to include end user ASV interactions.
+AD  - Norwegian Univ Sci & Technol NTNU, Dept Design, Kolbjorn Hejes Vei 2b, N-7491 Trondheim, NorwayDA  - NOV
+PY  - 2021
+VL  - 9
+IS  - 11
+C7  - 1227
+DO  - 10.3390/jmse9111227
+AN  - WOS:000834271400001
+N1  - Times Cited in Web of Science Core Collection:  18
+Total Times Cited:  18
+ER  -
+
+TY  - JOUR
+AU  - Saqr, M
+AU  - López-Pernas, S
+TI  - Why explainable AI may not be enough: predictions and mispredictions in decision making in education
+T2  - SMART LEARNING ENVIRONMENTS
+AB  - In learning analytics and in education at large, AI explanations are always computed from aggregate data of all the students to offer the "average" picture. Whereas the average may work for most students, it does not reflect or capture the individual differences or the variability among students. Therefore, instance-level predictions-where explanations for each particular student are presented according to their own data-may help understand how and why predictions were estimated and how a student or teacher may act or make decisions. This study aims to examine the utility of individualized instance-level AI, its value in informing decision-making, and-more importantly-how they can be used to offer personalized feedback. Furthermore, the study examines mispredictions, their explanations and how they offer explanations or affect decision making. Using data from a full course with 126 students, five ML algorithms were implemented with explanatory mechanisms, compared and the best performing algorithm (Random Forest) was therefore selected. The results show that AI explanations, while useful, cannot achieve their full potential without a nuanced human involvement (i.e., hybrid human AI collaboration). Instance-level explainability may allow us to understand individual algorithmic decisions but may not very helpful for personalization or individualized support. In case of mispredictions, the explanations show that algorithms decide based on the "wrong predictors" which underscores the fact that a full data-driven approach cannot be fully trusted with generating plausible recommendations completely on its own and may require human assistance.
+AD  - Univ Eastern Finland, Sch Comp, Joensuu Campus Yliopistokatu 2, FI-80100 Joensuu, FinlandDA  - NOV 18
+PY  - 2024
+VL  - 11
+IS  - 1
+C7  - 52
+DO  - 10.1186/s40561-024-00343-4
+AN  - WOS:001357778500001
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+ER  -
+
+TY  - JOUR
+AU  - Humer, C
+AU  - Ter, AH
+AU  - Leichtmann, B
+AU  - Mara, M
+AU  - Streit, M
+TI  - Reassuring, Misleading, Debunking: Comparing Effects of XAI Methods on Human Decisions
+T2  - ACM TRANSACTIONS ON INTERACTIVE INTELLIGENT SYSTEMS
+AB  - Trust calibration is essential in AI-assisted decision-making. If human users understand the rationale on which an AI model has made a prediction, they can decide whether they consider this prediction reasonable. Especially in high-risk tasks such as mushroom hunting (where a wrong decision may be fatal), it is important that users make correct choices to trust or overrule the AI. Various explainable AI (XAI) methods are currently being discussed as potentially useful for facilitating understanding and subsequently calibrating user trust. So far, however, it remains unclear which approaches are most effective. In this article, the effects of XAI methods on human AI-assisted decision-making in the high-risk task of mushroom picking were tested. For that endeavor, the effects of (i) Grad-CAM attributions, (ii) nearest-neighbor examples, and (iii) network-dissection concepts were compared in a between-subjects experiment with N = 501 participants representing end-users of the system. In general, nearest-neighbor examples improved decision correctness the most. However, varying effects for different task items became apparent. All explanations seemed to be particularly effective when they revealed reasons to (i) doubt a specific AI classification when the AI was wrong and (ii) trust a specific AI classification when the AI was correct. Our results suggest that well-established methods, such as Grad-CAM attribution maps, might not be as beneficial to end users as expected and that XAI techniques for use in real-world scenarios must be chosen carefully.
+AD  - Johannes Kepler Univ Linz, Linz, AustriaAD  - Ludwig Maximilians Univ Munchen, Munich, GermanyDA  - SEP
+PY  - 2024
+VL  - 14
+IS  - 3
+C7  - 16
+DO  - 10.1145/3665647
+AN  - WOS:001325864200002
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  2
+ER  -
+
+TY  - JOUR
+AU  - Farahmand, F
+TI  - Commonsense for AI: an interventional approach to explainability and personalization
+T2  - AI & SOCIETY
+AB  - AI systems are expected to impact the ways we communicate, learn, and interact with technology. However, there are still major concerns about their commonsense reasoning, and personalization. This article computationally explains causal (vs. statistical) inference, at different levels of abstraction, and provides three examples of how we can use do-operator, a mathematical operator for intervention, to address some of these concerns. The first example is from an educational module that I developed and implemented for undergraduate engineering students, as part of an educational research project with the US National Science Foundation. For the first time, to the best of my knowledge, 117 students could successfully use do-operator in a cybersecurity investment decision, according to Bloom's learning taxonomy. Gender did not make a significant difference in the students' performance, according to the Mann-Whitney U test. The second example explains using do-operator in assessing the effectiveness of intelligent tutoring systems, ITS, in receiving higher grades. The third example sheds light on combining online learning and offline learning, in reinforcement learning, to find the optimal policy that maximizes reward. To shed light on future research on explainability and personalization, I offer two recommendations: 1- Learn like System 2, the conscious learner (based on Bengio's proposal for deep learning 2.0), and 2- Preference, a process, not an object (based on preference analysis of 25,646 registrants, entities and individuals purchasing domain names). In conclusion, this article contributes to achieving the goal of human-AI: Machines that think that learn and that create.
+AD  - Georgia Inst Technol, Sch Elect & Comp Engn, Klaus Adv Comp Bldg,266 Ferst Dr, Atlanta, GA 30332 USADA  - 2024 NOV 9
+PY  - 2024
+DO  - 10.1007/s00146-024-02107-7
+C6  - NOV 2024
+AN  - WOS:001350465000002
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+ER  -
+
+TY  - JOUR
+AU  - Tursunalieva, A
+AU  - Alexander, DLJ
+AU  - Dunne, R
+AU  - Li, JM
+AU  - Riera, L
+AU  - Zhao, YC
+TI  - Making Sense of Machine Learning: A Review of Interpretation Techniques and Their Applications
+T2  - APPLIED SCIENCES-BASEL
+AB  - Transparency in AI models is essential for promoting human-AI collaboration and ensuring regulatory compliance. However, interpreting these models is a complex process influenced by various methods and datasets. This study presents a comprehensive overview of foundational interpretation techniques, meticulously referencing the original authors and emphasizing their pivotal contributions. Recognizing the seminal work of these pioneers is imperative for contextualizing the evolutionary trajectory of interpretation in the field of AI. Furthermore, this research offers a retrospective analysis of interpretation techniques, critically evaluating their inherent strengths and limitations. We categorize these techniques into model-based, representation-based, post hoc, and hybrid methods, delving into their diverse applications. Furthermore, we analyze publication trends over time to see how the adoption of advanced computational methods within various categories of interpretation techniques has shaped the development of AI interpretability over time. This analysis highlights a notable preference shift towards data-driven approaches in the field. Moreover, we consider crucial factors such as the suitability of these techniques for generating local or global insights and their compatibility with different data types, including images, text, and tabular data. This structured categorization serves as a guide for practitioners navigating the landscape of interpretation techniques in AI. In summary, this review not only synthesizes various interpretation techniques but also acknowledges the contributions of their original authors. By emphasizing the origins of these techniques, we aim to enhance AI model explainability and underscore the importance of recognizing biases, uncertainties, and limitations inherent in the methods and datasets. This approach promotes the ethical and practical use of interpretation insights, empowering AI practitioners, researchers, and professionals to make informed decisions when selecting techniques for responsible AI implementation in real-world scenarios.
+AD  - Commonwealth Sci & Ind Res Org CSIRO, Data61, Canberra, ACT 2601, AustraliaDA  - JAN
+PY  - 2024
+VL  - 14
+IS  - 2
+C7  - 496
+DO  - 10.3390/app14020496
+AN  - WOS:001149399100001
+N1  - Times Cited in Web of Science Core Collection:  13
+Total Times Cited:  13
+ER  -
+
+TY  - JOUR
+AU  - Vasconcelos, H
+AU  - Bansal, G
+AU  - Fourney, A
+AU  - Liao, QV
+AU  - Vaughan, JW
+TI  - Generation Probabilities Are Not Enough: Uncertainty Highlighting in AI Code Completions
+T2  - ACM TRANSACTIONS ON COMPUTER-HUMAN INTERACTION
+AB  - Large-scale generative models have enabled the development of AI-powered code completion tools to assist programmers in writing code. Like all AI-powered tools, these code completion tools are not always accurate and can introduce bugs or even security vulnerabilities into code if not properly detected and corrected by a human programmer. One technique that has been proposed and implemented to help programmers locate potential errors is to highlight uncertain tokens. However, little is known about the effectiveness of this technique. Through a mixed-methods study with 30 programmers, we compare three conditions: providing the AI system's code completion alone, highlighting tokens with the lowest likelihood of being generated by the underlying generative model, and highlighting tokens with the highest predicted likelihood of being edited by a programmer. We find that highlighting tokens with the highest predicted likelihood of being edited leads to faster task completion and more targeted edits and is subjectively preferred by study participants. In contrast, highlighting tokens according to their probability of being generated does not provide any benefit over the baseline with no highlighting. We further explore the design space of how to convey uncertainty in AI-powered code completion tools and find that programmers prefer highlights that are granular, informative, interpretable, and not overwhelming. This work contributes to building an understanding of what uncertainty means for generative models and how to convey it effectively. methodologies - Artificial intelligence; Machine learning; center dot Software and its engineering - Software creation and management; Software notations and tools; Integrated and visual development environments;
+AD  - Stanford Univ, Stanford, CA 94305 USAAD  - Microsoft Res, Redmond, WA USADA  - FEB
+PY  - 2025
+VL  - 32
+IS  - 1
+C7  - 4
+DO  - 10.1145/3702320
+AN  - WOS:001481492000002
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+ER  -
+
+TY  - JOUR
+AU  - Zeng, YC
+AU  - Brown, C
+AU  - Raymond, J
+AU  - Byari, M
+AU  - Hotz, R
+AU  - Rounsevell, M
+TI  - Exploring the opportunities and challenges of using large language models to represent institutional agency in land system modelling
+T2  - EARTH SYSTEM DYNAMICS
+AB  - Public policy institutions play crucial roles in the land system, but modelling their policy-making processes is challenging. Large language models (LLMs) offer a novel approach to simulating many different types of human decision-making, including policy choices. This paper aims to investigate the opportunities and challenges that LLMs bring to land system modelling by integrating LLM-powered institutional agents within an agent-based land use model. Four types of LLM agents are examined, all of which, in the examples presented here, use taxes to steer meat production toward a target level. The LLM agents provide simulated reasoning and policy action output. The agents' performance is benchmarked against two baseline scenarios: one without policy interventions and another implementing optimal policy actions determined through a genetic algorithm. The findings show that, while LLM agents perform better than the non-intervention scenario, they fall short of the performance achieved by optimal policy actions. However, LLM agents demonstrate behaviour and decision-making, marked by policy consistency and transparent reasoning. This includes generating strategies such as incrementalism, delayed policy action, proactive policy adjustments, and balancing multiple stakeholder interests. Agents equipped with experiential learning capabilities excel in achieving policy objectives through progressive policy actions. The order in which reasoning and proposed policy actions are output has a notable effect on the agents' performance, suggesting that enforced reasoning both guides and explains LLM decisions. The approach presented here points to promising opportunities and significant challenges. The opportunities include, exploring naturalistic institutional decision-making, handling massive institutional documents, and human-AI cooperation. Challenges mainly lie in the scalability, interpretability, and reliability of LLMs.
+AD  - Karlsruhe Inst Technol, Inst Meteorol & Climate Res Atmospher Environm Res, D-82467 Garmisch Partenkirchen, GermanyAD  - Highlands Rewilding Ltd, Old Sch House, Drumnadrochit IV63 6XG, ScotlandAD  - Karlsruhe Inst Technol, Inst Geog & Geoecol, D-76131 Karlsruhe, GermanyAD  - Univ Edinburgh, Sch GeoSci, Drummond St, Edinburgh EH8 9XP, ScotlandDA  - MAR 13
+PY  - 2025
+VL  - 16
+IS  - 2
+SP  - 423
+EP  - 449
+DO  - 10.5194/esd-16-423-2025
+AN  - WOS:001445110500001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+ER  -
+
+TY  - JOUR
+AU  - Angerschmid, A
+AU  - Zhou, JL
+AU  - Theuermann, K
+AU  - Chen, F
+AU  - Holzinger, A
+TI  - Fairness and Explanation in AI-Informed Decision Making
+T2  - MACHINE LEARNING AND KNOWLEDGE EXTRACTION
+AB  - AI-assisted decision-making that impacts individuals raises critical questions about transparency and fairness in artificial intelligence (AI). Much research has highlighted the reciprocal relationships between the transparency/explanation and fairness in AI-assisted decision-making. Thus, considering their impact on user trust or perceived fairness simultaneously benefits responsible use of socio-technical AI systems, but currently receives little attention. In this paper, we investigate the effects of AI explanations and fairness on human-AI trust and perceived fairness, respectively, in specific AI-based decision-making scenarios. A user study simulating AI-assisted decision-making in two health insurance and medical treatment decision-making scenarios provided important insights. Due to the global pandemic and restrictions thereof, the user studies were conducted as online surveys. From the participant's trust perspective, fairness was found to affect user trust only under the condition of a low fairness level, with the low fairness level reducing user trust. However, adding explanations helped users increase their trust in AI-assisted decision-making. From the perspective of perceived fairness, our work found that low levels of introduced fairness decreased users' perceptions of fairness, while high levels of introduced fairness increased users' perceptions of fairness. The addition of explanations definitely increased the perception of fairness. Furthermore, we found that application scenarios influenced trust and perceptions of fairness. The results show that the use of AI explanations and fairness statements in AI applications is complex: we need to consider not only the type of explanations and the degree of fairness introduced, but also the scenarios in which AI-assisted decision-making is used.
+AD  - Med Univ Graz, Med Informat Stat & Documentat, A-8036 Graz, AustriaAD  - Univ Nat Resources & Life Sci, Human Ctr Lab, A-1190 Vienna, AustriaAD  - Univ Technol Sydney, Human Ctr AI Lab, Sydney, NSW 2007, AustraliaAD  - Graz Univ Technol, Doctoral Sch Comp Sci, A-8010 Graz, AustriaAD  - Univ Alberta, Alberta Machine Intelligence Inst, XAI Lab, Edmonton, AB T5J 3B1, CanadaDA  - JUN
+PY  - 2022
+VL  - 4
+IS  - 2
+SP  - 556
+EP  - 579
+DO  - 10.3390/make4020026
+AN  - WOS:000819046000001
+N1  - Times Cited in Web of Science Core Collection:  84
+Total Times Cited:  86
+ER  -
+

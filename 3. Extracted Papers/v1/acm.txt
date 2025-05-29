@@ -1,0 +1,606 @@
+Torkil Clemmensen, Mahyar Tourchi Moghaddam, and Jacob Nørbjerg. 2025. Cyber-physical systems with Human-in-the-Loop: A systematic review of socio-technical perspectives. J. Syst. Softw. 226, C (Aug 2025). https://doi.org/10.1016/j.jss.2025.112348
+
+Saif Benjaafar, Zicheng Wang, and Xiaotang Yang. 2025. Human in the Loop Automation: Ride-Hailing with Remote (Tele-)Drivers. Manage. Sci. 71, 3 (March 2025), 2527–2543. https://doi.org/10.1287/mnsc.2022.01687
+
+Nan Zhang, Rami Bahsoon, Nikos Tziritas, and Georgios Theodoropoulos. 2022. Explainable Human-in-the-Loop Dynamic Data-Driven Digital Twins. In Dynamic Data Driven Applications Systems: 4th International Conference, DDDAS 2022, Cambridge, MA, USA, October 6–10, 2022, Proceedings. Springer-Verlag, Berlin, Heidelberg, 233–243. https://doi.org/10.1007/978-3-031-52670-1_23
+
+Michael T. Lash. 2024. HEX: Human-in-the-loop explainability via deep reinforcement learning. Decis. Support Syst. 187, C (Dec 2024). https://doi.org/10.1016/j.dss.2024.114304
+
+Teresa Heyder, Nina Passlack, and Oliver Posegga. 2023. Ethical management of human-AI interaction: Theory development review. J. Strateg. Inf. Syst. 32, 3 (Sep 2023). https://doi.org/10.1016/j.jsis.2023.101772
+
+Aaquib Tabrez. 2024. Autonomous policy explanations for effective human-machine teaming. In Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence and Thirty-Sixth Conference on Innovative Applications of Artificial Intelligence and Fourteenth Symposium on Educational Advances in Artificial Intelligence (AAAI'24/IAAI'24/EAAI'24), Vol. 38. AAAI Press, Article 2689, 23423–23424. https://doi.org/10.1609/aaai.v38i21.30412
+
+Monika Simmler and Ruth Frischknecht. 2021. A taxonomy of human–machine collaboration: capturing automation and technical autonomy. AI Soc. 36, 1 (Mar 2021), 239–250. https://doi.org/10.1007/s00146-020-01004-z
+
+Léon Sobrie and Marijn Verschelde. 2024. Real-time decision support for human–machine interaction in digital railway control rooms. Decis. Support Syst. 181, C (Jun 2024). https://doi.org/10.1016/j.dss.2024.114216
+
+Alexander Treiss, Jannis Walk, and Niklas Kühl. 2020. An Uncertainty-Based Human-in-the-Loop System for Industrial Tool Wear Analysis. In Machine Learning and Knowledge Discovery in Databases. Applied Data Science and Demo Track: European Conference, ECML PKDD 2020, Ghent, Belgium, September 14–18, 2020, Proceedings, Part V. Springer-Verlag, Berlin, Heidelberg, 85–100. https://doi.org/10.1007/978-3-030-67670-4_6
+
+Naveena Karusala, Sohini Upadhyay, Rajesh Veeraraghavan, and Krzysztof Z. Gajos. 2024. Understanding Contestability on the Margins: Implications for the Design of Algorithmic Decision-making in Public Services. In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI '24). Association for Computing Machinery, New York, NY, USA, Article 478, 1–16. https://doi.org/10.1145/3613904.3641898
+
+Navita Goyal, Connor Baumler, Tin Nguyen, and Hal Daumé III. 2024. The Impact of Explanations on Fairness in Human-AI Decision-Making: Protected vs Proxy Features. In Proceedings of the 29th International Conference on Intelligent User Interfaces (IUI '24). Association for Computing Machinery, New York, NY, USA, 155–180. https://doi.org/10.1145/3640543.3645210
+
+Upol Ehsan, Elizabeth A Watkins, Philipp Wintersberger, Carina Manger, Nina Hubig, Saiph Savage, Justin D. Weisz, and Andreas Riener. 2025. New Frontiers of Human-centered Explainable AI (HCXAI): Participatory Civic AI, Benchmarking LLMs, XAI Hallucinations, and Responsible AI Audits. In Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA '25). Association for Computing Machinery, New York, NY, USA, Article 793, 1–6. https://doi.org/10.1145/3706599.3706713
+
+Min Hun Lee, Bernardino, Alexandre, Dey, Anind K., Smailagic, Asim, Kitani, Kris M., Nicolau, Hugo, and Bermúdez i Badia, Sergi. 2021. Interactive Hybrid Intelligence Systems for Human-AI/Robot Collaboration: Improving the Practices of Physical Stroke Rehabilitation. Ph.D. Dissertation. Carnegie Mellon University, USA. Advisor(s) Siewiorek, Daniel P. Order Number: AAI28648408.
+
+Snehal Prabhudesai, Leyao Yang, Sumit Asthana, Xun Huan, Q. Vera Liao, and Nikola Banovic. 2023. Understanding Uncertainty: How Lay Decision-makers Perceive and Interpret Uncertainty in Human-AI Decision Making. In Proceedings of the 28th International Conference on Intelligent User Interfaces (IUI '23). Association for Computing Machinery, New York, NY, USA, 379–396. https://doi.org/10.1145/3581641.3584033
+
+Claudia Veronica Roberts, Bousso Dieng, Adji, Engelhardt, Barbara, Monroy-Hernández, Andrés, and Salganik, Matt. 2023. Human-Machine Collaboration in Real-World Machine-Learning Applications. Ph.D. Dissertation. Princeton University, USA. Advisor(s) Narayanan, Arvind. Order Number: AAI30244191.
+
+Denis Dennehy, Anastasia Griva, Nancy Pouloudi, Matti Mäntymäki, and Ilias Pappas. 2023. Artificial intelligence for decision-making and the future of work. Int. J. Inf. Manag. 69, C (Apr 2023). https://doi.org/10.1016/j.ijinfomgt.2022.102574
+
+Henrik Palmer Olsen, Thomas Troels Hildebrandt, Cornelius Wiesener, Matthias Smed Larsen, and Asbjørn William Ammitzbøll Flügge. 2024. The Right to Transparency in Public Governance: Freedom of Information and the Use of Artificial Intelligence by Public Agencies. Digit. Gov.: Res. Pract. 5, 1, Article 8 (March 2024), 15 pages. https://doi.org/10.1145/3632753
+
+Sadjad Soltanzadeh. 2024. A metaphysical account of agency for technology governance. AI Soc. 40, 3 (Mar 2025), 1723–1734. https://doi.org/10.1007/s00146-024-01941-z
+
+Gabriel Lima, Nina Grgić-Hlača, and Meeyoung Cha. 2021. Human Perceptions on Moral Responsibility of AI: A Case Study in AI-Assisted Bail Decision-Making. In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI '21). Association for Computing Machinery, New York, NY, USA, Article 235, 1–17. https://doi.org/10.1145/3411764.3445260
+
+Vivian Lai, Tan, Chenhao, Liao, Q. Vera, Sumner, Tamara, and Yeh, Tom. 2022. Empowering Humans in Human-AI Decision Making. Ph.D. Dissertation. University of Colorado at Boulder, USA. Advisor(s) Martin, James. Order Number: AAI29322003.
+
+Dakuo Wang, Elizabeth Churchill, Pattie Maes, Xiangmin Fan, Ben Shneiderman, Yuanchun Shi, and Qianying Wang. 2020. From Human-Human Collaboration to Human-AI Collaboration: Designing AI Systems That Can Work Together with People. In Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems (CHI EA '20). Association for Computing Machinery, New York, NY, USA, 1–6. https://doi.org/10.1145/3334480.3381069
+
+Thomas Herrmann. 2023. Collaborative Appropriation of AI in the Context of Interacting with AI. In Artificial Intelligence in HCI: 4th International Conference, AI-HCI 2023, Held as Part of the 25th HCI International Conference, HCII 2023, Copenhagen, Denmark, July 23–28, 2023, Proceedings, Part II. Springer-Verlag, Berlin, Heidelberg, 249–260. https://doi.org/10.1007/978-3-031-35894-4_18
+
+Lars Sipos, Ulrike Schäfer, Katrin Glinka, and Claudia Müller-Birn. 2023. Identifying Explanation Needs of End-users: Applying and Extending the XAI Question Bank. In Proceedings of Mensch und Computer 2023 (MuC '23). Association for Computing Machinery, New York, NY, USA, 492–497. https://doi.org/10.1145/3603555.3608551
+
+Lena Recki, Margarita Esau-Held, Dennis Lawo, and Gunnar Stevens. 2023. AI said, She said - How Users Perceive Consumer Scoring in Practice. In Proceedings of Mensch und Computer 2023 (MuC '23). Association for Computing Machinery, New York, NY, USA, 149–160. https://doi.org/10.1145/3603555.3603562
+
+Stuart E. Middleton, Anita Lavorgna, and Ruth McAlister. 2020. STAIDCC20: 1st International Workshop on Socio-technical AI Systems for Defence, Cybercrime and Cybersecurity. In Companion Publication of the 12th ACM Conference on Web Science (WebSci '20 Companion). Association for Computing Machinery, New York, NY, USA, 78–79. https://doi.org/10.1145/3394332.3402897
+
+Joon Sung Park, Karrie Karahalios, Niloufar Salehi, and Motahhare Eslami. 2022. Power Dynamics and Value Conflicts in Designing and Maintaining Socio-Technical Algorithmic Processes. Proc. ACM Hum.-Comput. Interact. 6, CSCW1, Article 110 (April 2022), 21 pages. https://doi.org/10.1145/3512957
+
+Astrid Bertrand, James R. Eagan, Winston Maxwell, and Joshua Brand. 2024. AI is Entering Regulated Territory: Understanding the Supervisors' Perspective for Model Justifiability in Financial Crime Detection. In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI '24). Association for Computing Machinery, New York, NY, USA, Article 480, 1–21. https://doi.org/10.1145/3613904.3642326
+
+Sara Salimzadeh, Gaole He, and Ujwal Gadiraju. 2023. A Missing Piece in the Puzzle: Considering the Role of Task Complexity in Human-AI Decision Making. In Proceedings of the 31st ACM Conference on User Modeling, Adaptation and Personalization (UMAP '23). Association for Computing Machinery, New York, NY, USA, 215–227. https://doi.org/10.1145/3565472.3592959
+
+Haifeng Shen, Kewen Liao, Zhibin Liao, Job Doornberg, Maoying Qiao, Anton van den Hengel, and Johan W. Verjans. 2021. Human-AI Interactive and Continuous Sensemaking: A Case Study of Image Classification using Scribble Attention Maps. In Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems (CHI EA '21). Association for Computing Machinery, New York, NY, USA, Article 290, 1–8. https://doi.org/10.1145/3411763.3451798
+
+Daoming Lyu, Yilmaz, Levent, Mao, Shiwen, Nguyen, Anh, and Zhang, Shiqi. 2022. Towards Trustworthy Decision-Making in Human-Machine Symbiosis. Ph.D. Dissertation. Auburn University, USA. Advisor(s) Liu, Bo. Order Number: AAI29288743.
+
+Juan Parra-Ullauri, Antonio García-Domínguez, Nelly Bencomo, and Luis Garcia-Paucar. 2022. History-aware explanations: towards enabling human-in-the-loop in self-adaptive systems. In Proceedings of the 25th International Conference on Model Driven Engineering Languages and Systems: Companion Proceedings (MODELS '22). Association for Computing Machinery, New York, NY, USA, 286–295. https://doi.org/10.1145/3550356.3561538
+
+Anna Kawakami, Jordan Taylor, Sarah Fox, Haiyi Zhu, and Kenneth Holstein. 2025. AI Failure Loops in Feminized Labor: Understanding the Interplay of Workplace AI and Occupational Devaluation. Proceedings of the 2024 AAAI/ACM Conference on AI, Ethics, and Society. AAAI Press, 683.
+
+Ilse Verdiesen, Filippo Santoni de Sio, and Virginia Dignum. 2021. Accountability and Control Over Autonomous Weapon Systems: A Framework for Comprehensive Human Oversight. Minds Mach. 31, 1 (Mar 2021), 137–163. https://doi.org/10.1007/s11023-020-09532-9
+
+Jordan Schneider, Swathy Satheesan Cheruvalath, and Teena Hassan. 2024. Time for an Explanation: A Mini-Review of Explainable Physio-Behavioural Time-Series Classification. In Companion of the 2024 on ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp '24). Association for Computing Machinery, New York, NY, USA, 885–889. https://doi.org/10.1145/3675094.3679001
+
+Sunnie S. Y. Kim. 2024. Establishing Appropriate Trust in AI through Transparency and Explainability. In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA '24). Association for Computing Machinery, New York, NY, USA, Article 433, 1–6. https://doi.org/10.1145/3613905.3638184
+
+Leah Myong Chong, Goucher-Lambert, Kosa, and Kara, Levent B. 2022. Role of Human Self-Confidence and Their Confidence in Artificial Intelligence in AI-Assisted Decision-Making in Engineering Design. Ph.D. Dissertation. Carnegie Mellon University, USA. Advisor(s) Cagan, Jonathan and Kotovsky, Kenneth. Order Number: AAI29210226.
+
+Yazan Mualla, Igor Tchappi, Timotheus Kampik, Amro Najjar, Davide Calvaresi, Abdeljalil Abbas-Turki, Stéphane Galland, and Christophe Nicolle. 2022. The quest of parsimonious XAI: A human-agent architecture for explanation formulation. Artif. Intell. 302, C (Jan 2022). https://doi.org/10.1016/j.artint.2021.103573
+
+Marco Antonio Sotelo Monge and Jorge Maestre Vidal. 2021. Conceptualization and cases of study on cyber operations against the sustainability of the tactical edge. Future Gener. Comput. Syst. 125, C (Dec 2021), 869–890. https://doi.org/10.1016/j.future.2021.07.016
+
+Kun Qian, Lucian Popa, and Prithviraj Sen. 2019. SystemER: a human-in-the-loop system for explainable entity resolution. Proc. VLDB Endow. 12, 12 (August 2019), 1794–1797. https://doi.org/10.14778/3352063.3352068
+
+Sam Baron, Andrew J. Latham, and Somogy Varga. 2025. Explainable AI and stakes in medicine: A user study. Artif. Intell. 340, C (Mar 2025). https://doi.org/10.1016/j.artint.2025.104282
+
+Karinne Ramirez-Amaro, Ilaria Torre, Maximilian Diehl, and Emmanuel Dean. 2023. The Importance of Human Factors for Trusted Human-Robot Collaborations. In Proceedings of the 11th International Conference on Human-Agent Interaction (HAI '23). Association for Computing Machinery, New York, NY, USA, 502–503. https://doi.org/10.1145/3623809.3623981
+
+Sohini Upadhyay, Himabindu Lakkaraju, and Krzysztof Z. Gajos. 2025. Counterfactual Explanations May Not Be the Best Algorithmic Recourse Approach. In Proceedings of the 30th International Conference on Intelligent User Interfaces (IUI '25). Association for Computing Machinery, New York, NY, USA, 446–462. https://doi.org/10.1145/3708359.3712095
+
+Jennifer Cobbe, Michelle Seng Ah Lee, and Jatinder Singh. 2021. Reviewable Automated Decision-Making: A Framework for Accountable Algorithmic Systems. In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (FAccT '21). Association for Computing Machinery, New York, NY, USA, 598–609. https://doi.org/10.1145/3442188.3445921
+
+W. F. Lawless, Ranjeev Mittu, Donald Sofge, and Laura Hiatt. 2019. Artificial Intelligence, Autonomy, and Human‐Machine Teams: Interdependence, Context, and Explainable AI: Editorial Introduction to the Special Articles on Context. AI Mag. 40, 3 (Fall 2019), 5–13. https://doi.org/10.1609/aimag.v40i3.2866
+
+Laura Sartori and Andreas Theodorou. 2022. A sociotechnical perspective for the future of AI: narratives, inequalities, and human control. Ethics and Inf. Technol. 24, 1 (Mar 2022). https://doi.org/10.1007/s10676-022-09624-3
+
+Yuting Liao, St. Jean, Beth, Lazar, Amanda, Choe, Eun Kyoung, and Kivlighan, Dennis. 2021. Design and Evaluation of a Conversational Agent for Mental Health Support: Forming Human-Agent Sociotechnical and Therapeutic Relationships. Ph.D. Dissertation. University of Maryland, College Park. Advisor(s) Vitak, Jessica. Order Number: AAI28717215.
+
+Julie Dugdale, Mahyar T. Moghaddam, and Henry Muccini. 2020. Human behaviour centered design: developing a software system for cultural heritage. In Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering: Software Engineering in Society (ICSE-SEIS '20). Association for Computing Machinery, New York, NY, USA, 85–94. https://doi.org/10.1145/3377815.3381375
+
+Upol Ehsan, Q. Vera Liao, Samir Passi, Mark O. Riedl, and Hal Daumé. 2024. Seamful XAI: Operationalizing Seamful Design in Explainable AI. Proc. ACM Hum.-Comput. Interact. 8, CSCW1, Article 119 (April 2024), 29 pages. https://doi.org/10.1145/3637396
+
+Alan Yang, Jason Talaei, Tolkyn Takishova, and Masialeti Masialeti. 2024. How Does Cost Leadership Strategy Suppress the Performance Benefits of Explainability of AI Applications in Organizations? J. Glob. Inf. Manage. 32, 1 (Aug 2024), 1–23. https://doi.org/10.4018/JGIM.354062
+
+Anna Kawakami, Luke Guerdan, Yanghuidi Cheng, Kate Glazko, Matthew Lee, Scott Carter, Nikos Arechiga, Haiyi Zhu, and Kenneth Holstein. 2023. Training Towards Critical Use: Learning to Situate AI Predictions Relative to Human Knowledge. In Proceedings of The ACM Collective Intelligence Conference (CI '23). Association for Computing Machinery, New York, NY, USA, 63–78. https://doi.org/10.1145/3582269.3615595
+
+Harshavardhan Sunil Abichandani, Wencan Zhang, and Brian Y Lim. 2025. Robust Relatable Explanations of Machine Learning with Disentangled Cue-specific Saliency. In Proceedings of the 30th International Conference on Intelligent User Interfaces (IUI '25). Association for Computing Machinery, New York, NY, USA, 1203–1231. https://doi.org/10.1145/3708359.3712105
+
+Christine P Lee, Min Kyung Lee, and Bilge Mutlu. 2024. The AI-DEC: A Card-based Design Method for User-centered AI Explanations. In Proceedings of the 2024 ACM Designing Interactive Systems Conference (DIS '24). Association for Computing Machinery, New York, NY, USA, 1010–1028. https://doi.org/10.1145/3643834.3661576
+
+Andrew Bell and Julia Stoyanovich. 2024. Making Transparency Influencers: A Case Study of an Educational Approach to Improve Responsible AI Practices in News and Media. In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA '24). Association for Computing Machinery, New York, NY, USA, Article 523, 1–8. https://doi.org/10.1145/3613905.3637113
+
+Alexander Koebler, Christian Greisinger, Jan Paulus, Ingo Thon, and Florian Buettner. 2024. Through the&nbsp;Eyes of&nbsp;the&nbsp;Expert: Aligning Human and&nbsp;Machine Attention for&nbsp;Industrial AI. In Artificial Intelligence in HCI: 5th International Conference, AI-HCI 2024, Held as Part of the 26th HCI International Conference, HCII 2024, Washington, DC, USA, June 29–July 4, 2024, Proceedings, Part II. Springer-Verlag, Berlin, Heidelberg, 407–423. https://doi.org/10.1007/978-3-031-60611-3_28
+
+Andreas Holzinger, Niko Lukač, Dzemail Rozajac, Emile Johnston, Veljka Kocic, Bernhard Hoerl, Christoph Gollob, Arne Nothdurft, Karl Stampfer, Stefan Schweng, and Javier Del Ser. 2025. Enhancing trust in automated 3D point cloud data interpretation through explainable counterfactuals. Inf. Fusion 119, C (Jul 2025). https://doi.org/10.1016/j.inffus.2025.103032
+
+Elmira Yadollahi, Fethiye Irmak Dogan, Marta Romeo, Dimosthenis Kontogiorgos, Peizhu Qian, and Yan Zhang. 2025. 3rd Workshop on Explainability in Human-Robot Collaboration: Real-World Concerns. In Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction (HRI '25). IEEE Press, 1994–1996.
+
+Antonio Rago and Maria Vanina Martinez. 2024. Advancing interactive explainable AI via belief change theory. In Proceedings of the 21st International Conference on Principles of Knowledge Representation and Reasoning (KR '24), Vol. 21. Article 87, 931–937. https://doi.org/10.24963/kr.2024/87
+
+Maalvika Bhat. 2025. Designing AI Interfaces for Transparent Decision-Making and Ethical Reflection. In Companion Proceedings of the 30th International Conference on Intelligent User Interfaces (IUI '25 Companion). Association for Computing Machinery, New York, NY, USA, 211–214. https://doi.org/10.1145/3708557.3716150
+
+Stefan Schmager, Samrat Gupta, Ilias Pappas, and Polyxeni Vassilakopoulou. 2024. Designing for AI Transparency in Public Services: A User-Centred Study of Citizens’ Preferences. In HCI in Business, Government and Organizations: 11th International Conference, HCIBGO 2024, Held as Part of the 26th HCI International Conference, HCII 2024, Washington, DC, USA, June 29 – July 4, 2024, Proceedings, Part I. Springer-Verlag, Berlin, Heidelberg, 237–253. https://doi.org/10.1007/978-3-031-61315-9_17
+
+Jeroen Ooge, Shotallo Kato, and Katrien Verbert. 2022. Explaining Recommendations in E-Learning: Effects on Adolescents' Trust. In Proceedings of the 27th International Conference on Intelligent User Interfaces (IUI '22). Association for Computing Machinery, New York, NY, USA, 93–105. https://doi.org/10.1145/3490099.3511140
+
+Ruchen Wen, Francis Ferraro, and Cynthia Matuszek. 2024. GPT-4 as a Moral Reasoner for Robot Command Rejection. In Proceedings of the 12th International Conference on Human-Agent Interaction (HAI '24). Association for Computing Machinery, New York, NY, USA, 54–63. https://doi.org/10.1145/3687272.3688319
+
+Francisco Maria Calisto, João Maria Abrantes, Carlos Santiago, Nuno J. Nunes, and Jacinto C. Nascimento. 2025. Personalized explanations for clinician-AI interaction in breast imaging diagnosis by adapting communication to expertise levels. Int. J. Hum.-Comput. Stud. 197, C (Mar 2025). https://doi.org/10.1016/j.ijhcs.2025.103444
+
+Yang Zhang, Ruohan Zong, Lanyu Shang, Zhenrui Yue, Huimin Zeng, Yifan Liu, and Dong Wang. 2024. Tripartite Intelligence: Synergizing Deep Neural Network, Large Language Model, and Human Intelligence for Public Health Misinformation Detection (Archival Full Paper). In Proceedings of the ACM Collective Intelligence Conference (CI '24). Association for Computing Machinery, New York, NY, USA, 63–75. https://doi.org/10.1145/3643562.3672613
+
+Reham Al Tamime, Wendy Hall, and Richard Giordano. 2016. Medical Science in Wikipedia: The Construction of Scientific Knowledge in Open Science Projects. In Proceedings of the 12th International Symposium on Open Collaboration Companion (OpenSym '16). Association for Computing Machinery, New York, NY, USA, Article 4, 1–4. https://doi.org/10.1145/2962132.2962141
+
+Tao Yang, Yuwang Wang, Yan Lu, and Nanning Zheng. 2023. DisDiff: unsupervised disentanglement of diffusion probabilistic models. In Proceedings of the 37th International Conference on Neural Information Processing Systems (NIPS '23). Curran Associates Inc., Red Hook, NY, USA, Article 3026, 69130–69156.
+
+Da Xu, Danqing Zhang, Chuanwei Ruan, Lingling Zheng, Bo Yang, Guangyu Yang, Shuyuan Xu, and Haixun Wang. 2025. Tutorial on Landing Generative AI in Industrial Social and E-commerce Recsys. In Companion Proceedings of the ACM on Web Conference 2025 (WWW '25). Association for Computing Machinery, New York, NY, USA, 57–60. https://doi.org/10.1145/3701716.3715871
+
+Samantha Robertson and Mark Díaz. 2022. Understanding and Being Understood: User Strategies for Identifying and Recovering From Mistranslations in Machine Translation-Mediated Chat. In Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency (FAccT '22). Association for Computing Machinery, New York, NY, USA, 2223–2238. https://doi.org/10.1145/3531146.3534638
+
+Nicola Cavagnetto, Roberto Venditti, Matteo Cocchioni, and Stefano Bonelli. 2023. Demo: SectorX, an en-route ATC simulator for AI-based decision support to Air Traffic Controllers: A case study in the MAHALO project. In Proceedings of the 15th Biannual Conference of the Italian SIGCHI Chapter (CHItaly '23). Association for Computing Machinery, New York, NY, USA, Article 56, 1–3. https://doi.org/10.1145/3605390.3610822
+
+Chinasa T. Okolo and Hongjin Lin. 2024. "You can’t build what you don’t understand": Practitioner Perspectives on Explainable AI in the Global South. In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA '24). Association for Computing Machinery, New York, NY, USA, Article 11, 1–10. https://doi.org/10.1145/3613905.3651080
+
+Yuan Tian, Jonathan K. Kummerfeld, Toby Jia-Jun Li, and Tianyi Zhang. 2024. SQLucid: Grounding Natural Language Database Queries with Interactive Explanations. In Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology (UIST '24). Association for Computing Machinery, New York, NY, USA, Article 12, 1–20. https://doi.org/10.1145/3654777.3676368
+
+Nathan Gabriel Wood. 2024. Explainable AI in the military domain. Ethics and Inf. Technol. 26, 2 (Jun 2024). https://doi.org/10.1007/s10676-024-09762-w
+
+James Herbsleb. 2016. Building a socio-technical theory of coordination: why and how (outstanding research award). In Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering (FSE 2016). Association for Computing Machinery, New York, NY, USA, 2–10. https://doi.org/10.1145/2950290.2994160
+
+Kun Qian, Douglas Burdick, Sairam Gurajada, and Lucian Popa. 2019. Learning Explainable Entity Resolution Algorithms for Small Business Data using SystemER. In Proceedings of the 5th Workshop on Data Science for Macro-modeling with Financial and Economic Datasets (DSMM'19). Association for Computing Machinery, New York, NY, USA, Article 8, 1–6. https://doi.org/10.1145/3336499.3338010
+
+Peizhu Qian and Vaibhav Unhelkar. 2022. Evaluating the Role of Interactivity on Improving Transparency in Autonomous Agents. In Proceedings of the 21st International Conference on Autonomous Agents and Multiagent Systems (AAMAS '22). International Foundation for Autonomous Agents and Multiagent Systems, Richland, SC, 1083–1091.
+
+Sebastian Steindl and Martin Surner. 2023. CIP-ES: Causal Input Perturbation for Explanation Surrogates. In Proceedings of the 2023 2nd Asia Conference on Algorithms, Computing and Machine Learning (CACML '23). Association for Computing Machinery, New York, NY, USA, 569–574. https://doi.org/10.1145/3590003.3590107
+
+Miguel Portaz, Angeles Manjarres, and Olga C. Santos. 2024. Harmonizing Ethical Principles: Feedback Generation Approaches in Modeling Human Factors for Assisted Psychomotor Systems. In Adjunct Proceedings of the 32nd ACM Conference on User Modeling, Adaptation and Personalization (UMAP Adjunct '24). Association for Computing Machinery, New York, NY, USA, 380–385. https://doi.org/10.1145/3631700.3664900
+
+Christine P. Lee. 2024. Design, Development, and Deployment of Context-Adaptive AI Systems for Enhanced User Adoption. In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA '24). Association for Computing Machinery, New York, NY, USA, Article 429, 1–5. https://doi.org/10.1145/3613905.3638195
+
+Maria-Esther Vidal, Yashrajsinh Chudasama, Hao Huang, Disha Purohit, and Maria Torrente. 2025. Integrating Knowledge Graphs with Symbolic AI: The Path to Interpretable Hybrid AI Systems in Medicine. Web Semant. 84, C (Jan 2025). https://doi.org/10.1016/j.websem.2024.100856
+
+Ceca Kraišniković, Robert Harb, Markus Plass, Wael Al Zoughbi, Andreas Holzinger, and Heimo Müller. 2025. Fine-tuning language model embeddings to reveal domain knowledge: An explainable artificial intelligence perspective on medical decision making. Eng. Appl. Artif. Intell. 139, PB (Jan 2025). https://doi.org/10.1016/j.engappai.2024.109561
+
+Ting Hou, Meng Li, Yinliang (Ricky) Tan, and Huazhong Zhao. 2024. Physician Adoption of AI Assistant. Manufacturing &amp; Service Operations Management 26, 5 (September-October 2024), 1639–1655. https://doi.org/10.1287/msom.2023.0093
+
+Vladimir Balayan. 2020. Human-Interpretable Explanations for Black-Box Machine Learning Models: An Application to Fraud Detection. Master's thesis. Universidade NOVA de Lisboa (Portugal). Advisor(s) Saleiro, Pedro, Krippahl, Ludwig, de Barahona, Pedro Manuel Corrêa Calvente and da Graça Martins, Bruno Emanuel. Order Number: AAI29097887.
+
+Ashley Colley, Matilda Kalving, Jonna Häkkilä, and Kaisa Väänänen. 2024. Exploring Tangible Explainable AI (TangXAI): A User Study of Two XAI Approaches. In Proceedings of the 35th Australian Computer-Human Interaction Conference (OzCHI '23). Association for Computing Machinery, New York, NY, USA, 679–683. https://doi.org/10.1145/3638380.3638426
+
+Isaac Lage, Daphna Lifschitz, Finale Doshi-Velez, and Ofra Amir. 2019. Toward Robust Policy Summarization. In Proceedings of the 18th International Conference on Autonomous Agents and MultiAgent Systems (AAMAS '19). International Foundation for Autonomous Agents and Multiagent Systems, Richland, SC, 2081–2083.
+
+Da Xu, Danqing Zhang, Lingling Zheng, Bo Yang, Guangyu Yang, Shuyuan Xu, and Cindy Liang. 2024. Tutorial on Landing Generative AI in Industrial Social and E-commerce Recsys. In Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM '24). Association for Computing Machinery, New York, NY, USA, 5538–5542. https://doi.org/10.1145/3627673.3679099
+
+Cecilia Ovesdotter Alm, Alberto Alvarez, José Font, Antonios Liapis, Thomas Pederson, and Johan Salo. 2020. Invisible AI-driven HCI Systems – When, Why and How. In Proceedings of the 11th Nordic Conference on Human-Computer Interaction: Shaping Experiences, Shaping Society (NordiCHI '20). Association for Computing Machinery, New York, NY, USA, Article 130, 1–3. https://doi.org/10.1145/3419249.3420099
+
+Luca Nannini. 2025. Habemus a Right to an Explanation: So What? - A Framework on Transparency-Explainability Functionality and Tensions in the EU AI Act. Proceedings of the 2024 AAAI/ACM Conference on AI, Ethics, and Society. AAAI Press, 1023–1035.
+
+Stylianos Loukas Vasileiou, Ashwin Kumar, William Yeoh, Tran Cao Son, and Francesca Toni. 2024. Dialectical reconciliation via structured argumentative dialogues. In Proceedings of the 21st International Conference on Principles of Knowledge Representation and Reasoning (KR '24), Vol. 21. Article 73, 777–787. https://doi.org/10.24963/kr.2024/73
+
+Frank Kaptein, Bernd Kiefer, Antoine Cully, Oya Celiktutan, Bert Bierman, Rifca Rijgersberg-peters, Joost Broekens, Willeke Van Vught, Michael Van Bekkum, Yiannis Demiris, and Mark A. Neerincx. 2021. A Cloud-based Robot System for Long-term Interaction: Principles, Implementation, Lessons Learned. J. Hum.-Robot Interact. 11, 1, Article 8 (March 2022), 27 pages. https://doi.org/10.1145/3481585
+
+Vera Schmitt, Balázs Patrik Csomor, Joachim Meyer, Luis-Felipe Villa-Areas, Charlott Jakob, Tim Polzehl, and Sebastian Möller. 2024. Evaluating Human-Centered AI Explanations: Introduction of an XAI Evaluation Framework for Fact-Checking. In Proceedings of the 3rd ACM International Workshop on Multimedia AI against Disinformation (MAD '24). Association for Computing Machinery, New York, NY, USA, 91–100. https://doi.org/10.1145/3643491.3660283
+
+Satyapriya Krishna, Jiaqi Ma, and Himabindu Lakkaraju. 2023. Towards bridging the gaps between the right to explanation and the right to be forgotten. In Proceedings of the 40th International Conference on Machine Learning (ICML'23), Vol. 202. JMLR.org, Article 732, 17808–17826.
+
+Zachary Alan Daniels, Konstantinos Michmizos, George Moustakides, and Fuxin Li. 2020. Explanation-Driven Learning-Based Models for Visual Recognition Tasks. Ph.D. Dissertation. Rutgers The State University of New Jersey, School of Graduate Studies. Advisor(s) Metaxas, Dimitris N. Order Number: AAI27998733.
+
+Douglas Cirqueira, Markus Helfert, and Marija Bezbradica. 2021. Towards Design Principles for User-Centric Explainable AI in Fraud Detection. In Artificial Intelligence in HCI: Second International Conference, AI-HCI 2021, Held as Part of the 23rd HCI International Conference, HCII 2021, Virtual Event, July 24–29, 2021, Proceedings. Springer-Verlag, Berlin, Heidelberg, 21–40. https://doi.org/10.1007/978-3-030-77772-2_2
+
+George Vouros. 2022. Tutorial on Explainable Deep Reinforcement Learning: One framework, three paradigms and many challenges. In Proceedings of the 12th Hellenic Conference on Artificial Intelligence (SETN '22). Association for Computing Machinery, New York, NY, USA, Article 67, 1. https://doi.org/10.1145/3549737.3549808
+
+Saravanan Thirumuruganathan, Mourad Ouzzani, and Nan Tang. 2019. Explaining Entity Resolution Predictions: Where are we and What needs to be done? In Proceedings of the Workshop on Human-In-the-Loop Data Analytics (HILDA '19). Association for Computing Machinery, New York, NY, USA, Article 10, 1–6. https://doi.org/10.1145/3328519.3329130
+
+Hanouf Al Ghanmi, Sabreen Ahmadjee, and Rami Bahsoon. 2025. Evaluating Explanations Needs in Blockchain Smart Contracts to Reconcile Surprises. ACM Trans. Softw. Eng. Methodol. Just Accepted (March 2025). https://doi.org/10.1145/3721283
+
+Maia Jacobs, Jeffrey He, Melanie F. Pradier, Barbara Lam, Andrew C. Ahn, Thomas H. McCoy, Roy H. Perlis, Finale Doshi-Velez, and Krzysztof Z. Gajos. 2021. Designing AI for Trust and Collaboration in Time-Constrained Medical Decisions: A Sociotechnical Lens. In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI '21). Association for Computing Machinery, New York, NY, USA, Article 659, 1–14. https://doi.org/10.1145/3411764.3445385
+
+Katharina J. Rohlfing. 2021. Under Co-construction: Toward the Social Design of Explainable AI Systems. In Proceedings of the 26th ACM Conference on Innovation and Technology in Computer Science Education V. 1 (ITiCSE '21). Association for Computing Machinery, New York, NY, USA, 1. https://doi.org/10.1145/3430665.3460419
+
+Rui Zhang, Xingbo Du, Junchi Yan, and Shihua Zhang. 2025. The Decoupling Concept Bottleneck Model. IEEE Trans. Pattern Anal. Mach. Intell. 47, 2 (Feb. 2025), 1250–1265. https://doi.org/10.1109/TPAMI.2024.3489597
+
+Ziyi Kou, Lanyu Shang, Yang Zhang, and Dong Wang. 2022. HC-COVID: A Hierarchical Crowdsource Knowledge Graph Approach to Explainable COVID-19 Misinformation Detection. Proc. ACM Hum.-Comput. Interact. 6, GROUP, Article 36 (January 2022), 25 pages. https://doi.org/10.1145/3492855
+
+Shivani Kapania, Ruiyi Wang, Toby Jia-Jun Li, Tianshi Li, and Hong Shen. 2025.  'I'm Categorizing LLM as a Productivity Tool': Examining Ethics of LLM Use in HCI Research Practices. Proc. ACM Hum.-Comput. Interact. 9, 2, Article CSCW102 (May 2025), 26 pages. https://doi.org/10.1145/3711000
+
+Andrea Maldonado, Christian M. M. Frey, Gabriel Marques Tavares, Nikolina Rehwald, and Thomas Seidl. 2024. GEDI: Generating Event Data with&nbsp;Intentional Features for&nbsp;Benchmarking Process Mining. In Business Process Management: 22nd International Conference, BPM 2024, Krakow, Poland, September 1–6, 2024, Proceedings. Springer-Verlag, Berlin, Heidelberg, 221–237. https://doi.org/10.1007/978-3-031-70396-6_13
+
+Luca Nannini. 2023. Explainability in Process Mining: A Framework for Improved Decision-Making. In Proceedings of the 2023 AAAI/ACM Conference on AI, Ethics, and Society (AIES '23). Association for Computing Machinery, New York, NY, USA, 975–976. https://doi.org/10.1145/3600211.3604729
+
+Hubert Dariusz Zając, Jorge Miguel Neves Ribeiro, Silvia Ingala, Simona Gentile, Ruth Wanjohi, Samuel Nguku Gitau, Jonathan Frederik Carlsen, Michael Bachmann Nielsen, and Tariq Osman Andersen. 2024. "It depends": Configuring AI to Improve Clinical Usefulness Across Contexts. In Proceedings of the 2024 ACM Designing Interactive Systems Conference (DIS '24). Association for Computing Machinery, New York, NY, USA, 874–889. https://doi.org/10.1145/3643834.3660707
+
+Tariq Osman Andersen, Francisco Nunes, Lauren Wilcox, Elizabeth Kaziunas, Stina Matthiesen, and Farah Magrabi. 2021. Realizing AI in Healthcare: Challenges Appearing in the Wild. In Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems (CHI EA '21). Association for Computing Machinery, New York, NY, USA, Article 108, 1–5. https://doi.org/10.1145/3411763.3441347
+
+Roel Henckaerts, Katrien Antonio, and Marie-Pier Côté. 2022. When stakes are high: Balancing accuracy and transparency with Model-Agnostic Interpretable Data-driven suRRogates. Expert Syst. Appl. 202, C (Sep 2022). https://doi.org/10.1016/j.eswa.2022.117230
+
+Zhongfei Zhang, Ting Qu, Kuo Zhao, Kai Zhang, Yongheng Zhang, Wenyou Guo, Lei Liu, and Zefeng Chen. 2024. Enhancing trusted synchronization in open production logistics: A platform framework integrating blockchain and digital twin under social manufacturing. Adv. Eng. Inform. 61, C (Aug 2024). https://doi.org/10.1016/j.aei.2024.102404
+
+Daniel Omeiza, Sule Anjomshoae, Konrad Kollnig, Oana-Maria Camburu, Kary Främling, and Lars Kunze. 2021. Towards Explainable and Trustworthy Autonomous Physical Systems. In Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems (CHI EA '21). Association for Computing Machinery, New York, NY, USA, Article 88, 1–3. https://doi.org/10.1145/3411763.3441338
+
+Andrew Smart, Larry James, Ben Hutchinson, Simone Wu, and Shannon Vallor. 2020. Why Reliabilism Is not Enough: Epistemic and Moral Justification in Machine Learning. In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES '20). Association for Computing Machinery, New York, NY, USA, 372–377. https://doi.org/10.1145/3375627.3375866
+
+Antonio Rago, Hengzhi Li, and Francesca Toni. 2023. Interactive explanations by conflict resolution via argumentative exchanges. In Proceedings of the 20th International Conference on Principles of Knowledge Representation and Reasoning (KR '23), Vol. 20. Article 57, 582–592. https://doi.org/10.24963/kr.2023/57
+
+Hao Bai, Jian-Hong Gao, Tong Liu, Zi-Yi Guo, and Mou-Fa Guo. 2025. Explainable incremental learning for high-impedance fault detection in distribution networks. Comput. Electr. Eng. 122, C (Mar 2025). https://doi.org/10.1016/j.compeleceng.2024.110006
+
+Hai Jiang, Ao Luo, Xiaohong Liu, Songchen Han, and Shuaicheng Liu. 2024. LightenDiffusion: Unsupervised Low-Light Image Enhancement with&nbsp;Latent-Retinex Diffusion Models. In Computer Vision – ECCV 2024: 18th European Conference, Milan, Italy, September 29–October 4, 2024, Proceedings, Part XLVIII. Springer-Verlag, Berlin, Heidelberg, 161–179. https://doi.org/10.1007/978-3-031-73195-2_10
+
+Ann Hill Duin and Isabel Pedersen. 2021. Working Alongside Non-Human Agents. In 2021 IEEE International Professional Communication Conference (ProComm). IEEE Press, 1–5. https://doi.org/10.1109/ProComm52174.2021.00005
+
+Christian P. Janssen, Stella F. Donker, Duncan P. Brumby, and Andrew L. Kun. 2019. History and future of human-automation interaction. Int. J. Hum.-Comput. Stud. 131, C (Nov 2019), 99–107. https://doi.org/10.1016/j.ijhcs.2019.05.006
+
+Yaoqin Gu, Youyu Sheng, Yujia Duan, and Jingyu Zhang. 2024. How Do Different HMIs of Autonomous Driving Monitoring Systems Influence the Perceived Safety of Robotaxis Passengers? a Field Study. In HCI International 2024 – Late Breaking Papers: 26th International Conference on Human-Computer Interaction, HCII 2024, Washington, DC, USA, June 29 – July 4, 2024, Proceedings, Part VIII. Springer-Verlag, Berlin, Heidelberg, 51–60. https://doi.org/10.1007/978-3-031-76824-8_5
+
+Genovefa Kefalidou. 2017. When immediate interactive feedback boosts optimization problem solving. Comput. Hum. Behav. 73, C (August 2017), 110–124. https://doi.org/10.1016/j.chb.2017.03.019
+
+Siyuan Wu, Leong Hou U, and Panagiotis Karras. 2023. K-Best Egalitarian Stable Marriages for Task Assignment. Proc. VLDB Endow. 16, 11 (July 2023), 3240–3252. https://doi.org/10.14778/3611479.3611522
+
+Timothée Schmude, Laura Koesten, Torsten Möller, and Sebastian Tschiatschek. 2025. Information that matters: Exploring information needs of people affected by algorithmic decisions. Int. J. Hum.-Comput. Stud. 193, C (Jan 2025). https://doi.org/10.1016/j.ijhcs.2024.103380
+
+Sarah Schwettmann, Tamar Rott Shaham, Joanna Materzynska, Neil Chowdhury, Shuang Li, Jacob Andreas, David Bau, and Antonio Torralba. 2023. FIND: a function description benchmark for evaluating interpretability methods. In Proceedings of the 37th International Conference on Neural Information Processing Systems (NIPS '23). Curran Associates Inc., Red Hook, NY, USA, Article 3308, 75688–75715.
+
+Chen Zhao, Feng Chen, Xintao Wu, Jundong Li, and Haifeng Chen. 2024. 3rd Workshop on Ethical Artificial Intelligence: Methods and Applications (EAI). In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '24). Association for Computing Machinery, New York, NY, USA, 6751–6752. https://doi.org/10.1145/3637528.3671482
+
+Bekzat Tilekbay, Saelyne Yang, Michal Adam Lewkowicz, Alex Suryapranata, and Juho Kim. 2024. ExpressEdit: Video Editing with Natural Language and Sketching. In Proceedings of the 29th International Conference on Intelligent User Interfaces (IUI '24). Association for Computing Machinery, New York, NY, USA, 515–536. https://doi.org/10.1145/3640543.3645164
+
+Christine P Lee, Pragathi Praveena, and Bilge Mutlu. 2024. REX: Designing User-centered Repair and Explanations to Address Robot Failures. In Proceedings of the 2024 ACM Designing Interactive Systems Conference (DIS '24). Association for Computing Machinery, New York, NY, USA, 2911–2925. https://doi.org/10.1145/3643834.3661559
+
+Maarten de Rijke. 2023. Beyond-Accuracy Goals, Again. In Proceedings of the Sixteenth ACM International Conference on Web Search and Data Mining (WSDM '23). Association for Computing Machinery, New York, NY, USA, 2–3. https://doi.org/10.1145/3539597.3572332
+
+Anja K. Faulhaber, Ina Ni, and Ludger Schmidt. 2021. The Effect of Explanations on Trust in an Assistance System for Public Transport Users and the Role of the Propensity to Trust. In Proceedings of Mensch und Computer 2021 (MuC '21). Association for Computing Machinery, New York, NY, USA, 303–310. https://doi.org/10.1145/3473856.3473886
+
+Kristin Wulff and Hanne Finnestrand. 2023. Creating meaningful work in the age of AI: explainable AI, explainability, and why it matters to organizational designers. AI Soc. 39, 4 (Aug 2024), 1843–1856. https://doi.org/10.1007/s00146-023-01633-0
+
+Paolo Mignone, Roberto Corizzo, and Michelangelo Ceci. 2024. Distributed and explainable GHSOM for anomaly detection in sensor networks. Mach. Learn. 113, 7 (Jul 2024), 4445–4486. https://doi.org/10.1007/s10994-023-06501-y
+
+Honglin Chen, Rahul Venkatesh, Yoni Friedman, Jiajun Wu, Joshua B. Tenenbaum, Daniel L. K. Yamins, and Daniel M. Bear. 2022. Unsupervised Segmentation in&nbsp;Real-World Images via&nbsp;Spelke Object Inference. In Computer Vision – ECCV 2022: 17th European Conference, Tel Aviv, Israel, October 23–27, 2022, Proceedings, Part XXIX. Springer-Verlag, Berlin, Heidelberg, 719–735. https://doi.org/10.1007/978-3-031-19818-2_41
+
+Hai Zhu, Qingyang Zhao, Weiwei Shang, Yuren Wu, and Kai Liu. 2024. LimeAttack: local explainable method for textual hard-label adversarial attack. In Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence and Thirty-Sixth Conference on Innovative Applications of Artificial Intelligence and Fourteenth Symposium on Educational Advances in Artificial Intelligence (AAAI'24/IAAI'24/EAAI'24), Vol. 38. AAAI Press, Article 2202, 19759–19767. https://doi.org/10.1609/aaai.v38i17.29950
+
+Craig Vear, Fabrizio Poltronieri, Balandino DiDonato, Yawen Zhang, Johann Benerradi, Simon Hutchinson, Paul Turowski, Jethro Shell, and Hossein Malekmohamadi. 2024. Building an Embodied Musicking Dataset for Co-creative Music-Making. In Artificial Intelligence in Music, Sound, Art and Design: 13th International Conference, EvoMUSART 2024, Held as Part of EvoStar 2024, Aberystwyth, UK, April 3–5, 2024, Proceedings. Springer-Verlag, Berlin, Heidelberg, 373–388. https://doi.org/10.1007/978-3-031-56992-0_24
+
+Zezhou Huang and Eugene Wu. 2022. Reptile: Aggregation-level Explanations for Hierarchical Data. In Proceedings of the 2022 International Conference on Management of Data (SIGMOD '22). Association for Computing Machinery, New York, NY, USA, 399–413. https://doi.org/10.1145/3514221.3517854
+
+Thomas Deacon and Mark D. Plumbley. 2024. Working with AI Sound: Exploring the Future of Workplace AI Sound Technologies. In Proceedings of the 3rd Annual Meeting of the Symposium on Human-Computer Interaction for Work (CHIWORK '24). Association for Computing Machinery, New York, NY, USA, Article 2, 1–21. https://doi.org/10.1145/3663384.3663391
+
+Huichen Will Wang, Larry Birnbaum, and Vidya Setlur. 2025. Jupybara: Operationalizing a Design Space for Actionable Data Analysis and Storytelling with LLMs. In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI '25). Association for Computing Machinery, New York, NY, USA, Article 1005, 1–24. https://doi.org/10.1145/3706598.3713913
+
+Saman Razavi. 2021. Deep learning, explained: Fundamentals, explainability, and bridgeability to process-based modelling. Environ. Model. Softw. 144, C (Oct 2021). https://doi.org/10.1016/j.envsoft.2021.105159
+
+Oghenemaro Anuyah, Ruyuan Wan, Cornelius Adejoro, Tom Yeh, Ronald Metoyer, and Karla Badillo-Urquiola. 2024. Cultural Considerations in AI Systems for the Global South: A Systematic Review. In Proceedings of the 4th African Human Computer Interaction Conference (AfriCHI '23). Association for Computing Machinery, New York, NY, USA, 125–134. https://doi.org/10.1145/3628096.3629046
+
+Zhen Tan, Tianlong Chen, Zhenyu Zhang, and Huan Liu. 2024. Sparsity-guided holistic explanation for LLMs with interpretable inference-time intervention. In Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence and Thirty-Sixth Conference on Innovative Applications of Artificial Intelligence and Fourteenth Symposium on Educational Advances in Artificial Intelligence (AAAI'24/IAAI'24/EAAI'24), Vol. 38. AAAI Press, Article 2412, 21619–21627. https://doi.org/10.1609/aaai.v38i19.30160
+
+Hengyu Liu, Tiancheng Zhang, Fan Li, Minghe Yu, and Ge Yu. 2024. A probabilistic generative model for tracking multi-knowledge concept mastery probability. Front. Comput. Sci. 18, 3 (Jun 2024). https://doi.org/10.1007/s11704-023-3008-x
+
+Martin Schobesberger, Jaroslava Huber, Stefan Grünberger, Michael Haslgrübler, and Alois Ferscha. 2022. Designing Proactive Safety Systems for Industrial Workers Using Intelligent Mechanisms. In Proceedings of the 15th International Conference on PErvasive Technologies Related to Assistive Environments (PETRA '22). Association for Computing Machinery, New York, NY, USA, 480–485. https://doi.org/10.1145/3529190.3534775
+
+Shuyang Li, Bodhisattwa Prasad Majumder, and Julian McAuley. 2024. Self-Supervised Bot Play for Transcript-Free Conversational Critiquing with Rationales. ACM Trans. Recomm. Syst. 3, 1, Article 7 (March 2025), 20 pages. https://doi.org/10.1145/3665502
+
+Haotian Zhou, Yunhan Lin, Longwu Yan, and Huasong Min. 2025. Achieving adaptive tasks from human instructions for robots using large language models and behavior trees. Robot. Auton. Syst. 187, C (May 2025). https://doi.org/10.1016/j.robot.2025.104937
+
+Justin Kottinger, Shaull Almagor, and Morteza Lahijanian. 2021. MAPS-X: Explainable Multi-Robot Motion Planning via Segmentation. In 2021 IEEE International Conference on Robotics and Automation (ICRA). IEEE Press, 7994–8000. https://doi.org/10.1109/ICRA48506.2021.9561893
+
+Tamar Rott Shaham, Sarah Schwettmann, Franklin Wang, Achyuta Rajaram, Evan Hernandez, Jacob Andreas, and Antonio Torralba. 2024. A multimodal automated interpretability agent. In Proceedings of the 41st International Conference on Machine Learning (ICML'24), Vol. 235. JMLR.org, Article 1802, 44293–44321.
+
+Guangze Ye, Wen Wu, Liye Shi, Wenxin Hu, Xi Chen, and Liang He. 2024. A personality-guided preference aggregator for ephemeral group recommendation. Appl. Soft Comput. 167, PA (Dec 2024). https://doi.org/10.1016/j.asoc.2024.112274
+
+Langjunqing Jin, Feng Zhao, and Hai Jin. 2023. HTSE: hierarchical time-surface model for temporal knowledge graph embedding. World Wide Web 26, 5 (Sep 2023), 2947–2967. https://doi.org/10.1007/s11280-023-01170-2
+
+Koorosh Aslansefat, Ioannis Sorokos, Declan Whiting, Ramin Tavakoli Kolagari, and Yiannis Papadopoulos. 2020. SafeML: Safety Monitoring of Machine Learning Classifiers Through Statistical Difference Measures. In Model-Based Safety and Assessment: 7th International Symposium, IMBSA 2020, Lisbon, Portugal, September 14–16, 2020, Proceedings. Springer-Verlag, Berlin, Heidelberg, 197–211. https://doi.org/10.1007/978-3-030-58920-2_13
+
+Dongqi Fu, Yikun Ban, Hanghang Tong, Ross Maciejewski, and Jingrui He. 2022. DISCO: Comprehensive and Explainable Disinformation Detection. In Proceedings of the 31st ACM International Conference on Information &amp; Knowledge Management (CIKM '22). Association for Computing Machinery, New York, NY, USA, 4848–4852. https://doi.org/10.1145/3511808.3557202
+
+Divya Ramesh, Vaishnav Kameswaran, Ding Wang, and Nithya Sambasivan. 2022. How Platform-User Power Relations Shape Algorithmic Accountability: A Case Study of Instant Loan Platforms and Financially Stressed Users in India. In Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency (FAccT '22). Association for Computing Machinery, New York, NY, USA, 1917–1928. https://doi.org/10.1145/3531146.3533237
+
+Chen Zhao, Feng Chen, Xintao Wu, Haifeng Chen, and Jiayu Zhou. 2023. 2nd Workshop on Ethical Artificial Intelligence: Methods and Applications (EAI). In Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '23). Association for Computing Machinery, New York, NY, USA, 5903–5904. https://doi.org/10.1145/3580305.3599215
+
+Micah Wilson George, Nandini Gaikwad, Vincent G. Duffy, and Allen G. Greenwood. 2023. Digital Twin Modelling for Human-Centered Ergonomic Design. In Digital Human Modeling and Applications in Health, Safety, Ergonomics and Risk Management: 14th International Conference, DHM 2023, Held as Part of the 25th HCI International Conference, HCII 2023, Copenhagen, Denmark, July 23–28, 2023, Proceedings, Part I. Springer-Verlag, Berlin, Heidelberg, 58–69. https://doi.org/10.1007/978-3-031-35741-1_6
+
+Bhavan Vasu, Brian Hu, Bo Dong, Roddy Collins, and Anthony Hoogs. 2021. Explainable, interactive content‐based image retrieval. Applied AI Letters 2, 4 (December 2021). https://doi.org/10.1002/ail2.41
+
+Maya Okawa, Ekdeep Singh Lubana, Robert P. Dick, and Hidenori Tanaka. 2023. Compositional abilities emerge multiplicatively: exploring diffusion models on a synthetic task. In Proceedings of the 37th International Conference on Neural Information Processing Systems (NIPS '23). Curran Associates Inc., Red Hook, NY, USA, Article 2182, 50173–50195.
+
+Xiao-Hui Li, Yuhan Shi, Haoyang Li, Wei Bai, Caleb Chen Cao, and Lei Chen. 2021. An Experimental Study of Quantitative Evaluations on Saliency Methods. In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery &amp; Data Mining (KDD '21). Association for Computing Machinery, New York, NY, USA, 3200–3208. https://doi.org/10.1145/3447548.3467148
+
+Ernesto William De Luca, Erasmo Purificato, Ludovico Boratto, Stefano Marrone, and Carlo Sansone. 2023. First Workshop on User Perspectives in Human-Centred Artificial Intelligence (HCAI4U). In Proceedings of the 15th Biannual Conference of the Italian SIGCHI Chapter (CHItaly '23). Association for Computing Machinery, New York, NY, USA, Article 36, 1–3. https://doi.org/10.1145/3605390.3610829
+
+Philipp A. Rauschnabel, Reto Felix, Jonas Heller, and Chris Hinsch. 2024. The 4C framework: Towards a holistic understanding of consumer engagement with augmented reality. Comput. Hum. Behav. 154, C (May 2024). https://doi.org/10.1016/j.chb.2023.108105
+
+Melanie Schmidt-Wolf and David Feil-Seifer. 2022. Vehicle-To-Pedestrian Communication Feedback Module: A Study on&nbsp;Increasing Legibility, Public Acceptance and&nbsp;Trust. In Social Robotics: 14th International Conference, ICSR 2022, Florence, Italy, December 13–16, 2022, Proceedings, Part I. Springer-Verlag, Berlin, Heidelberg, 14–23. https://doi.org/10.1007/978-3-031-24667-8_2
+
+Xiangtai Chen, Tao Tang, Jing Ren, Ivan Lee, Honglong Chen, and Feng Xia. 2022. Heterogeneous Graph Learning for Explainable Recommendation over Academic Networks. In IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT '21). Association for Computing Machinery, New York, NY, USA, 29–36. https://doi.org/10.1145/3498851.3498926
+
+Rodrigo Bavaresco, Yutian Ren, Jorge Barbosa, and G.P. Li. 2024. An ontology-based framework for worker’s health reasoning enabled by machine learning. Comput. Ind. Eng. 193, C (Jul 2024). https://doi.org/10.1016/j.cie.2024.110310
+
+Minglei Li, Xiang Li, Yuchen Jiang, Jiusi Zhang, Hao Luo, and Shen Yin. 2022. Explainable multi-instance and multi-task learning for COVID-19 diagnosis and lesion segmentation in CT images. Know.-Based Syst. 252, C (Sep 2022). https://doi.org/10.1016/j.knosys.2022.109278
+
+Hemant Rathore. 2021. Designing Adversarial Robust and Explainable Malware Detection System for Android based Smartphones: PhD Forum Abstract. In Proceedings of the 20th International Conference on Information Processing in Sensor Networks (co-located with CPS-IoT Week 2021) (IPSN '21). Association for Computing Machinery, New York, NY, USA, 412–413. https://doi.org/10.1145/3412382.3459209
+
+Edward Curry. 2019. Real-time Linked Dataspaces: Enabling Data Ecosystems for Intelligent Systems (1st. ed.). Springer Publishing Company, Incorporated.
+
+Giampaolo Bella. 2022. Interactional Freedom and&nbsp;Cybersecurity. In Innovative Security Solutions for Information Technology and Communications: 15th International Conference, SecITC 2022, Virtual Event, December 8–9, 2022, Revised Selected Papers. Springer-Verlag, Berlin, Heidelberg, 1–16. https://doi.org/10.1007/978-3-031-32636-3_1
+
+Mark Tenzer, Zeeshan Rasheed, and Khurram Shafique. 2022. Learning citywide patterns of life from trajectory monitoring. In Proceedings of the 30th International Conference on Advances in Geographic Information Systems (SIGSPATIAL '22). Association for Computing Machinery, New York, NY, USA, Article 43, 1–12. https://doi.org/10.1145/3557915.3560978
+
+Yafan Huang, Feng Zhao, Xiangyu Gui, and Hai Jin. 2021. Path-enhanced explainable recommendation with knowledge graphs. World Wide Web 24, 5 (Sep 2021), 1769–1789. https://doi.org/10.1007/s11280-021-00912-4
+
+Marion Oswald and David Powell. 2020. Can an algorithmic system be a 'friend' to a police officer's discretion? ACM FAT 2020 translation tutorial. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (FAT* '20). Association for Computing Machinery, New York, NY, USA, 698. https://doi.org/10.1145/3351095.3375673
+
+Zhang Nan. 2021. Development of a Behavior-Based Analysis Framework for Promoting RPV Deployment in Singapore. Ph.D. Dissertation. National University of Singapore (Singapore). Advisor(s) Hwang, Bon-Gang and Lu, Yujie. Order Number: AAI29352355.
+
+Ziyi Kou, Yang Zhang, Daniel Zhang, and Dong Wang. 2022. CrowdGraph: A Crowdsourcing Multi-modal Knowledge Graph Approach to Explainable Fauxtography Detection. Proc. ACM Hum.-Comput. Interact. 6, CSCW2, Article 287 (November 2022), 28 pages. https://doi.org/10.1145/3555178
+
+Gagan Bansal and Daniel S. Weld. 2018. A coverage-based utility model for identifying unknown unknowns. In Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence and Thirtieth Innovative Applications of Artificial Intelligence Conference and Eighth AAAI Symposium on Educational Advances in Artificial Intelligence (AAAI'18/IAAI'18/EAAI'18). AAAI Press, Article 179, 1463–1470.
+
+Victor Goeman, Dairo de Ruck, Ilse Bohé, Jorn Lapon, and Vincent Naessens. 2023. IoT Security Seminar: Raising Awareness and Sharing Critical Knowledge. In Proceedings of the 18th International Conference on Availability, Reliability and Security (ARES '23). Association for Computing Machinery, New York, NY, USA, Article 62, 1–8. https://doi.org/10.1145/3600160.3604986
+
+Maria Vanina Martinez and Gerardo I. Simari. 2022. Explanation-Friendly Query Answering Under Uncertainty. Reasoning Web. Explainable Artificial Intelligence. Springer-Verlag, Berlin, Heidelberg, 65–103. https://doi.org/10.1007/978-3-030-31423-1_2
+
+Deqing Zou, Yawei Zhu, Shouhuai Xu, Zhen Li, Hai Jin, and Hengkai Ye. 2021. Interpreting Deep Learning-based Vulnerability Detector Predictions Based on Heuristic Searching. ACM Trans. Softw. Eng. Methodol. 30, 2, Article 23 (April 2021), 31 pages. https://doi.org/10.1145/3429444
+
+Joze M. Rozanec. 2021. Explainable Demand Forecasting: A Data Mining Goldmine. In Companion Proceedings of the Web Conference 2021 (WWW '21). Association for Computing Machinery, New York, NY, USA, 723–724. https://doi.org/10.1145/3442442.3453708
+
+Romain Gautron, Odalric-Ambrym Maillard, Philippe Preux, Marc Corbeels, and Régis Sabbadin. 2022. Reinforcement learning for crop management support: Review, prospects and challenges. Comput. Electron. Agric. 200, C (Sep 2022). https://doi.org/10.1016/j.compag.2022.107182
+
+2017. Developing ePartners for human-robot teams in space based on ontologies and formal abstraction hierarchies. Int. J. Agent-Oriented Softw. Eng. 5, 4 (January 2017), 366–398. https://doi.org/10.1504/IJAOSE.2017.087656
+
+Yu Zhao, Pan Deng, Junting Liu, Xiaofeng Jia, and Jianwei Zhang. 2023. Generative Causal Interpretation Model for Spatio-Temporal Representation Learning. In Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '23). Association for Computing Machinery, New York, NY, USA, 3537–3548. https://doi.org/10.1145/3580305.3599363
+
+Solon Barocas, Andrew D. Selbst, and Manish Raghavan. 2020. The hidden assumptions behind counterfactual explanations and principal reasons. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (FAT* '20). Association for Computing Machinery, New York, NY, USA, 80–89. https://doi.org/10.1145/3351095.3372830
+
+Luca Oneto, Sandro Ridella, and Davide Anguita. 2024. Towards algorithms and models that we can trust: A theoretical perspective. Neurocomput. 592, C (Aug 2024). https://doi.org/10.1016/j.neucom.2024.127798
+
+Gesa Wiegand, Malin Eiband, Maximilian Haubelt, and Heinrich Hussmann. 2020. “I’d like an Explanation for That!”Exploring Reactions to Unexpected Autonomous Driving. In 22nd International Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI '20). Association for Computing Machinery, New York, NY, USA, Article 36, 1–11. https://doi.org/10.1145/3379503.3403554
+
+Gabriele de Seta and Anya Shchetvina. 2023. Imagining machine vision: Four visual registers from the Chinese AI industry. AI Soc. 39, 5 (Oct 2024), 2267–2284. https://doi.org/10.1007/s00146-023-01733-x
+
+Hans Christian Schmitz, Bernhard Lutz, Dominik Wolff, and Dirk Neumann. 2023. When machines trade on corporate disclosures: Using text analytics for investment strategies. Decis. Support Syst. 165, C (Feb 2023). https://doi.org/10.1016/j.dss.2022.113892
+
+Mehwish Alam, Davide Buscaldi, Michael Cochez, Francesco Osborne, Diego Reforgiato Recupero, Harald Sack, Simon Gottschalk, Elena Demidova, Mehwish Alam, Davide Buscaldi, Michael Cochez, Francesco Osborne, Diego Refogiato Recupero, and Harald Sack. 2022. Tab2KG: Semantic table interpretation with lightweight semantic profiles. Semant. web 13, 3 (2022), 571–597. https://doi.org/10.3233/SW-222993
+
+George Mandilaras, George Papadakis, Luca Gagliardelli, Giovanni Simonini, Emmanouil Thanos, George Giannakopoulos, Sonia Bergamaschi, Themis Palpanas, Manolis Koubarakis, Alicia Lara-Clares, and Antonio Fariña. 2021. Reproducible experiments on Three-Dimensional Entity Resolution with JedAI. Inf. Syst. 102, C (Dec 2021). https://doi.org/10.1016/j.is.2021.101830
+
+Yu Su, Ahmed Hassan Awadallah, Miaosen Wang, and Ryen W. White. 2018. Natural Language Interfaces with Fine-Grained User Interaction: A Case Study on Web APIs. In The 41st International ACM SIGIR Conference on Research &amp; Development in Information Retrieval (SIGIR '18). Association for Computing Machinery, New York, NY, USA, 855–864. https://doi.org/10.1145/3209978.3210013
+
+Guansong Pang and Charu Aggarwal. 2021. Toward Explainable Deep Anomaly Detection. In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery &amp; Data Mining (KDD '21). Association for Computing Machinery, New York, NY, USA, 4056–4057. https://doi.org/10.1145/3447548.3470794
+
+Flavia Barsotti and Rüya Gökhan Koçer. 2022. MinMax fairness: from Rawlsian Theory of Justice to solution for algorithmic bias. AI Soc. 39, 3 (Jun 2024), 961–974. https://doi.org/10.1007/s00146-022-01577-x
+
+Rahul Bhargava, Anna Chung, Neil S. Gaikwad, Alexis Hope, Dennis Jen, Jasmin Rubinovitz, Belén Saldías-Fuentes, and Ethan Zuckerman. 2019. Gobo: A System for Exploring User Control of Invisible Algorithms in Social Media. In Companion Publication of the 2019 Conference on Computer Supported Cooperative Work and Social Computing (CSCW '19 Companion). Association for Computing Machinery, New York, NY, USA, 151–155. https://doi.org/10.1145/3311957.3359452
+
+Tong Yu, Branislav Kveton, Zheng Wen, Hung Bui, and Ole J. Mengshoel. 2018. : : Online Spectral Learning for Single Topic Models. In Machine Learning and Knowledge Discovery in Databases: European Conference, ECML PKDD 2018, Dublin, Ireland, September 10–14, 2018, Proceedings, Part II. Springer-Verlag, Berlin, Heidelberg, 379–395. https://doi.org/10.1007/978-3-030-10928-8_23
+
+Christina Chaccour, Walid Saad, Mérouane Debbah, Zhu Han, and H. Vincent Poor. 2025. Less Data, More Knowledge: Building Next-Generation Semantic Communication Networks. Commun. Surveys Tuts. 27, 1 (Feb. 2025), 37–76. https://doi.org/10.1109/COMST.2024.3412852
+
+Firoj Alam, Fahim Dalvi, Nadir Durrani, Hassan Sajjad, Abdul Rafae Khan, and Jia Xu. 2023. ConceptX: a framework for latent concept analysis. In Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence and Thirty-Fifth Conference on Innovative Applications of Artificial Intelligence and Thirteenth Symposium on Educational Advances in Artificial Intelligence (AAAI'23/IAAI'23/EAAI'23), Vol. 37. AAAI Press, Article 1988, 16395–16397. https://doi.org/10.1609/aaai.v37i13.27057
+
+Zuohui Fu, Wang, Hao, and Ai, Qingyao. 2021. Towards Human-Centered Recommender Systems. Ph.D. Dissertation. Rutgers The State University of New Jersey, School of Graduate Studies. Advisor(s) de Melo, Gerard and Zhang, Yongfeng. Order Number: AAI28771459.
+
+Marcel Finkel, Lara Timm, Lukas Erle, Alexander Arntz, André Helgert, Carolin Straßmann, and Sabrina C. Eimler. 2025. Robot or&nbsp;Employee? Exploring People’s Choice for&nbsp;or&nbsp;Against an&nbsp;Interaction with&nbsp;a&nbsp;Social Robot. In Social Robotics: 16th International Conference, ICSR + AI 2024, Odense, Denmark, October 23–26, 2024, Proceedings, Part I. Springer-Verlag, Berlin, Heidelberg, 446–459. https://doi.org/10.1007/978-981-96-3522-1_38
+
+Carrie J. Cai, Jonas Jongejan, and Jess Holbrook. 2019. The effects of example-based explanations in a machine learning interface. In Proceedings of the 24th International Conference on Intelligent User Interfaces (IUI '19). Association for Computing Machinery, New York, NY, USA, 258–262. https://doi.org/10.1145/3301275.3302289
+
+Daniel Ogenrwot, Geoffrey Olok Tabo, Kevin Aber, and Joyce Nakatumba-Nabende. 2022. From Undergraduate (Software) Capstone Projects to Start-ups: Challenges and Opportunities in Higher Institutions of Learning. In Proceedings of the Federated Africa and Middle East Conference on Software Engineering (FAMECSE '22). Association for Computing Machinery, New York, NY, USA, 73–82. https://doi.org/10.1145/3531056.3542775
+
+Gagan Bansal, Morgenstern, Jamie, and Nushi, Besmira. 2022. Three Maxims for Developing Human-Centered AI for Decision Making. Ph.D. Dissertation. University of Washington. Advisor(s) Weld, Daniel S. Order Number: AAI28869734.
+
+Akiva Kleinerman, Ariel Rosenfeld, and Sarit Kraus. 2018. Providing explanations for recommendations in reciprocal environments. In Proceedings of the 12th ACM Conference on Recommender Systems (RecSys '18). Association for Computing Machinery, New York, NY, USA, 22–30. https://doi.org/10.1145/3240323.3240362
+
+Andreas Holzinger, Michael Kickmeier-Rust, and Heimo Müller. 2019. KANDINSKY Patterns as IQ-Test for Machine Learning. In Machine Learning and Knowledge Extraction: Third IFIP TC 5, TC 12, WG 8.4, WG 8.9, WG 12.9 International Cross-Domain Conference, CD-MAKE 2019, Canterbury, UK, August 26–29, 2019, Proceedings. Springer-Verlag, Berlin, Heidelberg, 1–14. https://doi.org/10.1007/978-3-030-29726-8_1
+
+Sanghamitra Dutta, Dennis Wei, Hazar Yueksel, Pin-Yu Chen, Sijia Liu, and Kush R. Varshney. 2020. Is there a trade-off between fairness and accuracy? a perspective using mismatched hypothesis testing. In Proceedings of the 37th International Conference on Machine Learning (ICML'20), Vol. 119. JMLR.org, Article 263, 2803–2813.
+
+J.A. Fdez-Sánchez, J.D. Pascual-Triana, A. Fernández, and F. Herrera. 2021. Learning interpretable multi-class models by means of hierarchical decomposition: Threshold Control for Nested Dichotomies. Neurocomput. 463, C (Nov 2021), 514–524. https://doi.org/10.1016/j.neucom.2021.07.097
+
+Joyjit Chatterjee. 2021. The Blessings of Explainable Ai in Operations &amp; Maintenance of Wind Turbines. Ph.D. Dissertation. University of Hull (United Kingdom). Order Number: AAI29350071.
+
+Hankz Hankui Zhuo, Yantian Zha, Subbarao Kambhampati, and Xin Tian. 2020. Discovering Underlying Plans Based on Shallow Models. ACM Trans. Intell. Syst. Technol. 11, 2, Article 18 (April 2020), 30 pages. https://doi.org/10.1145/3368270
+
+Kaja Zupanc and Zoran Bosnić. 2018. Increasing accuracy of automated essay grading by grouping similar graders. In Proceedings of the 8th International Conference on Web Intelligence, Mining and Semantics (WIMS '18). Association for Computing Machinery, New York, NY, USA, Article 35, 1–6. https://doi.org/10.1145/3227609.3227645
+
+M. Hassaballah and A. Ghareeb. 2017. A framework for objective image quality measures based on intuitionistic fuzzy sets. Appl. Soft Comput. 57, C (August 2017), 48–59. https://doi.org/10.1016/j.asoc.2017.03.046
+
+Idris Adjerid, Mehmet U. S. Ayvaci, and Özalp Özer. 2023. Value of Algorithm-Enabled Process Innovation: The Case of Sepsis. Manufacturing &amp; Service Operations Management 25, 4 (July-August 2023), 1545–1566. https://doi.org/10.1287/msom.2023.1226
+
+Hariharan Subramonyam, Colleen Seifert, and Eytan Adar. 2021. ProtoAI: Model-Informed Prototyping for AI-Powered Interfaces. In Proceedings of the 26th International Conference on Intelligent User Interfaces (IUI '21). Association for Computing Machinery, New York, NY, USA, 48–58. https://doi.org/10.1145/3397481.3450640
+
+Massimo Narizzano, Luca Pulina, Armando Tacchella, and Simone Vuotto. 2019. Property specification patterns at work: verification and inconsistency explanation. Innov. Syst. Softw. Eng. 15, 3–4 (Sep 2019), 307–323. https://doi.org/10.1007/s11334-019-00339-1
+
+Royi Ronen, Hilik Berezin, Rotem Preizler, Gopal Kasturi, AJ Ezzour, Sayalee Bhanavase, Edan Hauon, and Oron Nir. 2021. Generic Automated Lead Ranking in Dynamics CRM. In Proceedings of the 15th ACM Conference on Recommender Systems (RecSys '21). Association for Computing Machinery, New York, NY, USA, 757–759. https://doi.org/10.1145/3460231.3478880
+
+Xin Tian, Hankz Hankui Zhuo, and Subbarao Kambhampati. 2016. Discovering Underlying Plans Based on Distributed Representations of Actions. In Proceedings of the 2016 International Conference on Autonomous Agents &amp; Multiagent Systems (AAMAS '16). International Foundation for Autonomous Agents and Multiagent Systems, Richland, SC, 1135–1143.
+
+Satya S. Chakravorty, Ronald E. Dulaney, and Richard M. Franza. 2016. ERP implementation failures: a case study and analysis. Int. J. Bus. Inf. Syst. 21, 4 (March 2016), 462–476. https://doi.org/10.1504/IJBIS.2016.075256
+
+Xianxue Li and Tingying Song. 2022. Establishment and Validation of Flight Crew Training Cost Model. In HCI in Mobility, Transport, and Automotive Systems: 4th International Conference, MobiTAS 2022, Held as Part of the 24th HCI International Conference, HCII 2022, Virtual Event, June 26 – July 1, 2022, Proceedings. Springer-Verlag, Berlin, Heidelberg, 62–71. https://doi.org/10.1007/978-3-031-04987-3_4
+
+Dorin Shmaryahu, Guy Shani, and Jörg Hoffmann. 2019. Comparative criteria for partially observable contingent planning. Autonomous Agents and Multi-Agent Systems 33, 5 (Sep 2019), 481–517. https://doi.org/10.1007/s10458-019-09406-0
+
+Keli Li and Guoxin Li. 2023. Study on the Impact of Service Robot Autonomy on Customer Satisfaction. In HCI in Business, Government and Organizations: 10th International Conference, HCIBGO 2023, Held as Part of the 25th HCI International Conference, HCII 2023, Copenhagen, Denmark, July 23–28, 2023, Proceedings, Part II. Springer-Verlag, Berlin, Heidelberg, 30–40. https://doi.org/10.1007/978-3-031-36049-7_3
+
+Vageesh Saxena, Aurelia Tamò-Larrieux, Gijs Van Dijck, and Gerasimos Spanakis. 2025. Responsible guidelines for authorship attribution tasks in NLP: Responsible guidelines for authorship attribution tasks in NLP. Ethics and Inf. Technol. 27, 2 (Jun 2025). https://doi.org/10.1007/s10676-025-09821-w
+
+Sandra Mattsson, Åsa Fast-Berglund, Dan Li, and Peter Thorvald. 2020. Forming a cognitive automation strategy for Operator 4.0 in complex assembly. Comput. Ind. Eng. 139, C (Jan 2020). https://doi.org/10.1016/j.cie.2018.08.011
+
+Ibo van de Poel. 2020. Embedding Values in Artificial Intelligence (AI) Systems. Minds Mach. 30, 3 (Sep 2020), 385–409. https://doi.org/10.1007/s11023-020-09537-4
+
+Peter Carmichael, Charles Morisset, and Thomas Groß. 2020. SHRUBS: simulating influencing human behaviour in security. In Proceedings of the 8th Workshop on Socio-Technical Aspects in Security and Trust (STAST '18). Association for Computing Machinery, New York, NY, USA, Article 6, 1–11. https://doi.org/10.1145/3361331.3361337
+
+Nuno Andrade da Cruz Henriques. 2020. Sensai+Expanse: Prediction of Emotional Valence Changes on Humans in Context by an Artificial Agent Towards Empathy. Ph.D. Dissertation. Universidade de Lisboa (Portugal). Advisor(s) Coelho, Helder Manuel Ferreira and Garcia-Marques, Leonel. Order Number: AAI28753684.
+
+Yu-Hsiung Huang, Wei-Chun Chen, and Su-Chu Hsu. 2021. Creative Design of Gaussian Sensor System with Encoding and Decoding. In Human Interface and the Management of Information. Information-Rich and Intelligent Environments: Thematic Area, HIMI 2021, Held as Part of the 23rd HCI International Conference, HCII 2021, Virtual Event, July 24–29, 2021, Proceedings, Part II. Springer-Verlag, Berlin, Heidelberg, 385–395. https://doi.org/10.1007/978-3-030-78361-7_29
+
+Roopa Raman and Nicholas Sullivan. 2024. Sharing Workarounds in Health IT-Enabled Patient-Care Work: Impact on Clinicians. SIGMIS Database 55, 2 (May 2024), 42–71. https://doi.org/10.1145/3663682.3663686
+
+Salah Taamneh, Malcolm Dcosta, Kyeong-An Kwon, and Ioannis Pavlidis. 2016. SubjectBook: Hypothesis-Driven Ubiquitous Visualization for Affective Studies. In Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems (CHI EA '16). Association for Computing Machinery, New York, NY, USA, 1483–1489. https://doi.org/10.1145/2851581.2892338
+
+Upol Ehsan and Mark Riedl. 2024. Explainable AI Reloaded: Challenging the XAI Status Quo in the Era of Large Language Models. In Proceedings of the Halfway to the Future Symposium (HttF '24). Association for Computing Machinery, New York, NY, USA, Article 8, 1–8. https://doi.org/10.1145/3686169.3686185
+
+Matteo Luperto, Marta Romeo, Javier Monroy, Jennifer Renoux, Alessandro Vuono, Francisco-Angel Moreno, Javier Gonzalez-Jimenez, Nicola Basilico, and N. Alberto Borghese. 2022. User feedback and remote supervision for assisted living with mobile robots: A field study in long-term autonomy. Robot. Auton. Syst. 155, C (Sep 2022). https://doi.org/10.1016/j.robot.2022.104170
+
+Gusseppe Bravo-Rocca, Peini Liu, Jordi Guitart, Ajay Dholakia, David Ellison, Jeffrey Falkanger, and Miroslav Hodak. 2022. Scanflow: A multi-graph framework for Machine Learning workflow management, supervision, and debugging▪ Expert Syst. Appl. 202, C (Sep 2022). https://doi.org/10.1016/j.eswa.2022.117232
+
+Jessica M. Szczuka, Clara Strathmann, Natalia Szymczyk, Lina Mavrina, and Nicole C. Krämer. 2022. How do children acquire knowledge about voice assistants? A longitudinal field study on children’s knowledge about how voice assistants store and process data. Int. J. Child-Comp. Interact. 33, C (Sep 2022). https://doi.org/10.1016/j.ijcci.2022.100460
+
+Shiva Darian, Fujiko Robledo Yamamoto, and Amy Voida. 2025. Data Siloing as Infrastructural Activism. Proc. ACM Hum.-Comput. Interact. 9, 2, Article CSCW008 (May 2025), 24 pages. https://doi.org/10.1145/3710906
+
+Jionghao Lin, Shirui Pan, Cheng Siong Lee, and Sharon Oviatt. 2019. An Explainable Deep Fusion Network for Affect Recognition Using Physiological Signals. In Proceedings of the 28th ACM International Conference on Information and Knowledge Management (CIKM '19). Association for Computing Machinery, New York, NY, USA, 2069–2072. https://doi.org/10.1145/3357384.3358160
+
+Jose Velasco, Carlos J. Martín-Arguedas, Javier Macias-Guarasa, Daniel Pizarro, and Manuel Mazo. 2016. Proposal and validation of an analytical generative model of SRP-PHAT power maps in reverberant scenarios. Signal Process. 119, C (February 2016), 209–228. https://doi.org/10.1016/j.sigpro.2015.08.003
+
+Timo Speith and Jing Xu. 2024. Explainability and&nbsp;Transparency in&nbsp;Practice: A Comparison Between Corporate and&nbsp;National AI Ethics Guidelines in&nbsp;Germany and&nbsp;China. In Explainable and Transparent AI and Multi-Agent Systems: 6th International Workshop, EXTRAAMAS 2024, Auckland, New Zealand, May 6–10, 2024, Revised Selected Papers. Springer-Verlag, Berlin, Heidelberg, 205–223. https://doi.org/10.1007/978-3-031-70074-3_12
+
+Guy Paltieli. 2022. The political imaginary of National AI Strategies. AI Soc. 37, 4 (Dec 2022), 1613–1624. https://doi.org/10.1007/s00146-021-01258-1
+
+Michael Kearns and Aaron Roth. 2020. Ethical algorithm design. SIGecom Exch. 18, 1 (July 2020), 31–36. https://doi.org/10.1145/3440959.3440966
+
+Andrea Rezzani, Antonella De Angeli, María Menéndez Blanco, and Max Dorfmann. 2023. The space of user aggression in Human-Robot Interaction. In Proceedings of the 15th Biannual Conference of the Italian SIGCHI Chapter (CHItaly '23). Association for Computing Machinery, New York, NY, USA, Article 6, 1–13. https://doi.org/10.1145/3605390.3605402
+
+Alvina Lee Hui Shan, Venky Shankararaman, and Eng Lieh Ouh. 2024. Enhancing Government Service Delivery: A Case Study of ACQAR Implementation and Lessons Learned from ChatGPT Integration in a Singapore Government Agency. In Proceedings of the 25th Annual International Conference on Digital Government Research (dg.o '24). Association for Computing Machinery, New York, NY, USA, 645–653. https://doi.org/10.1145/3657054.3657130
+
+Siyu Yu and Lindred L. Greer. 2023. The Role of Resources in the Success or Failure of Diverse Teams: Resource Scarcity Activates Negative Performance-Detracting Resource Dynamics in Social Category Diverse Teams. Organization Science 34, 1 (January-February 2023), 24–50. https://doi.org/10.1287/orsc.2021.1560
+
+Kewen Peng, Joymallya Chakraborty, and Tim Menzies. 2023. FairMask: Better Fairness via Model-Based Rebalancing of Protected Attributes. IEEE Trans. Softw. Eng. 49, 4 (April 2023), 2426–2439. https://doi.org/10.1109/TSE.2022.3220713
+
+Kinjal Bhattacharyya, Pierre-Antoine Laharotte, Arthur Burianne, and Nour-Eddin El Faouzi. 2023. Assessing Connected Vehicle&amp;#x2019;s Response to Green Light Optimal Speed Advisory From Field Operational Test and Scaling Up. Trans. Intell. Transport. Sys. 24, 6 (June 2023), 6725–6736. https://doi.org/10.1109/TITS.2022.3187532
+
+Corinna Peifer, Annette Kluge, Nikol Rummel, and Dorothea Kolossa. 2020. Fostering Flow Experience in HCI to Enhance and Allocate Human Energy. In Engineering Psychology and Cognitive Ergonomics. Mental Workload, Human Physiology, and Human Energy: 17th International Conference, EPCE 2020, Held as Part of the 22nd HCI International Conference, HCII 2020, Copenhagen, Denmark, July 19–24, 2020, Proceedings, Part I. Springer-Verlag, Berlin, Heidelberg, 204–220. https://doi.org/10.1007/978-3-030-49044-7_18
+
+Arpita Srivastava, Nidhi Srivastava, Priyanka Chadha, and Rajat Gera. 2024. Mobile Shopping Apps Adoption: A Systematic Review of Theories and Future Research Directions. Int. J. E-Bus. Res. 20, 1 (Jul 2024), 1–26. https://doi.org/10.4018/IJEBR.349930
+
+Babak A. Farshchian and Marius Mikalsen. 2023. Using a Service Lens to Better Understand Practices –and Vice Versa. Comput. Supported Coop. Work 33, 3 (Sep 2024), 499–551. https://doi.org/10.1007/s10606-023-09478-3
+
+Osonde A. Osoba, Benjamin Boudreaux, and Douglas Yeung. 2020. Steps Towards Value-Aligned Systems. In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES '20). Association for Computing Machinery, New York, NY, USA, 332–336. https://doi.org/10.1145/3375627.3375872
+
+Teresa Hammerschmidt. 2025. Navigating the Nexus of ethical standards and moral values. Ethics and Inf. Technol. 27, 2 (Jun 2025). https://doi.org/10.1007/s10676-025-09826-5
+
+Melanie A. Kilian. 2019. Where to Go and What to Do: Towards Understanding Task-Based Information Behavior at Transitional Spaces. In Proceedings of the 2019 Conference on Human Information Interaction and Retrieval (CHIIR '19). Association for Computing Machinery, New York, NY, USA, 413–416. https://doi.org/10.1145/3295750.3298972
+
+Mónica López-González. 2021. Applying Human Cognition to Assured Autonomy. In HCI International 2021 - Late Breaking Papers: Multimodality, eXtended Reality, and Artificial Intelligence: 23rd HCI International Conference, HCII 2021,  Virtual Event, July 24–29, 2021, Proceedings. Springer-Verlag, Berlin, Heidelberg, 474–488. https://doi.org/10.1007/978-3-030-90963-5_36
+
+Anton Vedder and Laurens Naudts. 2017. Accountability for the use of algorithms in a big data environment. Int. Rev. Law Comput. Technol. 31, 2 (July 2017), 206–224. https://doi.org/10.1080/13600869.2017.1298547
+
+Xiao Wang, Yutong Wang, Jing Yang, Xiaofeng Jia, Lijun Li, Weiping Ding, and Fei-Yue Wang. 2024. The survey on multi-source data fusion in cyber-physical-social systems: Foundational infrastructure for industrial metaverses and industries 5.0. Inf. Fusion 107, C (Jul 2024). https://doi.org/10.1016/j.inffus.2024.102321
+
+Alan Chan, Rebecca Salganik, Alva Markelius, Chris Pang, Nitarshan Rajkumar, Dmitrii Krasheninnikov, Lauro Langosco, Zhonghao He, Yawen Duan, Micah Carroll, Michelle Lin, Alex Mayhew, Katherine Collins, Maryam Molamohammadi, John Burden, Wanru Zhao, Shalaleh Rismani, Konstantinos Voudouris, Umang Bhatt, Adrian Weller, David Krueger, and Tegan Maharaj. 2023. Harms from Increasingly Agentic Algorithmic Systems. In Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency (FAccT '23). Association for Computing Machinery, New York, NY, USA, 651–666. https://doi.org/10.1145/3593013.3594033
+
+Susana Alarcon-Licona and Lian Loke. 2017. Autistic Children's Use of Technology and Media: A Fieldwork Study. In Proceedings of the 2017 Conference on Interaction Design and Children (IDC '17). Association for Computing Machinery, New York, NY, USA, 651–658. https://doi.org/10.1145/3078072.3084338
+
+Matteo Matteucci, Fabio Fossa, Stefano Arrigoni, Giandomenico Caruso, Hafeez Husain Cholakkal, Pragyan Dahal, and Federico Cheli. 2022. Operationalizing the Ethics of Connected and Automated Vehicles: An Engineering Perspective. Int. J. Technoethics 13, 1 (Oct 2022), 1–20. https://doi.org/10.4018/IJT.291553
+
+Yiming Qian, Liangzhi Li, Huazhu Fu, Meng Wang, Qingsheng Peng, Yih Chung Tham, Chingyu Cheng, Yong Liu, Rick Siow Mong Goh, and Xinxing Xu. 2023. Category-Independent Visual Explanation for&nbsp;Medical Deep Network Understanding. In Medical Image Computing and Computer Assisted Intervention – MICCAI 2023: 26th International Conference, Vancouver, BC, Canada, October 8–12, 2023, Proceedings, Part II. Springer-Verlag, Berlin, Heidelberg, 181–191. https://doi.org/10.1007/978-3-031-43895-0_17
+
+Katyaini Lakkaraju. 2018. Human-Centric Machine Learning: Enabling Machine Learning for High-Stakes Decision-Making. Ph.D. Dissertation. Stanford University, Stanford, CA, USA. Advisor(s) Leskovec, Jure, Liang, Percy and Rudin, Cynthia. Order Number: AAI28114747.
+
+Julia Stoyanovich, Bill Howe, and H. V. Jagadish. 2020. Responsible data management. Proc. VLDB Endow. 13, 12 (August 2020), 3474–3488. https://doi.org/10.14778/3415478.3415570
+
+Rodrigo Cetina Presuel and Jose M. Martinez Sierra. 2024. The Adoption of Artificial Intelligence in Bureaucratic Decision-making: A Weberian Perspective. Digit. Gov.: Res. Pract. 5, 1, Article 6 (March 2024), 20 pages. https://doi.org/10.1145/3609861
+
+Merle Reimann, Jesper van de Graaf, Nina van Gulik, Stephanie van de Sanden, Tibert Verhagen, and Koen Hindriks. 2023. Social Robots in&nbsp;the&nbsp;Wild and&nbsp;the&nbsp;Novelty Effect. In Social Robotics: 15th International Conference, ICSR 2023, Doha, Qatar, December 3–7, 2023, Proceedings, Part II. Springer-Verlag, Berlin, Heidelberg, 38–48. https://doi.org/10.1007/978-981-99-8718-4_4
+
+Niko Tsakalakis, Sophie Stalla-Bourdillon, Dong Huynh, and Luc Moreau. 2025. A typology of explanations to support Explainability-by-Design. ACM J. Responsib. Comput. 2, 1, Article 1 (March 2025), 36 pages. https://doi.org/10.1145/3708504
+
+Paolo Giudici, Mattia Centurelli, and Stefano Turchetta. 2024. Artificial Intelligence risk measurement. Expert Syst. Appl. 235, C (Jan 2024). https://doi.org/10.1016/j.eswa.2023.121220
+
+Adegboyega Ojo, Nina Rizun, Grace Walsh, Mona Isazad Mashinchi, Maria Venosa, and Manohar Narayana Rao. 2024. Prioritising national healthcare service issues from free text feedback – A computational text analysis &amp; predictive modelling approach. Decis. Support Syst. 181, C (Jun 2024). https://doi.org/10.1016/j.dss.2024.114215
+
+Neelam Naikar and Ben Elix. 2021. Designing for self-organisation in sociotechnical systems: resilience engineering, cognitive work analysis, and the diagram of work organisation possibilities. Cogn. Technol. Work 23, 1 (Feb 2021), 23–37. https://doi.org/10.1007/s10111-019-00595-y
+
+Wei-Lin Chiang, Lianmin Zheng, Ying Sheng, Anastasios N. Angelopoulos, Tianle Li, Dacheng Li, Banghua Zhu, Hao Zhang, Michael I. Jordan, Joseph E. Gonzalez, and Ion Stoica. 2024. Chatbot arena: an open platform for evaluating LLMs by human preference. In Proceedings of the 41st International Conference on Machine Learning (ICML'24), Vol. 235. JMLR.org, Article 331, 8359–8388.
+
+Jos Wetzels, Daniel Dos Santos, and Mohammad Ghafari. 2023. Insecure by Design in the Backbone of Critical Infrastructure. In Proceedings of Cyber-Physical Systems and Internet of Things Week 2023 (CPS-IoT Week '23). Association for Computing Machinery, New York, NY, USA, 7–12. https://doi.org/10.1145/3576914.3587485
+
+Arnak Poghosyan, Ashot Harutyunyan, Tigran Bunarjyan, and Nelson Baloian. 2024. Optimizing SaaS Solutions for Enhanced Sustainability and Predictive Management of Cloud Assets. In Proceedings of the 2023 6th Artificial Intelligence and Cloud Computing Conference (AICCC '23). Association for Computing Machinery, New York, NY, USA, 204–210. https://doi.org/10.1145/3639592.3639620
+
+Juliette Regimbal, Jeffrey R. Blum, Cyan Kuo, and Jeremy R. Cooperstock. 2024. IMAGE: An Open-Source, Extensible Framework for Deploying Accessible Audio and Haptic Renderings of Web Graphics. ACM Trans. Access. Comput. 17, 2, Article 11 (June 2024), 17 pages. https://doi.org/10.1145/3665223
+
+Xuesu Xiao, Zizhao Wang, Zifan Xu, Bo Liu, Garrett Warnell, Gauraang Dhamankar, Anirudh Nair, and Peter Stone. 2022. APPL: Adaptive Planner Parameter Learning. Robot. Auton. Syst. 154, C (Aug 2022). https://doi.org/10.1016/j.robot.2022.104132
+
+Majeed Kazemitabaar, Runlong Ye, Xiaoning Wang, Austin Zachary Henley, Paul Denny, Michelle Craig, and Tovi Grossman. 2024. CodeAid: Evaluating a Classroom Deployment of an LLM-based Programming Assistant that Balances Student and Educator Needs. In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI '24). Association for Computing Machinery, New York, NY, USA, Article 650, 1–20. https://doi.org/10.1145/3613904.3642773
+
+Heather Knight and Reid Simmons. 2016. Laban head-motions convey robot state: A call for robot body language. In 2016 IEEE International Conference on Robotics and Automation (ICRA). IEEE Press, 2881–2888. https://doi.org/10.1109/ICRA.2016.7487451
+
+Matteo Fabbri. 2022. Social influence for societal interest: a pro-ethical framework for improving human decision making through multi-stakeholder recommender systems. AI Soc. 38, 2 (Apr 2023), 995–1002. https://doi.org/10.1007/s00146-022-01467-2
+
+Hantian Zhang, Nima Shahbazi, Xu Chu, and Abolfazl Asudeh. 2021. FairRover: explorative model building for fair and responsible machine learning. In Proceedings of the Fifth Workshop on Data Management for End-To-End Machine Learning (DEEM '21). Association for Computing Machinery, New York, NY, USA, Article 5, 1–10. https://doi.org/10.1145/3462462.3468882
+
+Giulio Mecacci and Filippo Santoni de Sio. 2020. Meaningful human control as reason-responsiveness: the case of dual-mode vehicles. Ethics and Inf. Technol. 22, 2 (Jun 2020), 103–115. https://doi.org/10.1007/s10676-019-09519-w
+
+Zahra Ashktorab, Mohit Jain, Q. Vera Liao, and Justin D. Weisz. 2019. Resilient Chatbots: Repair Strategy Preferences for Conversational Breakdowns. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19). Association for Computing Machinery, New York, NY, USA, Paper 254, 1–12. https://doi.org/10.1145/3290605.3300484
+
+Trystan S. Goetze. 2022. Mind the Gap: Autonomous Systems, the Responsibility Gap, and Moral Entanglement. In Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency (FAccT '22). Association for Computing Machinery, New York, NY, USA, 390–400. https://doi.org/10.1145/3531146.3533106
+
+Michael Skerker, Duncan Purves, and Ryan Jenkins. 2020. Autonomous weapons systems and the moral equality of combatants. Ethics and Inf. Technol. 22, 3 (Sep 2020), 197–209. https://doi.org/10.1007/s10676-020-09528-0
+
+Nolwenn Bernard, Ivica Kostric, and Krisztian Balog. 2024. IAI MovieBot 2.0: An Enhanced Research Platform with Trainable Neural Components and Transparent User Modeling. In Proceedings of the 17th ACM International Conference on Web Search and Data Mining (WSDM '24). Association for Computing Machinery, New York, NY, USA, 1042–1045. https://doi.org/10.1145/3616855.3635699
+
+Tim H. Stelkens-Kobsch, Hilke Boumann, Florian Piekert, Meilin Schaper, and Nils Carstengerdes. 2023. A Concept-Based Validation Approach to Validate Security Systems for Protection of Interconnected Critical Infrastructures. In Proceedings of the 18th International Conference on Availability, Reliability and Security (ARES '23). Association for Computing Machinery, New York, NY, USA, Article 110, 1–10. https://doi.org/10.1145/3600160.3605025
+
+H. Patricia McKenna. 2021. The Importance of Theory for Understanding Smart Cities: Making a Case for Ambient Theory. In Distributed, Ambient and Pervasive Interactions: 9th International Conference, DAPI 2021, Held as Part of the 23rd HCI International Conference, HCII 2021, Virtual Event, July 24–29, 2021, Proceedings. Springer-Verlag, Berlin, Heidelberg, 41–54. https://doi.org/10.1007/978-3-030-77015-0_4
+
+Francisco Gutiérrez, Nyi Nyi Htun, Vero Vanden Abeele, Robin De Croon, and Katrien Verbert. 2022. Explaining Call Recommendations in Nursing Homes: a User-Centered Design Approach for Interacting with Knowledge-Based Health Decision Support Systems. In Proceedings of the 27th International Conference on Intelligent User Interfaces (IUI '22). Association for Computing Machinery, New York, NY, USA, 162–172. https://doi.org/10.1145/3490099.3511158
+
+Anthony Francis, Claudia Pérez-D’Arpino, Chengshu Li, Fei Xia, Alexandre Alahi, Rachid Alami, Aniket Bera, Abhijat Biswas, Joydeep Biswas, Rohan Chandra, Hao-Tien Lewis Chiang, Michael Everett, Sehoon Ha, Justin Hart, Jonathan P. How, Haresh Karnan, Tsang-Wei Edward Lee, Luis J. Manso, Reuth Mirsky, Sören Pirk, Phani Teja Singamaneni, Peter Stone, Ada V. Taylor, Peter Trautman, Nathan Tsoi, Marynel Vázquez, Xuesu Xiao, Peng Xu, Naoki Yokoyama, Alexander Toshev, and Roberto Martín-Martín. 2025. Principles and Guidelines for Evaluating Social Robot Navigation Algorithms. J. Hum.-Robot Interact. 14, 2, Article 34 (June 2025), 65 pages. https://doi.org/10.1145/3700599
+
+Wen Zhang, Shumin Deng, Mingyang Chen, Liang Wang, Qiang Chen, Feiyu Xiong, Xiangwen Liu, and Huajun Chen. 2022. Knowledge Graph Embedding in E-commerce Applications: Attentive Reasoning, Explanations, and Transferable Rules. In Proceedings of the 10th International Joint Conference on Knowledge Graphs (IJCKG '21). Association for Computing Machinery, New York, NY, USA, 71–79. https://doi.org/10.1145/3502223.3502232
+
+Tong Li, Yiting Wang, Xiang Wei, Xueying Zhang, and Yu Liu. 2024. MUREQ: a multilayer framework for analyzing and operationalizing visualization requirements. Softw. Syst. Model. 23, 5 (Oct 2024), 1123–1155. https://doi.org/10.1007/s10270-024-01204-x
+
+Hassan Khosravi, Gianluca Demartini, Shazia Sadiq, and Dragan Gasevic. 2021. Charting the Design and Analytics Agenda of Learnersourcing Systems. In LAK21: 11th International Learning Analytics and Knowledge Conference (LAK21). Association for Computing Machinery, New York, NY, USA, 32–42. https://doi.org/10.1145/3448139.3448143
+
+Carlos Iván Chesñevar, María Paula González, Ana Maguitman, and Elsa Estevez. 2020. A first approach towards integrating computational argumentation in cognitive cities. In Proceedings of the 13th International Conference on Theory and Practice of Electronic Governance (ICEGOV '20). Association for Computing Machinery, New York, NY, USA, 25–32. https://doi.org/10.1145/3428502.3428506
+
+Maha Shaikh and Emmanuelle Vaast. 2023. Algorithmic Interactions in Open Source Work. Info. Sys. Research 34, 2 (June 2023), 744–765. https://doi.org/10.1287/isre.2022.1153
+
+Erdal Cayirci, Ramzan AlNaimi, and Sara Salem AlNabet. 2023. Computer Assisted Military Experimentations. In Proceedings of the Winter Simulation Conference (WSC '22). IEEE Press, 1311–1324.
+
+Yazan Mualla, Amro Najjar, Alaa Daoud, Stéphane Galland, Christophe Nicolle, Ansar-Ul-Haque Yasar, and Elhadi Shakshuki. 2019. Agent-based simulation of unmanned aerial vehicles in civilian applications: A systematic literature review and research directions. Future Gener. Comput. Syst. 100, C (Nov 2019), 344–364. https://doi.org/10.1016/j.future.2019.04.051
+
+Meihua Zuo, Spyros Angelopoulos, Zhouyang Liang, and Carol X. J. Ou. 2022. Blazing the Trail: Considering Browsing Path Dependence in Online Service Response Strategy. Information Systems Frontiers 25, 4 (Aug 2023), 1605–1619. https://doi.org/10.1007/s10796-022-10311-3
+
+Matteo Buffa. 2024. Resignifying Compliance Between Ontologies and Epistemologies of Law (Invited Paper). In Advances in Conceptual Modeling: ER 2024 Workshops, AISA, CMLS, EmpER, QUAMES, JUSMOD, LLM4Modeling, Pittsburgh, PA, USA, October 28–31, 2024, Proceedings. Springer-Verlag, Berlin, Heidelberg, 253–266. https://doi.org/10.1007/978-3-031-75599-6_19
+
+Davide Maggi, Richard Romano, Oliver Carsten, and Joost C. F. De Winter. 2022. When terminology hinders research: the colloquialisms of transitions of control in automated driving. Cogn. Technol. Work 24, 3 (Aug 2022), 509–520. https://doi.org/10.1007/s10111-022-00705-3
+
+Md. Muzakkir Hussain, M. M. Sufyan Beg, and Mohammad Saad Alam. 2020. Fog Computing for Big Data Analytics in IoT Aided Smart Grid Networks. Wirel. Pers. Commun. 114, 4 (Oct 2020), 3395–3418. https://doi.org/10.1007/s11277-020-07538-1
+
+Ian Heritage. 2019. Protecting Industry 4.0: challenges and solutions as IT, OT and IP converge. Netw. Secur. 2019, 10 (Oct 2019), 6–9. https://doi.org/10.1016/S1353-4858(19)30120-5
+
+Yong Zhu, Shuai Xiao, Zhuo Zhang, Jiabao Wen, Meng Xi, and Jiachen Yang. 2024. An Konwledge-Based Semi-supervised Active Learning Method for&nbsp;Precision Pest Disease Diagnostic. In Knowledge Science, Engineering and Management: 17th International Conference, KSEM 2024, Birmingham, UK, August 16–18, 2024, Proceedings, Part I. Springer-Verlag, Berlin, Heidelberg, 136–147. https://doi.org/10.1007/978-981-97-5492-2_11
+
+Samanta Mikuletič, Simon Vrhovec, Brigita Skela-Savič, and Boštjan Žvanut. 2024. Security and privacy oriented information security culture (ISC): Explaining unauthorized access to healthcare data by nursing employees. Comput. Secur. 136, C (Jan 2024). https://doi.org/10.1016/j.cose.2023.103489
+
+Matteo Fabbri. 2023. Self-determination through explanation: an ethical perspective on the implementation of the transparency requirements for recommender systems set by the Digital Services Act of the European Union. In Proceedings of the 2023 AAAI/ACM Conference on AI, Ethics, and Society (AIES '23). Association for Computing Machinery, New York, NY, USA, 653–661. https://doi.org/10.1145/3600211.3604717
+
+Natkamon Tovanich, Myriam Kassoul, Simon Weidenholzer, and Julien Prat. 2023. Contagion in Decentralized Lending Protocols: A Case Study of Compound. In Proceedings of the 2023 Workshop on Decentralized Finance and Security (DeFi '23). Association for Computing Machinery, New York, NY, USA, 55–63. https://doi.org/10.1145/3605768.3623544
+
+Joshua A. Kroll. 2021. Outlining Traceability: A Principle for Operationalizing Accountability in Computing Systems. In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (FAccT '21). Association for Computing Machinery, New York, NY, USA, 758–771. https://doi.org/10.1145/3442188.3445937
+
+Sebastian Uchitel. 2016. Business process adaptation using discrete event controller synthesis. In Proceedings of the International Workshop on Formal Methods for Analysis of Business Systems (ForMABS 2016). Association for Computing Machinery, New York, NY, USA, 3. https://doi.org/10.1145/2975941.2990289
+
+Mert Imre, Erhan Oztop, Yukie Nagai, and Emre Ugur. 2019. Affordance-based altruistic robotic architecture for human–robot collaboration. Adapt Behav 27, 4 (Aug 2019), 223–241. https://doi.org/10.1177/1059712318824697
+
+Sara van der Linden, Pantelis M. Papadopoulos, Nienke Nieveen, and Susan McKenney. 2023. ReflAct: Formative assessment for teacher reflection in video-coaching settings. Comput. Educ. 203, C (Oct 2023). https://doi.org/10.1016/j.compedu.2023.104843
+
+K.L. KEUNG, C.K.M. LEE, Liqiao XIA, Chao LIU, Bufan LIU, and P. JI. 2023. A cyber-physical robotic mobile fulfillment system in smart manufacturing: The simulation aspect. Robot. Comput.-Integr. Manuf. 83, C (Oct 2023). https://doi.org/10.1016/j.rcim.2023.102578
+
+Zhixin Pan and Prabhat Mishra. 2022. Hardware acceleration of explainable machine learning. In Proceedings of the 2022 Conference &amp; Exhibition on Design, Automation &amp; Test in Europe (DATE '22). European Design and Automation Association, Leuven, BEL, 1127–1130.
+
+Hong Tang, Xiangzheng Ling, Liangzhi Li, Liyan Xiong, Yu Yao, and Xiaohui Huang. 2022. One-shot pruning of gated recurrent unit neural network by sensitivity for time-series prediction. Neurocomput. 512, C (Nov 2022), 15–24. https://doi.org/10.1016/j.neucom.2022.09.026
+
+H.J. Gómez-Vallejo, B. Uriel-Latorre, M. Sande-Meijide, B. Villamarín-Bello, R. Pavón, F. Fdez-Riverola, and D. Glez-Peña. 2016. A case-based reasoning system for aiding detection and classification of nosocomial infections. Decis. Support Syst. 84, C (April 2016), 104–116. https://doi.org/10.1016/j.dss.2016.02.005
+
+Kiemute Oyibo. 2021. EMVE-DeCK: A Theory-Based Framework for Designing and Tailoring Persuasive Technology. In Adjunct Proceedings of the 29th ACM Conference on User Modeling, Adaptation and Personalization (UMAP '21). Association for Computing Machinery, New York, NY, USA, 257–267. https://doi.org/10.1145/3450614.3464617
+
+Carlos Cotta, Antonio J. Fernández-Leiva, Francisco Fernández Vega, Francisco Chávez, Juan J. Merelo, Pedro A. Castillo, David Camacho, and María D. R-Moreno. 2016. Application Areas of Ephemeral Computing: A Survey. In Transactions on Computational Collective Intelligence XXIV - Volume 9770. Springer-Verlag, Berlin, Heidelberg, 153–167. https://doi.org/10.1007/978-3-662-53525-7_9
+
+Marina De Vos, Sabrina Kirrane, Julian Padget, and Ken Satoh. 2019. ODRL Policy Modelling and Compliance Checking. In Rules and Reasoning: Third International Joint Conference, RuleML+RR 2019, Bolzano, Italy, September 16–19, 2019, Proceedings. Springer-Verlag, Berlin, Heidelberg, 36–51. https://doi.org/10.1007/978-3-030-31095-0_3
+
+Hao Li, Yu-Ping Wang, and Tai-Jiang Mu. 2019. Synthesizing Robot Programs with Interactive Tutor Mode. Int. J. Autom. Comput. 16, 4 (Aug 2019), 462–474. https://doi.org/10.1007/s11633-018-1154-7
+
+Jimmy Lin, Salman Mohammed, Royal Sequiera, and Luchen Tan. 2018. Update Delivery Mechanisms for Prospective Information Needs: An Analysis of Attention in Mobile Users. In The 41st International ACM SIGIR Conference on Research &amp; Development in Information Retrieval (SIGIR '18). Association for Computing Machinery, New York, NY, USA, 785–794. https://doi.org/10.1145/3209978.3210018
+
+Alejandro Peña, Isis Bonet, Christian Lochmuller, Francisco Chiclana, and Mario Góngora. 2018. Flexible inverse adaptive fuzzy inference model to identify the evolution of operational value at risk for improving operational risk management. Appl. Soft Comput. 65, C (Apr 2018), 614–631. https://doi.org/10.1016/j.asoc.2018.01.024
+
+Rodrigo Martínez-Castaño, Juan C. Pichel, and David E. Losada. 2018. Building Python-Based Topologies for Massive Processing of Social Media Data in Real Time. In Proceedings of the 5th Spanish Conference on Information Retrieval (CERI '18). Association for Computing Machinery, New York, NY, USA, Article 18, 1–8. https://doi.org/10.1145/3230599.3230618
+
+Srinivas Kenchappa Singadi. 2017. Earth Observation. Ph.D. Dissertation. Instituto Politecnico de Leiria (Portugal). Advisor(s) de Jesus Pereira, Antonio Mnauel. Order Number: AAI29137969.
+
+Mathias Lecuyer, Max Tucker, and Augustin Chaintreau. 2017. Improving the Transparency of the Sharing Economy. In Proceedings of the 26th International Conference on World Wide Web Companion (WWW '17 Companion). International World Wide Web Conferences Steering Committee, Republic and Canton of Geneva, CHE, 1043–1051. https://doi.org/10.1145/3041021.3055136
+
