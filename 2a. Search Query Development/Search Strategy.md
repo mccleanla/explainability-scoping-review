@@ -42,7 +42,8 @@ Specify the characteristics of the sources of evidence that will be included (e.
 4. **Does the study consider explanations at a systems level (potentially containing multiple AI components and multiple people interacting)?**
 
 
-## 2. 🔗 Search String
+## 2. 🔗 Search 
 
 The search will find papers discussing how explanations are designed to support human action within human-AI operational contexts. 
-[[2. Search String Criteria]]
+[Search Keywords](Search%20Keywords.md)
+

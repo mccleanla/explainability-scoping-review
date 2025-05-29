@@ -1,3 +1,5 @@
+Back to [Search Results](Search%20Results.md)
+
 https://www.proquest.com/myresearch/savedsearches/SavedSearches?accountid=15181
 
 JOURNALS: 103

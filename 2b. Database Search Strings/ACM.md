@@ -1,4 +1,4 @@
-Back to [[0. Search Results]]
+Back to [[Search Results]]
 
 **STANDARD DB:**
 5612 RESULTS - ALL

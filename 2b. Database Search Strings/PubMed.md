@@ -1,4 +1,4 @@
-Back to [[0. Search Results]]
+Back to [[Search Results]]
 
 *The following term was not found in PubMed: hcxai*
 *Quoted phrases not found in [phrase index](https://pubmed.ncbi.nlm.nih.gov/help/#phrase-index): "explainable agent", "explanation interface", "explanation need", "explanation requirement", "operational explanation", "human-centred XAI", "human-XAI"*

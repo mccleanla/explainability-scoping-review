@@ -1,4 +1,4 @@
-Back to [[0. Search Results]]
+Back to [[Search Results]]
 
 https://www-webofscience-com.libproxy.york.ac.uk/wos/medline/summary/f0b62bf0-6105-45fa-89cf-79423d22ac4d-01655eadb8/times-cited-descending/1
 

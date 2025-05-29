@@ -1,8 +1,7 @@
-Back to [[0. Search Results]]
+Back to [Search Results](Search%20Results.md)
+
 
 262 results + 116 pre-prints
-
-
 
 TITLE-ABS-KEY ( 
 
