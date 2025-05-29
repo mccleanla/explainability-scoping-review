@@ -2,7 +2,7 @@ I'm interested in determining what we understand about closing the gap between w
 	- In other words, **minimizing miscommunication and misinterpretation.**
 
 To do this, I'm interested in the 'lifecycle"  of explanation design decisions in the wild - from conceptualisation of needs, to design trade-offs, to evaluation of outcomes.
-- [[Operational Explainability Definition]] - *seed papers in the literature here that distinguishes operational needs from technical explainability, and a systematic review that define explainability/interpretability using safety-critical literature.*
+- [Operational Explainability Definition](../1.%20Background/Operational%20Explainability%20Definition.md) - *seed papers in the literature that distinguishes operational needs from technical explainability, and a systematic review that define explainability/interpretability using safety-critical literature.*
 
 **Scoping Review Question**
 - **“In what ways are explanations conceptualised, designed, and evaluated to support users in operational human-AI systems across domains?”**
