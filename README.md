@@ -7,8 +7,8 @@ _**In what ways are explanations conceptualised, designed, and evaluated to supp
 PRISMA requires detailed reporting of the search for each source, including dates searched and any limits used. 
 
 Search Strategy is here: [Search Strategy](2a.%20Search%20Query%20Development/Search%20Strategy.md)
-
-Search Strings and per-database count post keyword piloting are here: [Search Results](2b.%20Database%20Search%20Strings/Search%20Results.md)
+Search Keywords are here: [Search Keywords](2a.%20Search%20Query%20Development/Search%20Keywords.md)
+Per-database count of entries here: [Search Results](2b.%20Database%20Search%20Strings/Search%20Results.md)
 
 Extracted results as extracted directly from the academic search engines (Scopus, Web of Science, IEEE, ACM, Medline, Proquest ) are in the folder  ["3. Extracted Papers"](https://github.com/mccleanla/explainability-scoping-review/tree/main/3.%20Extracted%20Papers)..  
 
@@ -26,12 +26,13 @@ To determine the operational explainability of a system requires asking question
 - How should they be communicated? When?
 - How are overarching decision-making processes in an operational context considered, where they involve multiple stakeholders and roles?
 
-Some background quotes from literature sources here: [Operational Explainability Definition](<Operational Explainability Definition>)
+Some background quotes from literature sources here: [Operational Explainability Definition](1.%20Background/Operational%20Explainability%20Definition.md)
 
 ---
 ## Rationale for this work
 
-Whilst much is written about XAI and HCXAI, it is not clear how operational explainability is treated in the AI lifecycle from conceptualisation to design to evaluation.
+Whilst much is written about XAI and HCXAI, it is not clear how operational explainability is treated in the AI lifecycle from conceptualisation to design to evaluation. I'm interested in determining what we understand about closing the gap between what is being explained to users and what they understand.
+	- In other words, **minimizing miscommunication and misinterpretation.**
 
 No scoping review covers this topic explicitly, for example there is much less focus on temporal factors related to operational decision making environments and the multiple stakeholders involved in real world contexts of decision making beyond a single human-ai interaction. 
 

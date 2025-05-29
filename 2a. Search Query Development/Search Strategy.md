@@ -1,7 +1,7 @@
-==I'm interested in determining what we understand about closing the gap between what is being explained to users and what they understand==. 
-	- In other words, ==minimizing miscommunication and misinterpretation.== 
+I'm interested in determining what we understand about closing the gap between what is being explained to users and what they understand.
+	- In other words, **minimizing miscommunication and misinterpretation.**
 
-to do this, I'm interested in the 'lifecycle"  of explanation design decisions in the wild - from conceptualisation of needs, to design trade-offs, to evaluation of outcomes.
+To do this, I'm interested in the 'lifecycle"  of explanation design decisions in the wild - from conceptualisation of needs, to design trade-offs, to evaluation of outcomes.
 - [[Operational Explainability Definition]] - *seed papers in the literature here that distinguishes operational needs from technical explainability, and a systematic review that define explainability/interpretability using safety-critical literature.*
 
 **Scoping Review Question**

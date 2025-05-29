@@ -17,14 +17,14 @@ All these similar terms may or may not refer to the same thing or have overlappi
 
 - In the literature, these terms have been used both interchangeably [121] and given explicitly different definitions [122]
 
-explainability and interpretability are ==both part of ensuring that miscommunication is minimized== between the AIenabled system’s explanation of its rationale and what the users understand about its rationale [122].
-- Explainability means that the ==rationale behind an AI-enabled system’s decision== is being explained to users in the ==most efficient and effective manner at the right time==. 
-- Interpretability here means that ==users can understand what is being explained correctly, accurately, and in a timely manner. 
+explainability and interpretability are both part of ensuring that miscommunication is minimized between the AIenabled system’s explanation of its rationale and what the users understand about its rationale [122].
+- Explainability means that the rationale behind an AI-enabled system’s decision is being explained to users in the most efficient and effective manner at the right time. 
+- Interpretability here means that users can understand what is being explained correctly, accurately, and in a timely manner
 
 **And is this different to presenting AI output?**
 
 Presenting AI output to users can be done in a specific manner and time point as desired by users.  The difference between AI output and explainability and interpretability is that 
 - the former focuses on how AI output is delivered and explained to users, 
-- ==latter focuses on explaining the thinking process (the rationale) prior to producing an output. 
-- They are both focused on ==closing the gap between what is being explained to users and what they understand==. 
-- In other words, ==minimizing miscommunication and misinterpretation.
+- latter focuses on explaining the thinking process (the rationale) prior to producing an output. 
+- They are both focused on closing the gap between what is being explained to users and what they understand. 
+- In other words, minimizing miscommunication and misinterpretation.
