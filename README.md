@@ -4,7 +4,7 @@ This repository contains a CSV with the papers used for a scoping review of lite
 
 _**In what ways are explanations conceptualised, designed, and evaluated to support users in operational human-ai systems across domains?**_
 
-The unlabeled papers, as extracted directly from the academic search engines (Scopus, IEEE, ACM, PsycInfo, Medline), can be found in the subfolder "**Unlabeled Papers (all)**"
+PRISMA requires detailed reporting of the search for each source, including dates searched and any limits used. The unlabeled papers, as extracted directly from the academic search engines (Scopus, IEEE, ACM, PsycInfo, Medline), can be found in the subfolder "**Unlabeled Papers (all)**" with the date of the search recorded.
 
 **Context**
 
