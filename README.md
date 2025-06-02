@@ -15,7 +15,7 @@ Extracted results as extracted directly from the academic search engines (Scopus
 
 **Context**
 
-Explanations have become an important research topic in AI research, as a "tool" that can supports sense-making of algorithmic decisions. For example, robotics researchers have surveyed what causes the need for an explanation, and identified a variety of human–agent interaction-specific causes (https://github.com/lwachowiak/Explanation-Types-and-Need-Indicators-in-HAI/).
+Explanations have become an important research topic in AI research, as a "tool" that can support evaluation of the understandability, reliability and robustness (and thus trustworthiness) of algorithmic decisions. For example, robotics researchers have surveyed what causes the need for an explanation, and identified a variety of human–agent interaction-specific causes (https://github.com/lwachowiak/Explanation-Types-and-Need-Indicators-in-HAI/).
 
 Operational explainability (OpXAI), distinct from technical explainability (XAI), is an emergent requirement for Human-AI Teams where humans collaborate with intelligent systems. This has been recently defined by EASA as “the need for end users to receive clear, relevant, and reliable information on how an system reaches its conclusions.” EASA indicates an important evaluation characteristic is “time required to obtain an explanation”, emphasising the delivery of information at the right level of detail and timing, ensuring that explanations are clear, actionable, and tailored to real-world operational needs. 
 
